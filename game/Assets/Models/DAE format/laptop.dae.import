@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/laptop.dae-8f0d86877cf2e726584f7531628a4df2.scn"
+path="res://.import/laptop.dae-a938a6c22533395a5ae7c2c0169215e4.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/laptop.dae"
-dest_files=[ "res://.import/laptop.dae-8f0d86877cf2e726584f7531628a4df2.scn" ]
+source_file="res://assets/Models/DAE format/laptop.dae"
+dest_files=[ "res://.import/laptop.dae-a938a6c22533395a5ae7c2c0169215e4.scn" ]
 
 [params]
 

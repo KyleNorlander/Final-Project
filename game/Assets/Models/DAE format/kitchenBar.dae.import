@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenBar.dae-ff44fed78084aad8372e49eec0d15358.scn"
+path="res://.import/kitchenBar.dae-e2037bd394dc3338caf3cfb69788c51e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/kitchenBar.dae"
-dest_files=[ "res://.import/kitchenBar.dae-ff44fed78084aad8372e49eec0d15358.scn" ]
+source_file="res://assets/Models/DAE format/kitchenBar.dae"
+dest_files=[ "res://.import/kitchenBar.dae-e2037bd394dc3338caf3cfb69788c51e.scn" ]
 
 [params]
 

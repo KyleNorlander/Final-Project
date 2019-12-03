@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/showerRound.glb-b5c23145dc97a92c83249ee139cab6e8.scn"
+path="res://.import/showerRound.glb-39c01f1ae240f051160a7a0cba5f493e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/showerRound.glb"
-dest_files=[ "res://.import/showerRound.glb-b5c23145dc97a92c83249ee139cab6e8.scn" ]
+source_file="res://assets/Models/GLTF format/showerRound.glb"
+dest_files=[ "res://.import/showerRound.glb-39c01f1ae240f051160a7a0cba5f493e.scn" ]
 
 [params]
 

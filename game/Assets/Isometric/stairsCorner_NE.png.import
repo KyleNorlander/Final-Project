@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stairsCorner_NE.png-15974cb59628549b53148a5088699e05.stex"
+path="res://.import/stairsCorner_NE.png-01f81673c07981ae0281b03c37ceb8c4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/stairsCorner_NE.png"
-dest_files=[ "res://.import/stairsCorner_NE.png-15974cb59628549b53148a5088699e05.stex" ]
+source_file="res://assets/Isometric/stairsCorner_NE.png"
+dest_files=[ "res://.import/stairsCorner_NE.png-01f81673c07981ae0281b03c37ceb8c4.stex" ]
 
 [params]
 

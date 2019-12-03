@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ceilingFan.png-3a0c08b48eba5e0c6296fa224a062da0.stex"
+path="res://.import/ceilingFan.png-3f8dfd4bca0b94f72f31a41b73dc3b81.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/ceilingFan.png"
-dest_files=[ "res://.import/ceilingFan.png-3a0c08b48eba5e0c6296fa224a062da0.stex" ]
+source_file="res://assets/Side/ceilingFan.png"
+dest_files=[ "res://.import/ceilingFan.png-3f8dfd4bca0b94f72f31a41b73dc3b81.stex" ]
 
 [params]
 

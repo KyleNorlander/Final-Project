@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/paneling_SW.png-5ececb9dbfd9bb4793f794936dd2aeb5.stex"
+path="res://.import/paneling_SW.png-5063f445641cb18b3a53daee983fa858.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/paneling_SW.png"
-dest_files=[ "res://.import/paneling_SW.png-5ececb9dbfd9bb4793f794936dd2aeb5.stex" ]
+source_file="res://assets/Isometric/paneling_SW.png"
+dest_files=[ "res://.import/paneling_SW.png-5063f445641cb18b3a53daee983fa858.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/washerDryerStacked.glb-d4b510046aebdd28a87e355b4ce4ef27.scn"
+path="res://.import/washerDryerStacked.glb-1d8bd3714a7ffcae2a0880ffb15ca05c.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/washerDryerStacked.glb"
-dest_files=[ "res://.import/washerDryerStacked.glb-d4b510046aebdd28a87e355b4ce4ef27.scn" ]
+source_file="res://assets/Models/GLTF format/washerDryerStacked.glb"
+dest_files=[ "res://.import/washerDryerStacked.glb-1d8bd3714a7ffcae2a0880ffb15ca05c.scn" ]
 
 [params]
 

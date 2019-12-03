@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/televisionModern.dae-503b69f0d677a61a469766f241f42067.scn"
+path="res://.import/televisionModern.dae-513ba6bdf2a4bb247c3eed2f18c17792.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/televisionModern.dae"
-dest_files=[ "res://.import/televisionModern.dae-503b69f0d677a61a469766f241f42067.scn" ]
+source_file="res://assets/Models/DAE format/televisionModern.dae"
+dest_files=[ "res://.import/televisionModern.dae-513ba6bdf2a4bb247c3eed2f18c17792.scn" ]
 
 [params]
 

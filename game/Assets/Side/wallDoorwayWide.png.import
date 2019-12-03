@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wallDoorwayWide.png-040d8d56478ae33d688ae4bcd129d1d8.stex"
+path="res://.import/wallDoorwayWide.png-8ab492c2d9c8f0dfd8b865379a07a709.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/wallDoorwayWide.png"
-dest_files=[ "res://.import/wallDoorwayWide.png-040d8d56478ae33d688ae4bcd129d1d8.stex" ]
+source_file="res://assets/Side/wallDoorwayWide.png"
+dest_files=[ "res://.import/wallDoorwayWide.png-8ab492c2d9c8f0dfd8b865379a07a709.stex" ]
 
 [params]
 

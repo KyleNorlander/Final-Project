@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh"
+path="res://.import/kitchenCabinet.obj-dadce37a6eed05fe7d4085bd7176f123.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh" ]
+files=[ "res://.import/kitchenCabinet.obj-dadce37a6eed05fe7d4085bd7176f123.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenCabinet.obj"
-dest_files=[ "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh", "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenCabinet.obj"
+dest_files=[ "res://.import/kitchenCabinet.obj-dadce37a6eed05fe7d4085bd7176f123.mesh", "res://.import/kitchenCabinet.obj-dadce37a6eed05fe7d4085bd7176f123.mesh" ]
 
 [params]
 

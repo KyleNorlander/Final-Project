@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/doorwayOpen.png-6a11609188696df66bf4d8972258ba9c.stex"
+path="res://.import/doorwayOpen.png-ec6331794c652c4426647f0afeb1aac4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/doorwayOpen.png"
-dest_files=[ "res://.import/doorwayOpen.png-6a11609188696df66bf4d8972258ba9c.stex" ]
+source_file="res://assets/Side/doorwayOpen.png"
+dest_files=[ "res://.import/doorwayOpen.png-ec6331794c652c4426647f0afeb1aac4.stex" ]
 
 [params]
 

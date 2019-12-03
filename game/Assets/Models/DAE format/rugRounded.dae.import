@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugRounded.dae-01c90696ee453ebab1744e4905cae953.scn"
+path="res://.import/rugRounded.dae-5423ee401f120dc0654fde370d98c545.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/rugRounded.dae"
-dest_files=[ "res://.import/rugRounded.dae-01c90696ee453ebab1744e4905cae953.scn" ]
+source_file="res://assets/Models/DAE format/rugRounded.dae"
+dest_files=[ "res://.import/rugRounded.dae-5423ee401f120dc0654fde370d98c545.scn" ]
 
 [params]
 

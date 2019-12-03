@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cardboardBoxClosed.glb-221b5b97c1f31346d1c7b0fef5dab2e3.scn"
+path="res://.import/cardboardBoxClosed.glb-b0de5b2fdfd161c2e26b6e428ae78d32.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/cardboardBoxClosed.glb"
-dest_files=[ "res://.import/cardboardBoxClosed.glb-221b5b97c1f31346d1c7b0fef5dab2e3.scn" ]
+source_file="res://assets/Models/GLTF format/cardboardBoxClosed.glb"
+dest_files=[ "res://.import/cardboardBoxClosed.glb-b0de5b2fdfd161c2e26b6e428ae78d32.scn" ]
 
 [params]
 

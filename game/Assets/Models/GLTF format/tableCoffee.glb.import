@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableCoffee.glb-eaa491d7f9a724917dc6d935fd7f99b0.scn"
+path="res://.import/tableCoffee.glb-36b254264c225004e9a2828aa870b9f8.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/tableCoffee.glb"
-dest_files=[ "res://.import/tableCoffee.glb-eaa491d7f9a724917dc6d935fd7f99b0.scn" ]
+source_file="res://assets/Models/GLTF format/tableCoffee.glb"
+dest_files=[ "res://.import/tableCoffee.glb-36b254264c225004e9a2828aa870b9f8.scn" ]
 
 [params]
 

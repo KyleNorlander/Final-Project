@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairModernCushion.glb-0b5e471418891b63ebf753c68502936d.scn"
+path="res://.import/chairModernCushion.glb-66e4c322473a88692b0d1c8136ad8b8e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/chairModernCushion.glb"
-dest_files=[ "res://.import/chairModernCushion.glb-0b5e471418891b63ebf753c68502936d.scn" ]
+source_file="res://assets/Models/GLTF format/chairModernCushion.glb"
+dest_files=[ "res://.import/chairModernCushion.glb-66e4c322473a88692b0d1c8136ad8b8e.scn" ]
 
 [params]
 

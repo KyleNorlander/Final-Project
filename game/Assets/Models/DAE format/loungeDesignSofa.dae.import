@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeDesignSofa.dae-a627e5a1ae2f94a140e597a40a5fc52f.scn"
+path="res://.import/loungeDesignSofa.dae-01ae255f0aace61b35618a1cc8b1a68c.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/loungeDesignSofa.dae"
-dest_files=[ "res://.import/loungeDesignSofa.dae-a627e5a1ae2f94a140e597a40a5fc52f.scn" ]
+source_file="res://assets/Models/DAE format/loungeDesignSofa.dae"
+dest_files=[ "res://.import/loungeDesignSofa.dae-01ae255f0aace61b35618a1cc8b1a68c.scn" ]
 
 [params]
 

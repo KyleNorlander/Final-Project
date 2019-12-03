@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/wallDoorway.obj-a351714bfbff4adf8e9b709fd20bc5c4.mesh"
+path="res://.import/wallDoorway.obj-18da23722238e26cd962ceb8abbc4af8.mesh"
 
 [deps]
 
-files=[ "res://.import/wallDoorway.obj-a351714bfbff4adf8e9b709fd20bc5c4.mesh" ]
+files=[ "res://.import/wallDoorway.obj-18da23722238e26cd962ceb8abbc4af8.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/wallDoorway.obj"
-dest_files=[ "res://.import/wallDoorway.obj-a351714bfbff4adf8e9b709fd20bc5c4.mesh", "res://.import/wallDoorway.obj-a351714bfbff4adf8e9b709fd20bc5c4.mesh" ]
+source_file="res://assets/Models/OBJ format/wallDoorway.obj"
+dest_files=[ "res://.import/wallDoorway.obj-18da23722238e26cd962ceb8abbc4af8.mesh", "res://.import/wallDoorway.obj-18da23722238e26cd962ceb8abbc4af8.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomMirror.glb-344ba17e3a7f25c11da2bcaa676b0971.scn"
+path="res://.import/bathroomMirror.glb-c641fbe3ead9b3cee20e20c78d6647d8.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/bathroomMirror.glb"
-dest_files=[ "res://.import/bathroomMirror.glb-344ba17e3a7f25c11da2bcaa676b0971.scn" ]
+source_file="res://assets/Models/GLTF format/bathroomMirror.glb"
+dest_files=[ "res://.import/bathroomMirror.glb-c641fbe3ead9b3cee20e20c78d6647d8.scn" ]
 
 [params]
 

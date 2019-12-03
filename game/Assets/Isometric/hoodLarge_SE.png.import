@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hoodLarge_SE.png-79ed0e763acb173e656735652d725a0a.stex"
+path="res://.import/hoodLarge_SE.png-fdada1ae3c40c82b4875ee9ac26411ae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/hoodLarge_SE.png"
-dest_files=[ "res://.import/hoodLarge_SE.png-79ed0e763acb173e656735652d725a0a.stex" ]
+source_file="res://assets/Isometric/hoodLarge_SE.png"
+dest_files=[ "res://.import/hoodLarge_SE.png-fdada1ae3c40c82b4875ee9ac26411ae.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/deskCorner.dae-60594bf5a41b619980b97957fa99e791.scn"
+path="res://.import/deskCorner.dae-a35c2366acea6513569eecaf48184b74.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/deskCorner.dae"
-dest_files=[ "res://.import/deskCorner.dae-60594bf5a41b619980b97957fa99e791.scn" ]
+source_file="res://assets/Models/DAE format/deskCorner.dae"
+dest_files=[ "res://.import/deskCorner.dae-a35c2366acea6513569eecaf48184b74.scn" ]
 
 [params]
 
