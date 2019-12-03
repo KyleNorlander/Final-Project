@@ -658,6 +658,22 @@ material/6 = null
 [node name="CollisionShape" type="CollisionShape" parent="naturePack_011/StaticBody"]
 shape = SubResource( 11 )
 
+[node name="naturePack_012" type="MeshInstance" parent="."]
+transform = Transform( -0.975732, -0.187967, 0.112311, 0.202036, -0.970603, 0.13081, 0.0844216, 0.150327, 0.985025, 6.54856, 13.2979, -8.90551 )
+mesh = ExtResource( 6 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+
+[node name="StaticBody" type="StaticBody" parent="naturePack_012"]
+
+[node name="CollisionShape" type="CollisionShape" parent="naturePack_012/StaticBody"]
+shape = SubResource( 11 )
+
 [node name="naturePack_010" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 18.9034, 16.9592, -8.40546 )
 mesh = ExtResource( 7 )
