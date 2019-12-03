@@ -8,7 +8,7 @@ func _process(delta):
 	
 	if ms <=0:
 		s = s - 1
-		ms = 30
+		ms = 60
 		
 	
 	if s <= 0:
@@ -17,9 +17,9 @@ func _process(delta):
 		s = 59
 		
 	if s < 10:
-		set_text(str(m)+":0"+str(s)+":"+str(ms))
+		set_text(str(m)+":0"+str(s))
 	else:
-		set_text(str(m)+':'+str(s)+":"+str(ms))
+		set_text(str(m)+':'+str(s))
 	ms = ms - 1
 		
 		

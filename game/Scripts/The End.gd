@@ -1,8 +1,8 @@
 extends DirectionalLight
 
-onready var sundemon = $DirectionalLight
-var x = 0
-var y = 0
+onready var sundemon = $Sundemon
+onready var x = 0
+onready var y = 0.1
 var z = 0
 var velocity = Vector3()
 
@@ -11,8 +11,8 @@ var velocity = Vector3()
 func _ready():
 	set_process(true)
 	
-func _fixed_process(delta):
-	velocity.y = velocity.y - 5
-	
-
+func _process(delta):
+	#velocity.y= velocity.y + y
+	#THISISBROKEN
+	pass
 	
