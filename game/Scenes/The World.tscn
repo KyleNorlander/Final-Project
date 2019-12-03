@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Scenes/Bad_Lite.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Scenes/Character.tscn" type="PackedScene" id=2]
@@ -6,8 +6,7 @@
 [sub_resource type="PhysicsMaterial" id=1]
 
 [sub_resource type="SpatialMaterial" id=2]
-albedo_color = Color( 1, 0, 0, 1 )
-metallic = 1.0
+albedo_color = Color( 1, 0.819608, 0, 1 )
 
 [sub_resource type="PlaneMesh" id=3]
 material = SubResource( 2 )
@@ -15,9 +14,15 @@ material = SubResource( 2 )
 [sub_resource type="ConvexPolygonShape" id=4]
 points = PoolVector3Array( 1, 0, 1, -1, 0, 1, 1, 0, -1, -1, 0, -1 )
 
+[sub_resource type="CubeMesh" id=5]
+
+[sub_resource type="ConvexPolygonShape" id=6]
+points = PoolVector3Array( -1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, -1 )
+
 [node name="The World" type="Spatial"]
 
-[node name="Spatial" parent="." instance=ExtResource( 1 )]
+[node name="Sundemon" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.53101, 1.14569, -2.54541 )
 
 [node name="Character" parent="." instance=ExtResource( 2 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.204357, 0 )
@@ -32,3 +37,13 @@ material/0 = null
 
 [node name="CollisionShape" type="CollisionShape" parent="StaticBody"]
 shape = SubResource( 4 )
+
+[node name="test" type="StaticBody" parent="."]
+
+[node name="MeshInstance" type="MeshInstance" parent="test"]
+transform = Transform( 0.927968, 0, 0.372661, 0, 1, 0, -0.372661, 0, 0.927968, -0.775485, 1.1209, -3.88613 )
+mesh = SubResource( 5 )
+material/0 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="test"]
+shape = SubResource( 6 )
