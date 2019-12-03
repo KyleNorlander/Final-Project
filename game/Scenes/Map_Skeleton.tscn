@@ -1,0 +1,127 @@
+[gd_scene load_steps=3 format=2]
+
+[sub_resource type="CubeMesh" id=1]
+
+[sub_resource type="SpatialMaterial" id=2]
+
+[node name="Map Skeleton" type="Spatial"]
+
+[node name="Home_1_Base" type="MeshInstance" parent="."]
+transform = Transform( -8.74228e-008, 0, 5, 0, 0.1, 0, -2, 0, -2.18557e-007, 21.8949, 5.16719, 24.6831 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Home_1_Ceiling" type="MeshInstance" parent="."]
+transform = Transform( -8.74228e-008, 0, 5, 0, 0.1, 0, -2, 0, -2.18557e-007, 21.8949, 7.5488, 24.6847 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_1" type="MeshInstance" parent="."]
+transform = Transform( 2.06377e-015, 3.78976e-009, 4.33498, 1.24582, -4.37114e-009, 8.47033e-022, 5.44566e-008, 0.1, -2.18557e-007, 22.4921, 6.31943, 22.7807 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_2" type="MeshInstance" parent="."]
+transform = Transform( 2.38038e-015, 4.37114e-009, 5, 1.24582, -4.37114e-009, 8.47033e-022, 5.44566e-008, 0.1, -2.18557e-007, 21.8949, 6.31943, 26.585 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_3" type="MeshInstance" parent="."]
+transform = Transform( 5.44566e-008, 0.1, -1.668e-007, 1.24582, -4.37114e-009, 0, -4.76075e-015, -8.74228e-009, -1.90796, 26.8047, 6.31943, 24.5913 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_4" type="MeshInstance" parent="."]
+transform = Transform( 5.44566e-008, 0.1, -1.668e-007, 1.24582, -4.37114e-009, 0, -4.76075e-015, -8.74228e-009, -1.90796, 16.9842, 6.31149, 24.5913 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Hallway" type="MeshInstance" parent="."]
+transform = Transform( -1.98659e-007, 0, 0.635209, 0, 0.1, 0, -4.54479, 0, -2.77659e-008, 17.5293, 4.98153, 18.2119 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Hallway_Ceiling" type="MeshInstance" parent="."]
+transform = Transform( -1.98659e-007, 0, 0.635209, 0, 0.1, 0, -4.54479, 0, -2.77659e-008, 17.5293, 7.54665, 18.2119 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Hallway_Wall_1" type="MeshInstance" parent="."]
+transform = Transform( -1.98659e-007, 0.1, -2.77659e-008, 0, -9.74714e-009, -1.41644, -4.54479, -4.37114e-009, 1.21369e-015, 16.9978, 6.23294, 18.2119 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Hallway_Wall_2" type="MeshInstance" parent="."]
+transform = Transform( -1.98659e-007, 0.1, -2.77659e-008, 0, -9.74714e-009, -1.41644, -4.54479, -4.37114e-009, 1.21369e-015, 18.0583, 6.23294, 18.2119 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Home_2" type="MeshInstance" parent="."]
+transform = Transform( -8.74228e-008, 0, 5, 0, 0.1, 0, -2, 0, -2.18557e-007, 13.1633, 5.17687, 11.6775 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Home_2_Ceiling" type="MeshInstance" parent="."]
+transform = Transform( -8.74228e-008, 0, 5, 0, 0.1, 0, -2, 0, -2.18557e-007, 13.1633, 7.54859, 11.6775 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_5" type="MeshInstance" parent="."]
+transform = Transform( 2.13756e-015, 3.92524e-009, 4.48995, 1.24582, -4.37114e-009, 8.47033e-022, 5.44566e-008, 0.1, -2.18557e-007, 13.6755, 6.31943, 9.78071 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_6" type="MeshInstance" parent="."]
+transform = Transform( 2.08544e-015, 3.82955e-009, 4.38049, 1.24582, -4.37114e-009, 8.47033e-022, 5.44566e-008, 0.1, -2.18557e-007, 12.5512, 6.31943, 13.5759 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_7" type="MeshInstance" parent="."]
+transform = Transform( 5.44566e-008, 0.1, -1.668e-007, 1.24582, -4.37114e-009, 0, -4.76075e-015, -8.74228e-009, -1.90796, 18.0568, 6.31149, 11.7482 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Wall_8" type="MeshInstance" parent="."]
+transform = Transform( 5.44566e-008, 0.1, -1.668e-007, 1.24582, -4.37114e-009, 0, -4.89491e-015, -8.98864e-009, -1.96173, 8.25485, 6.31149, 11.6541 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Campground" type="MeshInstance" parent="."]
+transform = Transform( 10, 0, 0, 0, 0.1, 0, 0, 0, 10, -0.762264, 5.17829, -0.296886 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Outer_1" type="MeshInstance" parent="."]
+transform = Transform( 9.55343e-015, 4.37114e-009, 5, 5, -4.37114e-009, 0, 2.18557e-007, 0.1, -2.18557e-007, -6.99765, 0.068341, -10.1612 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Outer_2" type="MeshInstance" parent="."]
+transform = Transform( -2.18557e-007, -0.1, 0, 5, -4.37114e-009, 0, 0, 0, 5, -2.07334, 0.0554471, -5.23617 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Outer_3" type="MeshInstance" parent="."]
+transform = Transform( -2.18557e-007, -0.1, 0, 5, -4.37114e-009, 0, 0, 0, 5, -11.8812, 0.0554471, -5.23617 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Outer_4" type="MeshInstance" parent="."]
+transform = Transform( 9.55343e-015, 4.37114e-009, 5, 5, -4.37114e-009, 0, 2.18557e-007, 0.1, -2.18557e-007, -6.99765, 0.0517709, -0.135946 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Floor_1" type="MeshInstance" parent="."]
+transform = Transform( 4.28735, 0, 0, 0, 0.1, 0, 0, 0, 4.5595, -7.51757, 2.33044, -4.69169 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Floor_2" type="MeshInstance" parent="."]
+transform = Transform( 5, 0, 0, 0, 0.1, 0, 0, 0, 5, -6.97028, -0.95836, -5.24601 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
+
+[node name="Bunker_Bottom" type="MeshInstance" parent="."]
+transform = Transform( 5, 0, 0, 0, 0.1, 0, 0, 0, 5, -6.96457, -4.84806, -5.23181 )
+mesh = SubResource( 1 )
+material/0 = SubResource( 2 )
