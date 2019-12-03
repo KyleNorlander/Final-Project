@@ -8,6 +8,8 @@ onready var camera = $Pivot/Camera
 ###	works! 								###
 ###########################################
 
+var keygot = false
+var fusegot = false
 
 var jump_speed = 12
 var gravity = -30
@@ -67,8 +69,18 @@ func once_bitten():
 	#if colliding with enemy:
 	#	speed = speed - (speed/3)
 	pass
-
+	
+func item_get():
+	if get_node("Body").get_collider() == get_parent().get_node("Key").get_node("RayCast"):
+		keygot = true
+		print("YOU GOT A KEY!")
+	if get_node("Body").get_collider() == get_parent().get_node("Fuse").get_node("RayCast"):
+		fusegot = true
+		print("LET THERE BE LIGHT!")
+		# FUSE FLIPS HERE
+		
 func kill():
 	pass
 	### Eventually this will restart the game when the player dies.
-	
+
+
