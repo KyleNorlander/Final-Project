@@ -2295,7 +2295,16 @@ material/14 = null
 shape = SubResource( 20 )
 
 [node name="naturePack_079" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.92633, 5.21049, -1.05256 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.93066, 5.19594, -1.04883 )
+mesh = ExtResource( 36 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+
+[node name="naturePack_093" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.63206, 5.19594, -1.04883 )
 mesh = ExtResource( 36 )
 material/0 = null
 material/1 = null
