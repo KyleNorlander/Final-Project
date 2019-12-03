@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableCrossCloth.glb-9a70dc8d126d114155a751c88bea7aa0.scn"
+path="res://.import/tableCrossCloth.glb-8b190b67834245a57f176b3850a1ef98.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/tableCrossCloth.glb"
-dest_files=[ "res://.import/tableCrossCloth.glb-9a70dc8d126d114155a751c88bea7aa0.scn" ]
+source_file="res://assets/Models/GLTF format/tableCrossCloth.glb"
+dest_files=[ "res://.import/tableCrossCloth.glb-8b190b67834245a57f176b3850a1ef98.scn" ]
 
 [params]
 

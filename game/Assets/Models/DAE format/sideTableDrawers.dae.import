@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/sideTableDrawers.dae-b527831836a230a701bbc2334127b201.scn"
+path="res://.import/sideTableDrawers.dae-d9f3ea0646496ac5da5235878f93f550.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/sideTableDrawers.dae"
-dest_files=[ "res://.import/sideTableDrawers.dae-b527831836a230a701bbc2334127b201.scn" ]
+source_file="res://assets/Models/DAE format/sideTableDrawers.dae"
+dest_files=[ "res://.import/sideTableDrawers.dae-d9f3ea0646496ac5da5235878f93f550.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenCoffeeMachine.obj-18f51b95f51a26dc33266e03750594d2.mesh"
+path="res://.import/kitchenCoffeeMachine.obj-872b5409a27bda183e7de8aba4f15394.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenCoffeeMachine.obj-18f51b95f51a26dc33266e03750594d2.mesh" ]
+files=[ "res://.import/kitchenCoffeeMachine.obj-872b5409a27bda183e7de8aba4f15394.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenCoffeeMachine.obj"
-dest_files=[ "res://.import/kitchenCoffeeMachine.obj-18f51b95f51a26dc33266e03750594d2.mesh", "res://.import/kitchenCoffeeMachine.obj-18f51b95f51a26dc33266e03750594d2.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenCoffeeMachine.obj"
+dest_files=[ "res://.import/kitchenCoffeeMachine.obj-872b5409a27bda183e7de8aba4f15394.mesh", "res://.import/kitchenCoffeeMachine.obj-872b5409a27bda183e7de8aba4f15394.mesh" ]
 
 [params]
 

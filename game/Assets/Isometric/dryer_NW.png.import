@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dryer_NW.png-958b8e85c4717bdfccd6be6aacda8f05.stex"
+path="res://.import/dryer_NW.png-1ccfe862a14b2750da034d58ed2cbe80.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/dryer_NW.png"
-dest_files=[ "res://.import/dryer_NW.png-958b8e85c4717bdfccd6be6aacda8f05.stex" ]
+source_file="res://assets/Isometric/dryer_NW.png"
+dest_files=[ "res://.import/dryer_NW.png-1ccfe862a14b2750da034d58ed2cbe80.stex" ]
 
 [params]
 

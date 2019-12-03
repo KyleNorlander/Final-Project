@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenStoveElectric.glb-05c5028eefff5d8cef1c95f27cfc18c7.scn"
+path="res://.import/kitchenStoveElectric.glb-8cb541b1abad8cfde526b24f94a6c4c8.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/kitchenStoveElectric.glb"
-dest_files=[ "res://.import/kitchenStoveElectric.glb-05c5028eefff5d8cef1c95f27cfc18c7.scn" ]
+source_file="res://assets/Models/GLTF format/kitchenStoveElectric.glb"
+dest_files=[ "res://.import/kitchenStoveElectric.glb-8cb541b1abad8cfde526b24f94a6c4c8.scn" ]
 
 [params]
 

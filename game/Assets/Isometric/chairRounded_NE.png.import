@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chairRounded_NE.png-4e55f8570fe8a6cd7befc12ec6a603cd.stex"
+path="res://.import/chairRounded_NE.png-171ad8ae4883d9254281ffbc0c8a663a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/chairRounded_NE.png"
-dest_files=[ "res://.import/chairRounded_NE.png-4e55f8570fe8a6cd7befc12ec6a603cd.stex" ]
+source_file="res://assets/Isometric/chairRounded_NE.png"
+dest_files=[ "res://.import/chairRounded_NE.png-171ad8ae4883d9254281ffbc0c8a663a.stex" ]
 
 [params]
 

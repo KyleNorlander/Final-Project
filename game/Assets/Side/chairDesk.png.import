@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chairDesk.png-416c055030ef9de947dccc121cd808ba.stex"
+path="res://.import/chairDesk.png-6141916e3c51570629e19f1b03d4e2e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/chairDesk.png"
-dest_files=[ "res://.import/chairDesk.png-416c055030ef9de947dccc121cd808ba.stex" ]
+source_file="res://assets/Side/chairDesk.png"
+dest_files=[ "res://.import/chairDesk.png-6141916e3c51570629e19f1b03d4e2e8.stex" ]
 
 [params]
 

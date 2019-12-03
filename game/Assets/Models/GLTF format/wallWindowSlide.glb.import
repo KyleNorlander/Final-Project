@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallWindowSlide.glb-217b8a659c467b473c427f9126b75d9f.scn"
+path="res://.import/wallWindowSlide.glb-a809442cf81d3bf6bd9f51f30040536b.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/wallWindowSlide.glb"
-dest_files=[ "res://.import/wallWindowSlide.glb-217b8a659c467b473c427f9126b75d9f.scn" ]
+source_file="res://assets/Models/GLTF format/wallWindowSlide.glb"
+dest_files=[ "res://.import/wallWindowSlide.glb-a809442cf81d3bf6bd9f51f30040536b.scn" ]
 
 [params]
 

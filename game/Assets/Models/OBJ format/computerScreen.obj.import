@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/computerScreen.obj-5792befbeeb0a511f6ffefbce2764448.mesh"
+path="res://.import/computerScreen.obj-12bacd7bdef0ab92887ac817b41e23e7.mesh"
 
 [deps]
 
-files=[ "res://.import/computerScreen.obj-5792befbeeb0a511f6ffefbce2764448.mesh" ]
+files=[ "res://.import/computerScreen.obj-12bacd7bdef0ab92887ac817b41e23e7.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/computerScreen.obj"
-dest_files=[ "res://.import/computerScreen.obj-5792befbeeb0a511f6ffefbce2764448.mesh", "res://.import/computerScreen.obj-5792befbeeb0a511f6ffefbce2764448.mesh" ]
+source_file="res://assets/Models/OBJ format/computerScreen.obj"
+dest_files=[ "res://.import/computerScreen.obj-12bacd7bdef0ab92887ac817b41e23e7.mesh", "res://.import/computerScreen.obj-12bacd7bdef0ab92887ac817b41e23e7.mesh" ]
 
 [params]
 

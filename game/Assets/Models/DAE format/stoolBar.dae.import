@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stoolBar.dae-fa36a74d0e75da8f671df7ba24bd117e.scn"
+path="res://.import/stoolBar.dae-5ffdcfff14f1a9622280704209d6e0d9.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/stoolBar.dae"
-dest_files=[ "res://.import/stoolBar.dae-fa36a74d0e75da8f671df7ba24bd117e.scn" ]
+source_file="res://assets/Models/DAE format/stoolBar.dae"
+dest_files=[ "res://.import/stoolBar.dae-5ffdcfff14f1a9622280704209d6e0d9.scn" ]
 
 [params]
 

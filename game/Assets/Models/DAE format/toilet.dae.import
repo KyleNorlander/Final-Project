@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toilet.dae-fed313304de7b9b682db5d2bcefca3f5.scn"
+path="res://.import/toilet.dae-2f1f4d33ea50c1f6d0a8f3392e4997b6.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/toilet.dae"
-dest_files=[ "res://.import/toilet.dae-fed313304de7b9b682db5d2bcefca3f5.scn" ]
+source_file="res://assets/Models/DAE format/toilet.dae"
+dest_files=[ "res://.import/toilet.dae-2f1f4d33ea50c1f6d0a8f3392e4997b6.scn" ]
 
 [params]
 

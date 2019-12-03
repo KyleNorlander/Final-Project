@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cardboardBoxOpen.dae-d294364021cc8f72ea045261a68b1d78.scn"
+path="res://.import/cardboardBoxOpen.dae-f042a3b79f35f94e2aff3b390e2666e4.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/cardboardBoxOpen.dae"
-dest_files=[ "res://.import/cardboardBoxOpen.dae-d294364021cc8f72ea045261a68b1d78.scn" ]
+source_file="res://assets/Models/DAE format/cardboardBoxOpen.dae"
+dest_files=[ "res://.import/cardboardBoxOpen.dae-f042a3b79f35f94e2aff3b390e2666e4.scn" ]
 
 [params]
 

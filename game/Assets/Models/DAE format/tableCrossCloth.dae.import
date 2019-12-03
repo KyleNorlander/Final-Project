@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableCrossCloth.dae-e8569db2b2bae5dad54c975da1b5e77b.scn"
+path="res://.import/tableCrossCloth.dae-6b292e25eb61eb2fc03c9c513125bc28.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/tableCrossCloth.dae"
-dest_files=[ "res://.import/tableCrossCloth.dae-e8569db2b2bae5dad54c975da1b5e77b.scn" ]
+source_file="res://assets/Models/DAE format/tableCrossCloth.dae"
+dest_files=[ "res://.import/tableCrossCloth.dae-6b292e25eb61eb2fc03c9c513125bc28.scn" ]
 
 [params]
 

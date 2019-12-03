@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerKeyboard.dae-7f2ef6173ec84b801de402f749f786c6.scn"
+path="res://.import/computerKeyboard.dae-eac6de618009c679397872ae5be0d446.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/computerKeyboard.dae"
-dest_files=[ "res://.import/computerKeyboard.dae-7f2ef6173ec84b801de402f749f786c6.scn" ]
+source_file="res://assets/Models/DAE format/computerKeyboard.dae"
+dest_files=[ "res://.import/computerKeyboard.dae-eac6de618009c679397872ae5be0d446.scn" ]
 
 [params]
 

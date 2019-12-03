@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenCabinetDrawer.obj-2472e296d761d718bcfde938ddad3b42.mesh"
+path="res://.import/kitchenCabinetDrawer.obj-c3936d9696e297b620d0a88ba94e2cd7.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenCabinetDrawer.obj-2472e296d761d718bcfde938ddad3b42.mesh" ]
+files=[ "res://.import/kitchenCabinetDrawer.obj-c3936d9696e297b620d0a88ba94e2cd7.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenCabinetDrawer.obj"
-dest_files=[ "res://.import/kitchenCabinetDrawer.obj-2472e296d761d718bcfde938ddad3b42.mesh", "res://.import/kitchenCabinetDrawer.obj-2472e296d761d718bcfde938ddad3b42.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenCabinetDrawer.obj"
+dest_files=[ "res://.import/kitchenCabinetDrawer.obj-c3936d9696e297b620d0a88ba94e2cd7.mesh", "res://.import/kitchenCabinetDrawer.obj-c3936d9696e297b620d0a88ba94e2cd7.mesh" ]
 
 [params]
 

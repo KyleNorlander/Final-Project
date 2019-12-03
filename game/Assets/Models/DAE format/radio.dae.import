@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/radio.dae-d18976ce339228ddd6f00f69138b0518.scn"
+path="res://.import/radio.dae-49df30492af7eb6a198ce58b1d43fd2d.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/radio.dae"
-dest_files=[ "res://.import/radio.dae-d18976ce339228ddd6f00f69138b0518.scn" ]
+source_file="res://assets/Models/DAE format/radio.dae"
+dest_files=[ "res://.import/radio.dae-49df30492af7eb6a198ce58b1d43fd2d.scn" ]
 
 [params]
 

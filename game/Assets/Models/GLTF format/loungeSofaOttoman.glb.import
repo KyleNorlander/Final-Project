@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeSofaOttoman.glb-8e753b1d847c04d06dfe087f44d49a3b.scn"
+path="res://.import/loungeSofaOttoman.glb-36af91e59ccc24600ccfce093892cedb.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/loungeSofaOttoman.glb"
-dest_files=[ "res://.import/loungeSofaOttoman.glb-8e753b1d847c04d06dfe087f44d49a3b.scn" ]
+source_file="res://assets/Models/GLTF format/loungeSofaOttoman.glb"
+dest_files=[ "res://.import/loungeSofaOttoman.glb-36af91e59ccc24600ccfce093892cedb.scn" ]
 
 [params]
 

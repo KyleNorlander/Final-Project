@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ceilingFan_NW.png-9b7e6ea0ff7e205fcb02d9f0f6172e42.stex"
+path="res://.import/ceilingFan_NW.png-eb52460598350f868ff531c30a8e9c0f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/ceilingFan_NW.png"
-dest_files=[ "res://.import/ceilingFan_NW.png-9b7e6ea0ff7e205fcb02d9f0f6172e42.stex" ]
+source_file="res://assets/Isometric/ceilingFan_NW.png"
+dest_files=[ "res://.import/ceilingFan_NW.png-eb52460598350f868ff531c30a8e9c0f.stex" ]
 
 [params]
 

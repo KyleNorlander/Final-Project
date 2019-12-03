@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairRounded.dae-81833decb2b7fdf2cd21cfd615d61f68.scn"
+path="res://.import/chairRounded.dae-3d682ea7bf4df286be00e93fe445c332.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/chairRounded.dae"
-dest_files=[ "res://.import/chairRounded.dae-81833decb2b7fdf2cd21cfd615d61f68.scn" ]
+source_file="res://assets/Models/DAE format/chairRounded.dae"
+dest_files=[ "res://.import/chairRounded.dae-3d682ea7bf4df286be00e93fe445c332.scn" ]
 
 [params]
 

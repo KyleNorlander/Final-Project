@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenBlender_NE.png-16313157b055cdce32858d72c21f0919.stex"
+path="res://.import/kitchenBlender_NE.png-12f2f050aff4cb6b768e4b033c0cb340.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenBlender_NE.png"
-dest_files=[ "res://.import/kitchenBlender_NE.png-16313157b055cdce32858d72c21f0919.stex" ]
+source_file="res://assets/Isometric/kitchenBlender_NE.png"
+dest_files=[ "res://.import/kitchenBlender_NE.png-12f2f050aff4cb6b768e4b033c0cb340.stex" ]
 
 [params]
 

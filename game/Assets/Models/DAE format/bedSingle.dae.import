@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedSingle.dae-7bf7e62d875d5fecefaed709331da386.scn"
+path="res://.import/bedSingle.dae-a3a3190eb7ce90e80c9e925858035645.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/bedSingle.dae"
-dest_files=[ "res://.import/bedSingle.dae-7bf7e62d875d5fecefaed709331da386.scn" ]
+source_file="res://assets/Models/DAE format/bedSingle.dae"
+dest_files=[ "res://.import/bedSingle.dae-a3a3190eb7ce90e80c9e925858035645.scn" ]
 
 [params]
 

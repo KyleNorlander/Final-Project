@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCabinetUpperCorner.glb-725c0ea4a236b05f84316750f7ee98a4.scn"
+path="res://.import/kitchenCabinetUpperCorner.glb-c4e9c7ad557df44dfe47c73ee0f5582a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/kitchenCabinetUpperCorner.glb"
-dest_files=[ "res://.import/kitchenCabinetUpperCorner.glb-725c0ea4a236b05f84316750f7ee98a4.scn" ]
+source_file="res://assets/Models/GLTF format/kitchenCabinetUpperCorner.glb"
+dest_files=[ "res://.import/kitchenCabinetUpperCorner.glb-c4e9c7ad557df44dfe47c73ee0f5582a.scn" ]
 
 [params]
 

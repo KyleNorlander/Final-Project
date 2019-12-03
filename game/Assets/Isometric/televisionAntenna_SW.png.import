@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/televisionAntenna_SW.png-9c1ccd93396dfd291b43ae8df05678ea.stex"
+path="res://.import/televisionAntenna_SW.png-a4c2815595b3f9637bed8dc3aea75691.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/televisionAntenna_SW.png"
-dest_files=[ "res://.import/televisionAntenna_SW.png-9c1ccd93396dfd291b43ae8df05678ea.stex" ]
+source_file="res://assets/Isometric/televisionAntenna_SW.png"
+dest_files=[ "res://.import/televisionAntenna_SW.png-a4c2815595b3f9637bed8dc3aea75691.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenBlender.dae-93696989e5d1fd8a046de6e3dd87afe4.scn"
+path="res://.import/kitchenBlender.dae-94a3cad092d622b5f99fcb5d9f634e42.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/kitchenBlender.dae"
-dest_files=[ "res://.import/kitchenBlender.dae-93696989e5d1fd8a046de6e3dd87afe4.scn" ]
+source_file="res://assets/Models/DAE format/kitchenBlender.dae"
+dest_files=[ "res://.import/kitchenBlender.dae-94a3cad092d622b5f99fcb5d9f634e42.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenStove.dae-14d5e5ea4b7ce619587dcca1d75686b3.scn"
+path="res://.import/kitchenStove.dae-314b3807eda07d2e3d9a86115dca252c.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/kitchenStove.dae"
-dest_files=[ "res://.import/kitchenStove.dae-14d5e5ea4b7ce619587dcca1d75686b3.scn" ]
+source_file="res://assets/Models/DAE format/kitchenStove.dae"
+dest_files=[ "res://.import/kitchenStove.dae-314b3807eda07d2e3d9a86115dca252c.scn" ]
 
 [params]
 

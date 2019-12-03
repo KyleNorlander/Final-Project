@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bathtub_NW.png-445e7017c38b99dbac3b4b48940ab72f.stex"
+path="res://.import/bathtub_NW.png-e8d8508d2b4b7c2d46f1c103b202e181.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/bathtub_NW.png"
-dest_files=[ "res://.import/bathtub_NW.png-445e7017c38b99dbac3b4b48940ab72f.stex" ]
+source_file="res://assets/Isometric/bathtub_NW.png"
+dest_files=[ "res://.import/bathtub_NW.png-e8d8508d2b4b7c2d46f1c103b202e181.stex" ]
 
 [params]
 

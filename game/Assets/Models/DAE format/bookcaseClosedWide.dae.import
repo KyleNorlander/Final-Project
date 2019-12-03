@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bookcaseClosedWide.dae-84b07eb709522acfab84376f28020c36.scn"
+path="res://.import/bookcaseClosedWide.dae-280b0c6b2303a770607e667ff0ef7a0a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/bookcaseClosedWide.dae"
-dest_files=[ "res://.import/bookcaseClosedWide.dae-84b07eb709522acfab84376f28020c36.scn" ]
+source_file="res://assets/Models/DAE format/bookcaseClosedWide.dae"
+dest_files=[ "res://.import/bookcaseClosedWide.dae-280b0c6b2303a770607e667ff0ef7a0a.scn" ]
 
 [params]
 

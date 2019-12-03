@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pillowBlueLong_NW.png-329624c9d176f0609dd31faedcd095d7.stex"
+path="res://.import/pillowBlueLong_NW.png-d3dc45d24f8ecdb53cf811bf5a877fe3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/pillowBlueLong_NW.png"
-dest_files=[ "res://.import/pillowBlueLong_NW.png-329624c9d176f0609dd31faedcd095d7.stex" ]
+source_file="res://assets/Isometric/pillowBlueLong_NW.png"
+dest_files=[ "res://.import/pillowBlueLong_NW.png-d3dc45d24f8ecdb53cf811bf5a877fe3.stex" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/toiletSquare.obj-57c5eb39f951ae709c2da0622ffdc1a7.mesh"
+path="res://.import/toiletSquare.obj-64c8657f6dcd9746b2a1d5596f49360c.mesh"
 
 [deps]
 
-files=[ "res://.import/toiletSquare.obj-57c5eb39f951ae709c2da0622ffdc1a7.mesh" ]
+files=[ "res://.import/toiletSquare.obj-64c8657f6dcd9746b2a1d5596f49360c.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/toiletSquare.obj"
-dest_files=[ "res://.import/toiletSquare.obj-57c5eb39f951ae709c2da0622ffdc1a7.mesh", "res://.import/toiletSquare.obj-57c5eb39f951ae709c2da0622ffdc1a7.mesh" ]
+source_file="res://assets/Models/OBJ format/toiletSquare.obj"
+dest_files=[ "res://.import/toiletSquare.obj-64c8657f6dcd9746b2a1d5596f49360c.mesh", "res://.import/toiletSquare.obj-64c8657f6dcd9746b2a1d5596f49360c.mesh" ]
 
 [params]
 

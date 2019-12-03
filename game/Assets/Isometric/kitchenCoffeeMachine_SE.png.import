@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenCoffeeMachine_SE.png-359eff5348c9c98b5c944d8993a261ab.stex"
+path="res://.import/kitchenCoffeeMachine_SE.png-25146fdee8c1f9c14da4c4bf3eaf7208.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenCoffeeMachine_SE.png"
-dest_files=[ "res://.import/kitchenCoffeeMachine_SE.png-359eff5348c9c98b5c944d8993a261ab.stex" ]
+source_file="res://assets/Isometric/kitchenCoffeeMachine_SE.png"
+dest_files=[ "res://.import/kitchenCoffeeMachine_SE.png-25146fdee8c1f9c14da4c4bf3eaf7208.stex" ]
 
 [params]
 
