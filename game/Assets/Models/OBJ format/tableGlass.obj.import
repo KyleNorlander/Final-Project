@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableGlass.obj-4a511a789cd8dcb751a2af97f32796ca.mesh"
+
+[deps]
+
+files=[ "res://.import/tableGlass.obj-4a511a789cd8dcb751a2af97f32796ca.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/tableGlass.obj"
+dest_files=[ "res://.import/tableGlass.obj-4a511a789cd8dcb751a2af97f32796ca.mesh", "res://.import/tableGlass.obj-4a511a789cd8dcb751a2af97f32796ca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh"
+
+[deps]
+
+files=[ "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/chairModernFrameCushion.obj"
+dest_files=[ "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh", "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

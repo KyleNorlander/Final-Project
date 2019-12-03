@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh"
+
+[deps]
+
+files=[ "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/washerDryerStacked.obj"
+dest_files=[ "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh", "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

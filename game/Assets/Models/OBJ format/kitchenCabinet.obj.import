@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/kitchenCabinet.obj"
+dest_files=[ "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh", "res://.import/kitchenCabinet.obj-6e17fc04e3b6be042de3d4bef7b32c63.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

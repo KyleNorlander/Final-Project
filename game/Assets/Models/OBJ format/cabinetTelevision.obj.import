@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/cabinetTelevision.obj"
+dest_files=[ "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh", "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

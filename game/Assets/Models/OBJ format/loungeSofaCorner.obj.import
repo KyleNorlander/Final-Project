@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/loungeSofaCorner.obj-52a1eb1c2c43b3a61bf32fccd3e2669f.mesh"
+
+[deps]
+
+files=[ "res://.import/loungeSofaCorner.obj-52a1eb1c2c43b3a61bf32fccd3e2669f.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/loungeSofaCorner.obj"
+dest_files=[ "res://.import/loungeSofaCorner.obj-52a1eb1c2c43b3a61bf32fccd3e2669f.mesh", "res://.import/loungeSofaCorner.obj-52a1eb1c2c43b3a61bf32fccd3e2669f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
