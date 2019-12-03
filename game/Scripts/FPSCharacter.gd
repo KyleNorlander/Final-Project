@@ -11,9 +11,9 @@ onready var camera = $Pivot/Camera
 var keygot = false
 var fusegot = false
 
-var jump_speed = 12
+var jump_speed = 8
 var gravity = -30
-var max_speed = 8
+var max_speed = 5
 var speed = 1 # New Speed variable that will update based on no. of hitz
 var mouse_sensitivity = 0.001 # radians per pixel (1/10th of a degree)
 
