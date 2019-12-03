@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bedDouble.obj-6cc2086fb1129ef54a81d322af32007b.mesh"
+
+[deps]
+
+files=[ "res://.import/bedDouble.obj-6cc2086fb1129ef54a81d322af32007b.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/bedDouble.obj"
+dest_files=[ "res://.import/bedDouble.obj-6cc2086fb1129ef54a81d322af32007b.mesh", "res://.import/bedDouble.obj-6cc2086fb1129ef54a81d322af32007b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh"
+
+[deps]
+
+files=[ "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/benchCushionLow.obj"
+dest_files=[ "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh", "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

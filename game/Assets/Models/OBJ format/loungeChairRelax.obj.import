@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/loungeChairRelax.obj-2b9f281016c2639112e5d8538bb3edfb.mesh"
+
+[deps]
+
+files=[ "res://.import/loungeChairRelax.obj-2b9f281016c2639112e5d8538bb3edfb.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/loungeChairRelax.obj"
+dest_files=[ "res://.import/loungeChairRelax.obj-2b9f281016c2639112e5d8538bb3edfb.mesh", "res://.import/loungeChairRelax.obj-2b9f281016c2639112e5d8538bb3edfb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

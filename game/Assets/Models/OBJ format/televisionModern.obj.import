@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh"
+
+[deps]
+
+files=[ "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh" ]
+
+source_file="res://Assets/Models/OBJ format/televisionModern.obj"
+dest_files=[ "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh", "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
