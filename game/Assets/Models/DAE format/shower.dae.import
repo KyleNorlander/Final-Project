@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/shower.dae-5462ea7424a359514dba427ce8cf7e75.scn"
+path="res://.import/shower.dae-df56e13e8ace16a7bff70c0eec314a13.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/shower.dae"
-dest_files=[ "res://.import/shower.dae-5462ea7424a359514dba427ce8cf7e75.scn" ]
+source_file="res://assets/Models/DAE format/shower.dae"
+dest_files=[ "res://.import/shower.dae-df56e13e8ace16a7bff70c0eec314a13.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/doorway.glb-4f68a8e106dcbe8a4c37de8914f0726b.scn"
+path="res://.import/doorway.glb-008f395bac3384cbeb956d9ebf98ebbd.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/doorway.glb"
-dest_files=[ "res://.import/doorway.glb-4f68a8e106dcbe8a4c37de8914f0726b.scn" ]
+source_file="res://assets/Models/GLTF format/doorway.glb"
+dest_files=[ "res://.import/doorway.glb-008f395bac3384cbeb956d9ebf98ebbd.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomCabinet.glb-95062b0a6aa0a06b5908a85d5cbd2d9f.scn"
+path="res://.import/bathroomCabinet.glb-fa7e2d87e410e5e72973fc9d167ad5d4.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/bathroomCabinet.glb"
-dest_files=[ "res://.import/bathroomCabinet.glb-95062b0a6aa0a06b5908a85d5cbd2d9f.scn" ]
+source_file="res://assets/Models/GLTF format/bathroomCabinet.glb"
+dest_files=[ "res://.import/bathroomCabinet.glb-fa7e2d87e410e5e72973fc9d167ad5d4.scn" ]
 
 [params]
 

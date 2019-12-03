@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bathroomCabinetDrawer_SE.png-1359712cf690ff75e8cadc57e8902cd2.stex"
+path="res://.import/bathroomCabinetDrawer_SE.png-666535a66fa2652540bbf2f78db298f6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/bathroomCabinetDrawer_SE.png"
-dest_files=[ "res://.import/bathroomCabinetDrawer_SE.png-1359712cf690ff75e8cadc57e8902cd2.stex" ]
+source_file="res://assets/Isometric/bathroomCabinetDrawer_SE.png"
+dest_files=[ "res://.import/bathroomCabinetDrawer_SE.png-666535a66fa2652540bbf2f78db298f6.stex" ]
 
 [params]
 

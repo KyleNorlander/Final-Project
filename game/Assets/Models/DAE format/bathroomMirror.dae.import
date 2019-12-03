@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomMirror.dae-a68e305349725c03fc4a428750db9ab6.scn"
+path="res://.import/bathroomMirror.dae-65d971581096dac6c184a99079c8293f.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/bathroomMirror.dae"
-dest_files=[ "res://.import/bathroomMirror.dae-a68e305349725c03fc4a428750db9ab6.scn" ]
+source_file="res://assets/Models/DAE format/bathroomMirror.dae"
+dest_files=[ "res://.import/bathroomMirror.dae-65d971581096dac6c184a99079c8293f.scn" ]
 
 [params]
 

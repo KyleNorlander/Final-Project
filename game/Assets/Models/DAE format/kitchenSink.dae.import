@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenSink.dae-eef1071bf775d50476d7dcb2b3f88fec.scn"
+path="res://.import/kitchenSink.dae-2b073cbc65f65cc155d78a70ba7d6f4a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/kitchenSink.dae"
-dest_files=[ "res://.import/kitchenSink.dae-eef1071bf775d50476d7dcb2b3f88fec.scn" ]
+source_file="res://assets/Models/DAE format/kitchenSink.dae"
+dest_files=[ "res://.import/kitchenSink.dae-2b073cbc65f65cc155d78a70ba7d6f4a.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampSquareCeiling_NW.png-18d77f3d3bde299e3fff07b8ad83a983.stex"
+path="res://.import/lampSquareCeiling_NW.png-32ff282180aaac1f1765640e4e4b28df.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/lampSquareCeiling_NW.png"
-dest_files=[ "res://.import/lampSquareCeiling_NW.png-18d77f3d3bde299e3fff07b8ad83a983.stex" ]
+source_file="res://assets/Isometric/lampSquareCeiling_NW.png"
+dest_files=[ "res://.import/lampSquareCeiling_NW.png-32ff282180aaac1f1765640e4e4b28df.stex" ]
 
 [params]
 

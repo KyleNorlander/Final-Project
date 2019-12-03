@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampRoundFloor.glb-fe59775617f8c216e0fa3037138deabc.scn"
+path="res://.import/lampRoundFloor.glb-3e5c65cc4d4bcf9010de6d1d9cc34bbe.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/lampRoundFloor.glb"
-dest_files=[ "res://.import/lampRoundFloor.glb-fe59775617f8c216e0fa3037138deabc.scn" ]
+source_file="res://assets/Models/GLTF format/lampRoundFloor.glb"
+dest_files=[ "res://.import/lampRoundFloor.glb-3e5c65cc4d4bcf9010de6d1d9cc34bbe.scn" ]
 
 [params]
 

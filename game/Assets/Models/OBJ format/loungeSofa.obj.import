@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/loungeSofa.obj-63a398b7ce087640b65c85802c37a914.mesh"
+path="res://.import/loungeSofa.obj-aa54d2ea01659dfae58ee123b340cf83.mesh"
 
 [deps]
 
-files=[ "res://.import/loungeSofa.obj-63a398b7ce087640b65c85802c37a914.mesh" ]
+files=[ "res://.import/loungeSofa.obj-aa54d2ea01659dfae58ee123b340cf83.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/loungeSofa.obj"
-dest_files=[ "res://.import/loungeSofa.obj-63a398b7ce087640b65c85802c37a914.mesh", "res://.import/loungeSofa.obj-63a398b7ce087640b65c85802c37a914.mesh" ]
+source_file="res://assets/Models/OBJ format/loungeSofa.obj"
+dest_files=[ "res://.import/loungeSofa.obj-aa54d2ea01659dfae58ee123b340cf83.mesh", "res://.import/loungeSofa.obj-aa54d2ea01659dfae58ee123b340cf83.mesh" ]
 
 [params]
 

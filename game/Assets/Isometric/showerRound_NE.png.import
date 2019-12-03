@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/showerRound_NE.png-8aabdd752463bc5e2c57be403429736f.stex"
+path="res://.import/showerRound_NE.png-60fae643fea7786d85e92a766fc0889b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/showerRound_NE.png"
-dest_files=[ "res://.import/showerRound_NE.png-8aabdd752463bc5e2c57be403429736f.stex" ]
+source_file="res://assets/Isometric/showerRound_NE.png"
+dest_files=[ "res://.import/showerRound_NE.png-60fae643fea7786d85e92a766fc0889b.stex" ]
 
 [params]
 

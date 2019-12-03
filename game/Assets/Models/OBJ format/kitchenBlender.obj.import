@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenBlender.obj-113196a0d56fa685cc84b7f04ceb41ff.mesh"
+path="res://.import/kitchenBlender.obj-be75fb4be28f39cbd11c1833810a84f0.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenBlender.obj-113196a0d56fa685cc84b7f04ceb41ff.mesh" ]
+files=[ "res://.import/kitchenBlender.obj-be75fb4be28f39cbd11c1833810a84f0.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenBlender.obj"
-dest_files=[ "res://.import/kitchenBlender.obj-113196a0d56fa685cc84b7f04ceb41ff.mesh", "res://.import/kitchenBlender.obj-113196a0d56fa685cc84b7f04ceb41ff.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenBlender.obj"
+dest_files=[ "res://.import/kitchenBlender.obj-be75fb4be28f39cbd11c1833810a84f0.mesh", "res://.import/kitchenBlender.obj-be75fb4be28f39cbd11c1833810a84f0.mesh" ]
 
 [params]
 

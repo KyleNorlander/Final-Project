@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampSquareTable.png-8addf248b4f1a034f16dd9a9c120a9a1.stex"
+path="res://.import/lampSquareTable.png-b8f4402c8e63a61e517587939a8f6fce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/lampSquareTable.png"
-dest_files=[ "res://.import/lampSquareTable.png-8addf248b4f1a034f16dd9a9c120a9a1.stex" ]
+source_file="res://assets/Side/lampSquareTable.png"
+dest_files=[ "res://.import/lampSquareTable.png-b8f4402c8e63a61e517587939a8f6fce.stex" ]
 
 [params]
 

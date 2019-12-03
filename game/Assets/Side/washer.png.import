@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/washer.png-871cf07f240e2d53e364717f16397d3b.stex"
+path="res://.import/washer.png-a0020b169dd3f6301a7cf921116a381d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/washer.png"
-dest_files=[ "res://.import/washer.png-871cf07f240e2d53e364717f16397d3b.stex" ]
+source_file="res://assets/Side/washer.png"
+dest_files=[ "res://.import/washer.png-a0020b169dd3f6301a7cf921116a381d.stex" ]
 
 [params]
 

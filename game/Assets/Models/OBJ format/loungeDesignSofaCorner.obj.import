@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/loungeDesignSofaCorner.obj-cecd8fcbc07e2d39a3ace4bf25d212a4.mesh"
+path="res://.import/loungeDesignSofaCorner.obj-ed48cf4826c42c9abc8343eb6a3dc21d.mesh"
 
 [deps]
 
-files=[ "res://.import/loungeDesignSofaCorner.obj-cecd8fcbc07e2d39a3ace4bf25d212a4.mesh" ]
+files=[ "res://.import/loungeDesignSofaCorner.obj-ed48cf4826c42c9abc8343eb6a3dc21d.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/loungeDesignSofaCorner.obj"
-dest_files=[ "res://.import/loungeDesignSofaCorner.obj-cecd8fcbc07e2d39a3ace4bf25d212a4.mesh", "res://.import/loungeDesignSofaCorner.obj-cecd8fcbc07e2d39a3ace4bf25d212a4.mesh" ]
+source_file="res://assets/Models/OBJ format/loungeDesignSofaCorner.obj"
+dest_files=[ "res://.import/loungeDesignSofaCorner.obj-ed48cf4826c42c9abc8343eb6a3dc21d.mesh", "res://.import/loungeDesignSofaCorner.obj-ed48cf4826c42c9abc8343eb6a3dc21d.mesh" ]
 
 [params]
 

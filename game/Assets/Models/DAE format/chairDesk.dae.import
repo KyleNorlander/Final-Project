@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairDesk.dae-01f7899c63c3b8cc4ee162001c65d318.scn"
+path="res://.import/chairDesk.dae-094193031770eb943297178626e648e9.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/chairDesk.dae"
-dest_files=[ "res://.import/chairDesk.dae-01f7899c63c3b8cc4ee162001c65d318.scn" ]
+source_file="res://assets/Models/DAE format/chairDesk.dae"
+dest_files=[ "res://.import/chairDesk.dae-094193031770eb943297178626e648e9.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coatRack.glb-01220abf35420d246aba3a0fb53e88aa.scn"
+path="res://.import/coatRack.glb-f582811d41534d730212aaf3ff8228db.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/coatRack.glb"
-dest_files=[ "res://.import/coatRack.glb-01220abf35420d246aba3a0fb53e88aa.scn" ]
+source_file="res://assets/Models/GLTF format/coatRack.glb"
+dest_files=[ "res://.import/coatRack.glb-f582811d41534d730212aaf3ff8228db.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tableCoffee.obj-89bba85fc2e3ae63feca02abd8fb239a.mesh"
+path="res://.import/tableCoffee.obj-71fb40468389502a4e04bbf556e8ffca.mesh"
 
 [deps]
 
-files=[ "res://.import/tableCoffee.obj-89bba85fc2e3ae63feca02abd8fb239a.mesh" ]
+files=[ "res://.import/tableCoffee.obj-71fb40468389502a4e04bbf556e8ffca.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/tableCoffee.obj"
-dest_files=[ "res://.import/tableCoffee.obj-89bba85fc2e3ae63feca02abd8fb239a.mesh", "res://.import/tableCoffee.obj-89bba85fc2e3ae63feca02abd8fb239a.mesh" ]
+source_file="res://assets/Models/OBJ format/tableCoffee.obj"
+dest_files=[ "res://.import/tableCoffee.obj-71fb40468389502a4e04bbf556e8ffca.mesh", "res://.import/tableCoffee.obj-71fb40468389502a4e04bbf556e8ffca.mesh" ]
 
 [params]
 

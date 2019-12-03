@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bathtub.obj-9be6b017cfd626f9f91bdc67f16d3c0f.mesh"
+path="res://.import/bathtub.obj-74276b9dd34ab3e3b9831dae45ea4ed2.mesh"
 
 [deps]
 
-files=[ "res://.import/bathtub.obj-9be6b017cfd626f9f91bdc67f16d3c0f.mesh" ]
+files=[ "res://.import/bathtub.obj-74276b9dd34ab3e3b9831dae45ea4ed2.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/bathtub.obj"
-dest_files=[ "res://.import/bathtub.obj-9be6b017cfd626f9f91bdc67f16d3c0f.mesh", "res://.import/bathtub.obj-9be6b017cfd626f9f91bdc67f16d3c0f.mesh" ]
+source_file="res://assets/Models/OBJ format/bathtub.obj"
+dest_files=[ "res://.import/bathtub.obj-74276b9dd34ab3e3b9831dae45ea4ed2.mesh", "res://.import/bathtub.obj-74276b9dd34ab3e3b9831dae45ea4ed2.mesh" ]
 
 [params]
 

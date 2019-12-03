@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/chairModernCushion_NE.png-7257c2a20ab2219dda98fc694e9db2c1.stex"
+path="res://.import/chairModernCushion_NE.png-38585748cfca9888c8837dc08de3713a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/chairModernCushion_NE.png"
-dest_files=[ "res://.import/chairModernCushion_NE.png-7257c2a20ab2219dda98fc694e9db2c1.stex" ]
+source_file="res://assets/Isometric/chairModernCushion_NE.png"
+dest_files=[ "res://.import/chairModernCushion_NE.png-38585748cfca9888c8837dc08de3713a.stex" ]
 
 [params]
 

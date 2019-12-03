@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh"
+path="res://.import/televisionModern.obj-7085295f2b97a4aafa90d15601abe1a9.mesh"
 
 [deps]
 
-files=[ "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh" ]
+files=[ "res://.import/televisionModern.obj-7085295f2b97a4aafa90d15601abe1a9.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/televisionModern.obj"
-dest_files=[ "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh", "res://.import/televisionModern.obj-d4228aeceeb215aace4ac929fb29b0ad.mesh" ]
+source_file="res://assets/Models/OBJ format/televisionModern.obj"
+dest_files=[ "res://.import/televisionModern.obj-7085295f2b97a4aafa90d15601abe1a9.mesh", "res://.import/televisionModern.obj-7085295f2b97a4aafa90d15601abe1a9.mesh" ]
 
 [params]
 

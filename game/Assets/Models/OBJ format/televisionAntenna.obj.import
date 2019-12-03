@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/televisionAntenna.obj-ce3f76f75f8e987980ee22c78107b480.mesh"
+path="res://.import/televisionAntenna.obj-444a28a7612d78aadfc849f1b765aa78.mesh"
 
 [deps]
 
-files=[ "res://.import/televisionAntenna.obj-ce3f76f75f8e987980ee22c78107b480.mesh" ]
+files=[ "res://.import/televisionAntenna.obj-444a28a7612d78aadfc849f1b765aa78.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/televisionAntenna.obj"
-dest_files=[ "res://.import/televisionAntenna.obj-ce3f76f75f8e987980ee22c78107b480.mesh", "res://.import/televisionAntenna.obj-ce3f76f75f8e987980ee22c78107b480.mesh" ]
+source_file="res://assets/Models/OBJ format/televisionAntenna.obj"
+dest_files=[ "res://.import/televisionAntenna.obj-444a28a7612d78aadfc849f1b765aa78.mesh", "res://.import/televisionAntenna.obj-444a28a7612d78aadfc849f1b765aa78.mesh" ]
 
 [params]
 

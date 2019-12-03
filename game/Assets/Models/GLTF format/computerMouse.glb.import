@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerMouse.glb-636805b16075ad1615bd6b5942efd00a.scn"
+path="res://.import/computerMouse.glb-b0912c58890d5b49c16580f8143556b3.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/computerMouse.glb"
-dest_files=[ "res://.import/computerMouse.glb-636805b16075ad1615bd6b5942efd00a.scn" ]
+source_file="res://assets/Models/GLTF format/computerMouse.glb"
+dest_files=[ "res://.import/computerMouse.glb-b0912c58890d5b49c16580f8143556b3.scn" ]
 
 [params]
 

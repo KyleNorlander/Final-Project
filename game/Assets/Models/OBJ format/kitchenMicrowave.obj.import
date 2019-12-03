@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenMicrowave.obj-ee154e471fa2f660440c147e5e5e6956.mesh"
+path="res://.import/kitchenMicrowave.obj-af9353edef013f0fbd7365598187ab98.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenMicrowave.obj-ee154e471fa2f660440c147e5e5e6956.mesh" ]
+files=[ "res://.import/kitchenMicrowave.obj-af9353edef013f0fbd7365598187ab98.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenMicrowave.obj"
-dest_files=[ "res://.import/kitchenMicrowave.obj-ee154e471fa2f660440c147e5e5e6956.mesh", "res://.import/kitchenMicrowave.obj-ee154e471fa2f660440c147e5e5e6956.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenMicrowave.obj"
+dest_files=[ "res://.import/kitchenMicrowave.obj-af9353edef013f0fbd7365598187ab98.mesh", "res://.import/kitchenMicrowave.obj-af9353edef013f0fbd7365598187ab98.mesh" ]
 
 [params]
 

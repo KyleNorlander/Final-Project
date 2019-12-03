@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedBunk_SW.png-1d7d60b8bac2f08b5f91f9352a717b67.stex"
+path="res://.import/bedBunk_SW.png-f83bf4e5ce26c181b864b803ce875d72.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/bedBunk_SW.png"
-dest_files=[ "res://.import/bedBunk_SW.png-1d7d60b8bac2f08b5f91f9352a717b67.stex" ]
+source_file="res://assets/Isometric/bedBunk_SW.png"
+dest_files=[ "res://.import/bedBunk_SW.png-f83bf4e5ce26c181b864b803ce875d72.stex" ]
 
 [params]
 

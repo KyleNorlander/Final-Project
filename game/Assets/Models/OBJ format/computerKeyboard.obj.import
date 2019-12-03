@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/computerKeyboard.obj-324f443ba28c1c2aba220449f89c5817.mesh"
+path="res://.import/computerKeyboard.obj-da4ed3cfa15d694f2f17a5f6571faa4f.mesh"
 
 [deps]
 
-files=[ "res://.import/computerKeyboard.obj-324f443ba28c1c2aba220449f89c5817.mesh" ]
+files=[ "res://.import/computerKeyboard.obj-da4ed3cfa15d694f2f17a5f6571faa4f.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/computerKeyboard.obj"
-dest_files=[ "res://.import/computerKeyboard.obj-324f443ba28c1c2aba220449f89c5817.mesh", "res://.import/computerKeyboard.obj-324f443ba28c1c2aba220449f89c5817.mesh" ]
+source_file="res://assets/Models/OBJ format/computerKeyboard.obj"
+dest_files=[ "res://.import/computerKeyboard.obj-da4ed3cfa15d694f2f17a5f6571faa4f.mesh", "res://.import/computerKeyboard.obj-da4ed3cfa15d694f2f17a5f6571faa4f.mesh" ]
 
 [params]
 

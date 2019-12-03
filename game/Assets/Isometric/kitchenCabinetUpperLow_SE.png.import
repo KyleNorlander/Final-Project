@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenCabinetUpperLow_SE.png-077761fd74f699d247075026ddae8540.stex"
+path="res://.import/kitchenCabinetUpperLow_SE.png-e0a59fd3368b411d13e004cce3a7c33c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenCabinetUpperLow_SE.png"
-dest_files=[ "res://.import/kitchenCabinetUpperLow_SE.png-077761fd74f699d247075026ddae8540.stex" ]
+source_file="res://assets/Isometric/kitchenCabinetUpperLow_SE.png"
+dest_files=[ "res://.import/kitchenCabinetUpperLow_SE.png-e0a59fd3368b411d13e004cce3a7c33c.stex" ]
 
 [params]
 
