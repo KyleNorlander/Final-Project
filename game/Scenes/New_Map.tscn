@@ -5299,7 +5299,7 @@ material/2 = null
 material/3 = null
 
 [node name="naturePack_145" type="MeshInstance" parent="."]
-transform = Transform( 0.418802, 0, 0.908078, 0, 1, 0, -0.908078, 0, 0.418802, -0.107374, 4.86909, -0.113069 )
+transform = Transform( 0.418802, 0, 0.908078, 0, 1, 0, -0.908078, 0, 0.418802, -0.107374, 5.06399, -0.113069 )
 mesh = ExtResource( 52 )
 material/0 = null
 material/1 = null
