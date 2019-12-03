@@ -1,4 +1,4 @@
-[gd_scene load_steps=56 format=2]
+[gd_scene load_steps=72 format=2]
 
 [ext_resource path="res://Assets/Models/naturePack_001.obj" type="ArrayMesh" id=1]
 [ext_resource path="res://Assets/Models/naturePack_019.obj" type="ArrayMesh" id=2]
@@ -53,6 +53,22 @@
 [ext_resource path="res://Assets/Models/naturePack_051.obj" type="ArrayMesh" id=51]
 [ext_resource path="res://Assets/Models/naturePack_052.obj" type="ArrayMesh" id=52]
 [ext_resource path="res://Assets/Models/naturePack_053.obj" type="ArrayMesh" id=53]
+[ext_resource path="res://Assets/Models/naturePack_085.obj" type="ArrayMesh" id=54]
+[ext_resource path="res://Assets/Models/naturePack_084.obj" type="ArrayMesh" id=55]
+[ext_resource path="res://Assets/Models/naturePack_086.obj" type="ArrayMesh" id=56]
+[ext_resource path="res://Assets/Models/naturePack_087.obj" type="ArrayMesh" id=57]
+[ext_resource path="res://Assets/Models/naturePack_088.obj" type="ArrayMesh" id=58]
+[ext_resource path="res://Assets/Models/naturePack_089.obj" type="ArrayMesh" id=59]
+[ext_resource path="res://Assets/Models/naturePack_090.obj" type="ArrayMesh" id=60]
+[ext_resource path="res://Assets/Models/naturePack_091.obj" type="ArrayMesh" id=61]
+[ext_resource path="res://Assets/Models/naturePack_092.obj" type="ArrayMesh" id=62]
+[ext_resource path="res://Assets/Models/naturePack_093.obj" type="ArrayMesh" id=63]
+[ext_resource path="res://Assets/Models/naturePack_095.obj" type="ArrayMesh" id=64]
+[ext_resource path="res://Assets/Models/naturePack_102.obj" type="ArrayMesh" id=65]
+[ext_resource path="res://Assets/Models/naturePack_111.obj" type="ArrayMesh" id=66]
+[ext_resource path="res://Assets/Models/naturePack_112.obj" type="ArrayMesh" id=67]
+[ext_resource path="res://Assets/Models/naturePack_113.obj" type="ArrayMesh" id=68]
+[ext_resource path="res://Assets/Models/naturePack_124.obj" type="ArrayMesh" id=69]
 
 [sub_resource type="CubeMesh" id=1]
 
@@ -725,4 +741,183 @@ material/3 = null
 [node name="naturePack_053" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.80861, 5.27829, -8.33933 )
 mesh = ExtResource( 53 )
+material/0 = null
+
+[node name="naturePack_085" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.17018, 5.27829, 7.17726 )
+mesh = ExtResource( 54 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+material/21 = null
+material/22 = null
+material/23 = null
+material/24 = null
+material/25 = null
+
+[node name="naturePack_084" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.27688, 5.77416, 8.10022 )
+mesh = ExtResource( 55 )
+material/0 = null
+material/1 = null
+material/2 = null
+
+[node name="naturePack_086" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.94418, 5.27829, 9.09734 )
+mesh = ExtResource( 56 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+
+[node name="naturePack_087" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.62929, 5.27829, 9.39618 )
+mesh = ExtResource( 57 )
+material/0 = null
+
+[node name="naturePack_088" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.387182, 6.07102, 9.92712 )
+mesh = ExtResource( 58 )
+material/0 = null
+
+[node name="naturePack_089" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.12242, 6.36216, 11.3462 )
+mesh = ExtResource( 59 )
+material/0 = null
+
+[node name="naturePack_090" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.73022, 5.27829, 5.78975 )
+mesh = ExtResource( 60 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="naturePack_091" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.78116, 5.47935, 4.86214 )
+mesh = ExtResource( 61 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+
+[node name="naturePack_092" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.45769, 5.27829, -7.78663 )
+mesh = ExtResource( 62 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+
+[node name="naturePack_093" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.33309, 5.57829, -10.624 )
+mesh = ExtResource( 63 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+
+[node name="naturePack_095" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.81211, 5.27829, -6.33085 )
+mesh = ExtResource( 64 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+material/7 = null
+material/8 = null
+material/9 = null
+material/10 = null
+material/11 = null
+material/12 = null
+material/13 = null
+material/14 = null
+material/15 = null
+material/16 = null
+material/17 = null
+material/18 = null
+material/19 = null
+material/20 = null
+
+[node name="naturePack_102" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.49347, 5.64682, 2.82788 )
+mesh = ExtResource( 65 )
+material/0 = null
+
+[node name="naturePack_111" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.5371, 5.31683, 1.63326 )
+mesh = ExtResource( 66 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="naturePack_112" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 7.07025, 5.27829, 1.81371 )
+mesh = ExtResource( 67 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+
+[node name="naturePack_113" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.64513, 5.27829, 2.43374 )
+mesh = ExtResource( 68 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+
+[node name="naturePack_124" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.48122, 5.61373, 2.92548 )
+mesh = ExtResource( 69 )
 material/0 = null
