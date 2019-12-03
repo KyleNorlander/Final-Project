@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenMicrowave.dae-1b205edc1adba64cdf4b4613d02f2fff.scn"
+path="res://.import/kitchenMicrowave.dae-68debb77b962a2ed6715017575076122.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenMicrowave.dae"
-dest_files=[ "res://.import/kitchenMicrowave.dae-1b205edc1adba64cdf4b4613d02f2fff.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenMicrowave.dae"
+dest_files=[ "res://.import/kitchenMicrowave.dae-68debb77b962a2ed6715017575076122.scn" ]
 
 [params]
 

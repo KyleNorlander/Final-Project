@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/paneling.glb-cb0e25b5eb7fa0e01a329d5c36bd0684.scn"
+path="res://.import/paneling.glb-6476bb11f95dfba82e35addada56176b.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/paneling.glb"
-dest_files=[ "res://.import/paneling.glb-cb0e25b5eb7fa0e01a329d5c36bd0684.scn" ]
+source_file="res://Assets/Models/GLTF format/paneling.glb"
+dest_files=[ "res://.import/paneling.glb-6476bb11f95dfba82e35addada56176b.scn" ]
 
 [params]
 

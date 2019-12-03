@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/shower.glb-3e3aadd81418c9c24e9a2250677849ce.scn"
+path="res://.import/shower.glb-90d189c4417054f9e1ebf78564455365.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/shower.glb"
-dest_files=[ "res://.import/shower.glb-3e3aadd81418c9c24e9a2250677849ce.scn" ]
+source_file="res://Assets/Models/GLTF format/shower.glb"
+dest_files=[ "res://.import/shower.glb-90d189c4417054f9e1ebf78564455365.scn" ]
 
 [params]
 

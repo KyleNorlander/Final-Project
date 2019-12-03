@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/naturePack_173.gltf-23dcb18b06b5facd4a0301c6753252e7.scn"
+path="res://.import/naturePack_173.gltf-1951e2f5ba50c6d68b2908d78826d497.scn"
 
 [deps]
 
-source_file="res://assets/Models/glTF/naturePack_173.gltf"
-dest_files=[ "res://.import/naturePack_173.gltf-23dcb18b06b5facd4a0301c6753252e7.scn" ]
+source_file="res://Assets/Models/glTF/naturePack_173.gltf"
+dest_files=[ "res://.import/naturePack_173.gltf-1951e2f5ba50c6d68b2908d78826d497.scn" ]
 
 [params]
 

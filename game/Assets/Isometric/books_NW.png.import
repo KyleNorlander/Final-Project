@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/books_NW.png-65ccc3e0ad927d421b7bba7a5e7024aa.stex"
+path="res://.import/books_NW.png-23f525ee6053afd42bcfd19ca02e6ed6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/books_NW.png"
-dest_files=[ "res://.import/books_NW.png-65ccc3e0ad927d421b7bba7a5e7024aa.stex" ]
+source_file="res://Assets/Isometric/books_NW.png"
+dest_files=[ "res://.import/books_NW.png-23f525ee6053afd42bcfd19ca02e6ed6.stex" ]
 
 [params]
 

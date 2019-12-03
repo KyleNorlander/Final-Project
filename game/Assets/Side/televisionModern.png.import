@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/televisionModern.png-a5ec41ff00092e978130035b4933be3d.stex"
+path="res://.import/televisionModern.png-9980df11323e3b86aa923db8a61daf71.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/televisionModern.png"
-dest_files=[ "res://.import/televisionModern.png-a5ec41ff00092e978130035b4933be3d.stex" ]
+source_file="res://Assets/Side/televisionModern.png"
+dest_files=[ "res://.import/televisionModern.png-9980df11323e3b86aa923db8a61daf71.stex" ]
 
 [params]
 

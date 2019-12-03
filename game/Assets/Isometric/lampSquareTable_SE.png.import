@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampSquareTable_SE.png-de8cb17b142ea26075b9f3322d65289e.stex"
+path="res://.import/lampSquareTable_SE.png-a8678b0552882b94070c95c66ab9a79b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/lampSquareTable_SE.png"
-dest_files=[ "res://.import/lampSquareTable_SE.png-de8cb17b142ea26075b9f3322d65289e.stex" ]
+source_file="res://Assets/Isometric/lampSquareTable_SE.png"
+dest_files=[ "res://.import/lampSquareTable_SE.png-a8678b0552882b94070c95c66ab9a79b.stex" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/pottedPlant.obj-2e452c4f733a3f8dd2131c463a7672c6.mesh"
+path="res://.import/pottedPlant.obj-50d727287a177c27ee914bf7366ce817.mesh"
 
 [deps]
 
-files=[ "res://.import/pottedPlant.obj-2e452c4f733a3f8dd2131c463a7672c6.mesh" ]
+files=[ "res://.import/pottedPlant.obj-50d727287a177c27ee914bf7366ce817.mesh" ]
 
-source_file="res://assets/Models/OBJ format/pottedPlant.obj"
-dest_files=[ "res://.import/pottedPlant.obj-2e452c4f733a3f8dd2131c463a7672c6.mesh", "res://.import/pottedPlant.obj-2e452c4f733a3f8dd2131c463a7672c6.mesh" ]
+source_file="res://Assets/Models/OBJ format/pottedPlant.obj"
+dest_files=[ "res://.import/pottedPlant.obj-50d727287a177c27ee914bf7366ce817.mesh", "res://.import/pottedPlant.obj-50d727287a177c27ee914bf7366ce817.mesh" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toaster_SW.png-63949d5896eab35e3186c2938f95016c.stex"
+path="res://.import/toaster_SW.png-aae794cd8ce66b36240817581d8f1ef4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/toaster_SW.png"
-dest_files=[ "res://.import/toaster_SW.png-63949d5896eab35e3186c2938f95016c.stex" ]
+source_file="res://Assets/Isometric/toaster_SW.png"
+dest_files=[ "res://.import/toaster_SW.png-aae794cd8ce66b36240817581d8f1ef4.stex" ]
 
 [params]
 

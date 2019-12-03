@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinetBedDrawer_SE.png-4a3e38c0a901a80004207084590d26cb.stex"
+path="res://.import/cabinetBedDrawer_SE.png-f704b1457be6a41c4a86c50a79129cf0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/cabinetBedDrawer_SE.png"
-dest_files=[ "res://.import/cabinetBedDrawer_SE.png-4a3e38c0a901a80004207084590d26cb.stex" ]
+source_file="res://Assets/Isometric/cabinetBedDrawer_SE.png"
+dest_files=[ "res://.import/cabinetBedDrawer_SE.png-f704b1457be6a41c4a86c50a79129cf0.stex" ]
 
 [params]
 

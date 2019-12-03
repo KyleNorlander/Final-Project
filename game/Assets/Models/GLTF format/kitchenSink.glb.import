@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenSink.glb-4a9b77990d461660d50e8315df0f3cea.scn"
+path="res://.import/kitchenSink.glb-435026b289469541befb1e96f493a545.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenSink.glb"
-dest_files=[ "res://.import/kitchenSink.glb-4a9b77990d461660d50e8315df0f3cea.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenSink.glb"
+dest_files=[ "res://.import/kitchenSink.glb-435026b289469541befb1e96f493a545.scn" ]
 
 [params]
 

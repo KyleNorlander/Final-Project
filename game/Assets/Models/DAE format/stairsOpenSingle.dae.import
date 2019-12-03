@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairsOpenSingle.dae-ba510c720974511dd40c565b002b9f77.scn"
+path="res://.import/stairsOpenSingle.dae-008df666731b13d795545308428efe69.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/stairsOpenSingle.dae"
-dest_files=[ "res://.import/stairsOpenSingle.dae-ba510c720974511dd40c565b002b9f77.scn" ]
+source_file="res://Assets/Models/DAE format/stairsOpenSingle.dae"
+dest_files=[ "res://.import/stairsOpenSingle.dae-008df666731b13d795545308428efe69.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampWall.glb-54a8395129242abdd2b95d46df073639.scn"
+path="res://.import/lampWall.glb-0224b430634c49db376fb068f21a3425.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/lampWall.glb"
-dest_files=[ "res://.import/lampWall.glb-54a8395129242abdd2b95d46df073639.scn" ]
+source_file="res://Assets/Models/GLTF format/lampWall.glb"
+dest_files=[ "res://.import/lampWall.glb-0224b430634c49db376fb068f21a3425.scn" ]
 
 [params]
 

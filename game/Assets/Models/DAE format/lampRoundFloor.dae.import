@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampRoundFloor.dae-037a3a75ad96d4075385d083f0a201ac.scn"
+path="res://.import/lampRoundFloor.dae-4f06463f4dab82e209acf56cdf603e80.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/lampRoundFloor.dae"
-dest_files=[ "res://.import/lampRoundFloor.dae-037a3a75ad96d4075385d083f0a201ac.scn" ]
+source_file="res://Assets/Models/DAE format/lampRoundFloor.dae"
+dest_files=[ "res://.import/lampRoundFloor.dae-4f06463f4dab82e209acf56cdf603e80.scn" ]
 
 [params]
 

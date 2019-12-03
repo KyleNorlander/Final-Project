@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCabinetDrawer.glb-05ece65c62bd5a3cbb277026e8def78e.scn"
+path="res://.import/kitchenCabinetDrawer.glb-4372261028d0952cb14679d5bfaa6e60.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenCabinetDrawer.glb"
-dest_files=[ "res://.import/kitchenCabinetDrawer.glb-05ece65c62bd5a3cbb277026e8def78e.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenCabinetDrawer.glb"
+dest_files=[ "res://.import/kitchenCabinetDrawer.glb-4372261028d0952cb14679d5bfaa6e60.scn" ]
 
 [params]
 

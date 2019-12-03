@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bench_NW.png-a1d3bec9e5a0511d64463cb07b14b557.stex"
+path="res://.import/bench_NW.png-9e162a5503a63d9a5031bf0fc4a41157.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bench_NW.png"
-dest_files=[ "res://.import/bench_NW.png-a1d3bec9e5a0511d64463cb07b14b557.stex" ]
+source_file="res://Assets/Isometric/bench_NW.png"
+dest_files=[ "res://.import/bench_NW.png-9e162a5503a63d9a5031bf0fc4a41157.stex" ]
 
 [params]
 

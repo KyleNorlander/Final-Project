@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cardboardBoxClosed.obj-6ab93ef17f9d743edbacdcc14b65f05a.mesh"
+path="res://.import/cardboardBoxClosed.obj-4bf18f9751287c2570723732104c3ae9.mesh"
 
 [deps]
 
-files=[ "res://.import/cardboardBoxClosed.obj-6ab93ef17f9d743edbacdcc14b65f05a.mesh" ]
+files=[ "res://.import/cardboardBoxClosed.obj-4bf18f9751287c2570723732104c3ae9.mesh" ]
 
-source_file="res://assets/Models/OBJ format/cardboardBoxClosed.obj"
-dest_files=[ "res://.import/cardboardBoxClosed.obj-6ab93ef17f9d743edbacdcc14b65f05a.mesh", "res://.import/cardboardBoxClosed.obj-6ab93ef17f9d743edbacdcc14b65f05a.mesh" ]
+source_file="res://Assets/Models/OBJ format/cardboardBoxClosed.obj"
+dest_files=[ "res://.import/cardboardBoxClosed.obj-4bf18f9751287c2570723732104c3ae9.mesh", "res://.import/cardboardBoxClosed.obj-4bf18f9751287c2570723732104c3ae9.mesh" ]
 
 [params]
 

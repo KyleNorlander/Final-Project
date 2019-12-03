@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallDoorway.glb-51c32d7a52741ac6bdf3f9d3372b8926.scn"
+path="res://.import/wallDoorway.glb-dc9957d53bcf7fbb5b71b389d90ffd3e.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/wallDoorway.glb"
-dest_files=[ "res://.import/wallDoorway.glb-51c32d7a52741ac6bdf3f9d3372b8926.scn" ]
+source_file="res://Assets/Models/GLTF format/wallDoorway.glb"
+dest_files=[ "res://.import/wallDoorway.glb-dc9957d53bcf7fbb5b71b389d90ffd3e.scn" ]
 
 [params]
 

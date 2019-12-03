@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetTelevision.glb-dbbb9a9eadcce8464acbb80248f28895.scn"
+path="res://.import/cabinetTelevision.glb-9fcd8f861da027ea46da32cd34289c14.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/cabinetTelevision.glb"
-dest_files=[ "res://.import/cabinetTelevision.glb-dbbb9a9eadcce8464acbb80248f28895.scn" ]
+source_file="res://Assets/Models/GLTF format/cabinetTelevision.glb"
+dest_files=[ "res://.import/cabinetTelevision.glb-9fcd8f861da027ea46da32cd34289c14.scn" ]
 
 [params]
 

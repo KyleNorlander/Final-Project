@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rugDoormat_NE.png-ecb3c861734996f12187a6f5d49ae041.stex"
+path="res://.import/rugDoormat_NE.png-1457efee526fd6399f41f7b6a5353770.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/rugDoormat_NE.png"
-dest_files=[ "res://.import/rugDoormat_NE.png-ecb3c861734996f12187a6f5d49ae041.stex" ]
+source_file="res://Assets/Isometric/rugDoormat_NE.png"
+dest_files=[ "res://.import/rugDoormat_NE.png-1457efee526fd6399f41f7b6a5353770.stex" ]
 
 [params]
 

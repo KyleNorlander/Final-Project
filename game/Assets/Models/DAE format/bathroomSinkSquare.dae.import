@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomSinkSquare.dae-4ba1267eed74c4d62b26730b75695b68.scn"
+path="res://.import/bathroomSinkSquare.dae-34c38a5f39b95da690387890a82ce1f7.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/bathroomSinkSquare.dae"
-dest_files=[ "res://.import/bathroomSinkSquare.dae-4ba1267eed74c4d62b26730b75695b68.scn" ]
+source_file="res://Assets/Models/DAE format/bathroomSinkSquare.dae"
+dest_files=[ "res://.import/bathroomSinkSquare.dae-34c38a5f39b95da690387890a82ce1f7.scn" ]
 
 [params]
 

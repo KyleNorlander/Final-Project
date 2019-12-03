@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rugDoormat.obj-f39463c5132723e0bf6dadf940255495.mesh"
+path="res://.import/rugDoormat.obj-00313b940f026d10febe967000796dcd.mesh"
 
 [deps]
 
-files=[ "res://.import/rugDoormat.obj-f39463c5132723e0bf6dadf940255495.mesh" ]
+files=[ "res://.import/rugDoormat.obj-00313b940f026d10febe967000796dcd.mesh" ]
 
-source_file="res://assets/Models/OBJ format/rugDoormat.obj"
-dest_files=[ "res://.import/rugDoormat.obj-f39463c5132723e0bf6dadf940255495.mesh", "res://.import/rugDoormat.obj-f39463c5132723e0bf6dadf940255495.mesh" ]
+source_file="res://Assets/Models/OBJ format/rugDoormat.obj"
+dest_files=[ "res://.import/rugDoormat.obj-00313b940f026d10febe967000796dcd.mesh", "res://.import/rugDoormat.obj-00313b940f026d10febe967000796dcd.mesh" ]
 
 [params]
 

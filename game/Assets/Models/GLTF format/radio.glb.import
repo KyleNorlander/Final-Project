@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/radio.glb-6ff4b63cc62c324251a17ab7fe00d6e4.scn"
+path="res://.import/radio.glb-1c216b228ac39f3da194bd09444d9887.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/radio.glb"
-dest_files=[ "res://.import/radio.glb-6ff4b63cc62c324251a17ab7fe00d6e4.scn" ]
+source_file="res://Assets/Models/GLTF format/radio.glb"
+dest_files=[ "res://.import/radio.glb-1c216b228ac39f3da194bd09444d9887.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenStoveElectric_SE.png-7c28c5be3d43ac3c8aad7abf817e3635.stex"
+path="res://.import/kitchenStoveElectric_SE.png-edef927ea189a34f9eec369cfea2da07.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/kitchenStoveElectric_SE.png"
-dest_files=[ "res://.import/kitchenStoveElectric_SE.png-7c28c5be3d43ac3c8aad7abf817e3635.stex" ]
+source_file="res://Assets/Isometric/kitchenStoveElectric_SE.png"
+dest_files=[ "res://.import/kitchenStoveElectric_SE.png-edef927ea189a34f9eec369cfea2da07.stex" ]
 
 [params]
 

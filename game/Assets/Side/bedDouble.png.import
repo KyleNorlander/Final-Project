@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedDouble.png-650e9c711aad0f2e72220abf7a1e96a0.stex"
+path="res://.import/bedDouble.png-458092223c3459bf15df98555c42bed0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/bedDouble.png"
-dest_files=[ "res://.import/bedDouble.png-650e9c711aad0f2e72220abf7a1e96a0.stex" ]
+source_file="res://Assets/Side/bedDouble.png"
+dest_files=[ "res://.import/bedDouble.png-458092223c3459bf15df98555c42bed0.stex" ]
 
 [params]
 

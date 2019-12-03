@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCabinetUpperCorner.dae-8948ea77b5ca72c44e88cfe71832f167.scn"
+path="res://.import/kitchenCabinetUpperCorner.dae-ab2911ab3016988cad005a8560f7d6a7.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenCabinetUpperCorner.dae"
-dest_files=[ "res://.import/kitchenCabinetUpperCorner.dae-8948ea77b5ca72c44e88cfe71832f167.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenCabinetUpperCorner.dae"
+dest_files=[ "res://.import/kitchenCabinetUpperCorner.dae-ab2911ab3016988cad005a8560f7d6a7.scn" ]
 
 [params]
 

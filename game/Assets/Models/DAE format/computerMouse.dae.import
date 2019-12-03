@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerMouse.dae-b7404560a2c270889ce24114f10cdd22.scn"
+path="res://.import/computerMouse.dae-b991269b2cc836c042e4f235b6216872.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/computerMouse.dae"
-dest_files=[ "res://.import/computerMouse.dae-b7404560a2c270889ce24114f10cdd22.scn" ]
+source_file="res://Assets/Models/DAE format/computerMouse.dae"
+dest_files=[ "res://.import/computerMouse.dae-b991269b2cc836c042e4f235b6216872.scn" ]
 
 [params]
 

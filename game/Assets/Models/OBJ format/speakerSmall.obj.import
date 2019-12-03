@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/speakerSmall.obj-2ce7fd850991e97c27b0945bf2f8d964.mesh"
+path="res://.import/speakerSmall.obj-f500cef4be89b84c60ceff82f76d5d47.mesh"
 
 [deps]
 
-files=[ "res://.import/speakerSmall.obj-2ce7fd850991e97c27b0945bf2f8d964.mesh" ]
+files=[ "res://.import/speakerSmall.obj-f500cef4be89b84c60ceff82f76d5d47.mesh" ]
 
-source_file="res://assets/Models/OBJ format/speakerSmall.obj"
-dest_files=[ "res://.import/speakerSmall.obj-2ce7fd850991e97c27b0945bf2f8d964.mesh", "res://.import/speakerSmall.obj-2ce7fd850991e97c27b0945bf2f8d964.mesh" ]
+source_file="res://Assets/Models/OBJ format/speakerSmall.obj"
+dest_files=[ "res://.import/speakerSmall.obj-f500cef4be89b84c60ceff82f76d5d47.mesh", "res://.import/speakerSmall.obj-f500cef4be89b84c60ceff82f76d5d47.mesh" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coatRack_SW.png-b542656335f49ebc4ce2ff9d182f5530.stex"
+path="res://.import/coatRack_SW.png-6d064580ba3ea6596e931cb278d769f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/coatRack_SW.png"
-dest_files=[ "res://.import/coatRack_SW.png-b542656335f49ebc4ce2ff9d182f5530.stex" ]
+source_file="res://Assets/Isometric/coatRack_SW.png"
+dest_files=[ "res://.import/coatRack_SW.png-6d064580ba3ea6596e931cb278d769f0.stex" ]
 
 [params]
 

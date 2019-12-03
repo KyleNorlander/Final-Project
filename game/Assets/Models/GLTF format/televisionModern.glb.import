@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/televisionModern.glb-4c391054a424453d8e5f1036ee399be7.scn"
+path="res://.import/televisionModern.glb-5fc9c4cc3f6b8d7115aebfda6f832826.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/televisionModern.glb"
-dest_files=[ "res://.import/televisionModern.glb-4c391054a424453d8e5f1036ee399be7.scn" ]
+source_file="res://Assets/Models/GLTF format/televisionModern.glb"
+dest_files=[ "res://.import/televisionModern.glb-5fc9c4cc3f6b8d7115aebfda6f832826.scn" ]
 
 [params]
 

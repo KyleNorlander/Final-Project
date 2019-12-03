@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/loungeChair_SW.png-350fb9b3c220609ee2c5e6464cef8ef8.stex"
+path="res://.import/loungeChair_SW.png-c9b60852dcc0b6565d30e46e61b5b791.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/loungeChair_SW.png"
-dest_files=[ "res://.import/loungeChair_SW.png-350fb9b3c220609ee2c5e6464cef8ef8.stex" ]
+source_file="res://Assets/Isometric/loungeChair_SW.png"
+dest_files=[ "res://.import/loungeChair_SW.png-c9b60852dcc0b6565d30e46e61b5b791.stex" ]
 
 [params]
 

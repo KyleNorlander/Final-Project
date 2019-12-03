@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenFridgeBuiltIn.dae-9093c6630ff549183c6e8043d833d2b5.scn"
+path="res://.import/kitchenFridgeBuiltIn.dae-539c8d05a4bd66202ae80b35a8de8c0c.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenFridgeBuiltIn.dae"
-dest_files=[ "res://.import/kitchenFridgeBuiltIn.dae-9093c6630ff549183c6e8043d833d2b5.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenFridgeBuiltIn.dae"
+dest_files=[ "res://.import/kitchenFridgeBuiltIn.dae-539c8d05a4bd66202ae80b35a8de8c0c.scn" ]
 
 [params]
 

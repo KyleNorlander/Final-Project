@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hoodModern_SW.png-b7e1b863f77a5fd4bf7420161eabd6c9.stex"
+path="res://.import/hoodModern_SW.png-d8f0297c2eb61f34e4300abc0f0d3be9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/hoodModern_SW.png"
-dest_files=[ "res://.import/hoodModern_SW.png-b7e1b863f77a5fd4bf7420161eabd6c9.stex" ]
+source_file="res://Assets/Isometric/hoodModern_SW.png"
+dest_files=[ "res://.import/hoodModern_SW.png-d8f0297c2eb61f34e4300abc0f0d3be9.stex" ]
 
 [params]
 

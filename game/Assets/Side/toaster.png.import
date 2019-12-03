@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toaster.png-5996dce8aef7ce5a5504d38ba4540c3b.stex"
+path="res://.import/toaster.png-fd0d0fed31d18c98155f985b686e38dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/toaster.png"
-dest_files=[ "res://.import/toaster.png-5996dce8aef7ce5a5504d38ba4540c3b.stex" ]
+source_file="res://Assets/Side/toaster.png"
+dest_files=[ "res://.import/toaster.png-fd0d0fed31d18c98155f985b686e38dd.stex" ]
 
 [params]
 

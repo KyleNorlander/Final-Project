@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCoffeeMachine.glb-1346e395bc6ee35edebd62c5c158571f.scn"
+path="res://.import/kitchenCoffeeMachine.glb-faa166bba3314990eaa675ed5570676e.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenCoffeeMachine.glb"
-dest_files=[ "res://.import/kitchenCoffeeMachine.glb-1346e395bc6ee35edebd62c5c158571f.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenCoffeeMachine.glb"
+dest_files=[ "res://.import/kitchenCoffeeMachine.glb-faa166bba3314990eaa675ed5570676e.scn" ]
 
 [params]
 

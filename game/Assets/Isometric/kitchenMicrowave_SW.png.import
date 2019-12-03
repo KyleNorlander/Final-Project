@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenMicrowave_SW.png-0d5d6a52e7dbbe6e004bb93b12bdc113.stex"
+path="res://.import/kitchenMicrowave_SW.png-da31b99366a4f2bcd38e3b4a2fa66495.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/kitchenMicrowave_SW.png"
-dest_files=[ "res://.import/kitchenMicrowave_SW.png-0d5d6a52e7dbbe6e004bb93b12bdc113.stex" ]
+source_file="res://Assets/Isometric/kitchenMicrowave_SW.png"
+dest_files=[ "res://.import/kitchenMicrowave_SW.png-da31b99366a4f2bcd38e3b4a2fa66495.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bookcaseClosedWide.png-0bbe07d63605c71f2a4d05741ed05213.stex"
+path="res://.import/bookcaseClosedWide.png-21275a35e3190a4d166b1c200b6a879e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/bookcaseClosedWide.png"
-dest_files=[ "res://.import/bookcaseClosedWide.png-0bbe07d63605c71f2a4d05741ed05213.stex" ]
+source_file="res://Assets/Side/bookcaseClosedWide.png"
+dest_files=[ "res://.import/bookcaseClosedWide.png-21275a35e3190a4d166b1c200b6a879e.stex" ]
 
 [params]
 

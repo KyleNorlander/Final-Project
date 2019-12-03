@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/washerDryerStacked.obj-d5b3b4bef2531272879404fd5cfcb3ce.mesh"
+path="res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh"
 
 [deps]
 
-files=[ "res://.import/washerDryerStacked.obj-d5b3b4bef2531272879404fd5cfcb3ce.mesh" ]
+files=[ "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh" ]
 
-source_file="res://assets/Models/OBJ format/washerDryerStacked.obj"
-dest_files=[ "res://.import/washerDryerStacked.obj-d5b3b4bef2531272879404fd5cfcb3ce.mesh", "res://.import/washerDryerStacked.obj-d5b3b4bef2531272879404fd5cfcb3ce.mesh" ]
+source_file="res://Assets/Models/OBJ format/washerDryerStacked.obj"
+dest_files=[ "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh", "res://.import/washerDryerStacked.obj-d084f8f6e55d64c5b681f05674792c81.mesh" ]
 
 [params]
 

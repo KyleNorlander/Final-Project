@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeDesignChair.dae-4922725dc245b783d8c8920584275e1c.scn"
+path="res://.import/loungeDesignChair.dae-a08c2873ecf5b69b619baa280f5f75d7.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/loungeDesignChair.dae"
-dest_files=[ "res://.import/loungeDesignChair.dae-4922725dc245b783d8c8920584275e1c.scn" ]
+source_file="res://Assets/Models/DAE format/loungeDesignChair.dae"
+dest_files=[ "res://.import/loungeDesignChair.dae-a08c2873ecf5b69b619baa280f5f75d7.scn" ]
 
 [params]
 

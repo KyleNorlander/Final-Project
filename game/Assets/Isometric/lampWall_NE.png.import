@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampWall_NE.png-43b271f4a3ca43f82e41395d35131a4c.stex"
+path="res://.import/lampWall_NE.png-1a39b3a7e6dd6b812a28453d2c87a258.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/lampWall_NE.png"
-dest_files=[ "res://.import/lampWall_NE.png-43b271f4a3ca43f82e41395d35131a4c.stex" ]
+source_file="res://Assets/Isometric/lampWall_NE.png"
+dest_files=[ "res://.import/lampWall_NE.png-1a39b3a7e6dd6b812a28453d2c87a258.stex" ]
 
 [params]
 

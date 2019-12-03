@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinetTelevision_NW.png-46e831b4b6b03b71026d23588f8856ce.stex"
+path="res://.import/cabinetTelevision_NW.png-a204f3073b091d1cecdf4397044e429c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/cabinetTelevision_NW.png"
-dest_files=[ "res://.import/cabinetTelevision_NW.png-46e831b4b6b03b71026d23588f8856ce.stex" ]
+source_file="res://Assets/Isometric/cabinetTelevision_NW.png"
+dest_files=[ "res://.import/cabinetTelevision_NW.png-a204f3073b091d1cecdf4397044e429c.stex" ]
 
 [params]
 

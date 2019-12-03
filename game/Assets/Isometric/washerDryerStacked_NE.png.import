@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/washerDryerStacked_NE.png-d9984e0147fc700d29afcf087db6177c.stex"
+path="res://.import/washerDryerStacked_NE.png-7a7875f73134178d05dd782474da11a4.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/washerDryerStacked_NE.png"
-dest_files=[ "res://.import/washerDryerStacked_NE.png-d9984e0147fc700d29afcf087db6177c.stex" ]
+source_file="res://Assets/Isometric/washerDryerStacked_NE.png"
+dest_files=[ "res://.import/washerDryerStacked_NE.png-7a7875f73134178d05dd782474da11a4.stex" ]
 
 [params]
 

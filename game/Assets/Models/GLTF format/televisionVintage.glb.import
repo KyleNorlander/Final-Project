@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/televisionVintage.glb-116ff2a1f0f112d54789e985aa293127.scn"
+path="res://.import/televisionVintage.glb-de259b23683cb7f193b09b24f32539c9.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/televisionVintage.glb"
-dest_files=[ "res://.import/televisionVintage.glb-116ff2a1f0f112d54789e985aa293127.scn" ]
+source_file="res://Assets/Models/GLTF format/televisionVintage.glb"
+dest_files=[ "res://.import/televisionVintage.glb-de259b23683cb7f193b09b24f32539c9.scn" ]
 
 [params]
 

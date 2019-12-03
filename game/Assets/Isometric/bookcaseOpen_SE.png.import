@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bookcaseOpen_SE.png-0d3cffff245d06ff359a3f6cd3369f34.stex"
+path="res://.import/bookcaseOpen_SE.png-384854e3c8b51a41de3c17838f188ba8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bookcaseOpen_SE.png"
-dest_files=[ "res://.import/bookcaseOpen_SE.png-0d3cffff245d06ff359a3f6cd3369f34.stex" ]
+source_file="res://Assets/Isometric/bookcaseOpen_SE.png"
+dest_files=[ "res://.import/bookcaseOpen_SE.png-384854e3c8b51a41de3c17838f188ba8.stex" ]
 
 [params]
 

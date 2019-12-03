@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/computerKeyboard_NE.png-fe9c4b7655b16c3633e585889e81befc.stex"
+path="res://.import/computerKeyboard_NE.png-d3e6de679f21a995740cf906c3075c8a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/computerKeyboard_NE.png"
-dest_files=[ "res://.import/computerKeyboard_NE.png-fe9c4b7655b16c3633e585889e81befc.stex" ]
+source_file="res://Assets/Isometric/computerKeyboard_NE.png"
+dest_files=[ "res://.import/computerKeyboard_NE.png-d3e6de679f21a995740cf906c3075c8a.stex" ]
 
 [params]
 

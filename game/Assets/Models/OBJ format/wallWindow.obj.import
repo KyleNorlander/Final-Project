@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/wallWindow.obj-3aecd6a13ce5a8212dc173e884337674.mesh"
+path="res://.import/wallWindow.obj-3cf0eb5cd7bc34183d8c06399b0ffab7.mesh"
 
 [deps]
 
-files=[ "res://.import/wallWindow.obj-3aecd6a13ce5a8212dc173e884337674.mesh" ]
+files=[ "res://.import/wallWindow.obj-3cf0eb5cd7bc34183d8c06399b0ffab7.mesh" ]
 
-source_file="res://assets/Models/OBJ format/wallWindow.obj"
-dest_files=[ "res://.import/wallWindow.obj-3aecd6a13ce5a8212dc173e884337674.mesh", "res://.import/wallWindow.obj-3aecd6a13ce5a8212dc173e884337674.mesh" ]
+source_file="res://Assets/Models/OBJ format/wallWindow.obj"
+dest_files=[ "res://.import/wallWindow.obj-3cf0eb5cd7bc34183d8c06399b0ffab7.mesh", "res://.import/wallWindow.obj-3cf0eb5cd7bc34183d8c06399b0ffab7.mesh" ]
 
 [params]
 

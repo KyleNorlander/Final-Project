@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/wallDoorway.png-7dfefdd632f6d84f2c7ae9eac4030bef.stex"
+path="res://.import/wallDoorway.png-c56fae625c8c91c5959eb6b7f3c13b48.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/wallDoorway.png"
-dest_files=[ "res://.import/wallDoorway.png-7dfefdd632f6d84f2c7ae9eac4030bef.stex" ]
+source_file="res://Assets/Side/wallDoorway.png"
+dest_files=[ "res://.import/wallDoorway.png-c56fae625c8c91c5959eb6b7f3c13b48.stex" ]
 
 [params]
 

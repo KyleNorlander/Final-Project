@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeChairRelax.glb-b43fb65c84d6af549a8bf10b61d7c3c3.scn"
+path="res://.import/loungeChairRelax.glb-f9dac43f40792f4b474976e7be276334.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/loungeChairRelax.glb"
-dest_files=[ "res://.import/loungeChairRelax.glb-b43fb65c84d6af549a8bf10b61d7c3c3.scn" ]
+source_file="res://Assets/Models/GLTF format/loungeChairRelax.glb"
+dest_files=[ "res://.import/loungeChairRelax.glb-f9dac43f40792f4b474976e7be276334.scn" ]
 
 [params]
 

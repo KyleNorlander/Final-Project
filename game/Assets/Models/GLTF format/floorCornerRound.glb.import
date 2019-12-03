@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floorCornerRound.glb-26d13e8ccc0f69ccf82a64508dc18ce0.scn"
+path="res://.import/floorCornerRound.glb-4c94d8cbaa331f106c03fa9cb4d0a6e1.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/floorCornerRound.glb"
-dest_files=[ "res://.import/floorCornerRound.glb-26d13e8ccc0f69ccf82a64508dc18ce0.scn" ]
+source_file="res://Assets/Models/GLTF format/floorCornerRound.glb"
+dest_files=[ "res://.import/floorCornerRound.glb-4c94d8cbaa331f106c03fa9cb4d0a6e1.scn" ]
 
 [params]
 

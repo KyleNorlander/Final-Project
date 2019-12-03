@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedSingle.glb-9bbb8eaaaa14aa1dcfc37404dafef2cc.scn"
+path="res://.import/bedSingle.glb-c331bc62894d1d6a4cd88ae4cae5f867.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/bedSingle.glb"
-dest_files=[ "res://.import/bedSingle.glb-9bbb8eaaaa14aa1dcfc37404dafef2cc.scn" ]
+source_file="res://Assets/Models/GLTF format/bedSingle.glb"
+dest_files=[ "res://.import/bedSingle.glb-c331bc62894d1d6a4cd88ae4cae5f867.scn" ]
 
 [params]
 

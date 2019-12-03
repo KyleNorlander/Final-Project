@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/doorwayFront.dae-5a583c7f96d0ea1301a5561c72feff74.scn"
+path="res://.import/doorwayFront.dae-061ff44f64e3bf3154c4c83cde598f5c.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/doorwayFront.dae"
-dest_files=[ "res://.import/doorwayFront.dae-5a583c7f96d0ea1301a5561c72feff74.scn" ]
+source_file="res://Assets/Models/DAE format/doorwayFront.dae"
+dest_files=[ "res://.import/doorwayFront.dae-061ff44f64e3bf3154c4c83cde598f5c.scn" ]
 
 [params]
 

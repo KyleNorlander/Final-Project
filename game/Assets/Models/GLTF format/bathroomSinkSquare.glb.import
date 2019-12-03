@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomSinkSquare.glb-bdcb5e74704e56815a5ff719b8e9fc7d.scn"
+path="res://.import/bathroomSinkSquare.glb-bd0fc68cc298a4387773b3105cd1f596.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/bathroomSinkSquare.glb"
-dest_files=[ "res://.import/bathroomSinkSquare.glb-bdcb5e74704e56815a5ff719b8e9fc7d.scn" ]
+source_file="res://Assets/Models/GLTF format/bathroomSinkSquare.glb"
+dest_files=[ "res://.import/bathroomSinkSquare.glb-bd0fc68cc298a4387773b3105cd1f596.scn" ]
 
 [params]
 

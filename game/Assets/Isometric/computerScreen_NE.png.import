@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/computerScreen_NE.png-25971db498f479f54c2f233060b88a8b.stex"
+path="res://.import/computerScreen_NE.png-7f7d4d738768c2f71d8e3f72f40fc155.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/computerScreen_NE.png"
-dest_files=[ "res://.import/computerScreen_NE.png-25971db498f479f54c2f233060b88a8b.stex" ]
+source_file="res://Assets/Isometric/computerScreen_NE.png"
+dest_files=[ "res://.import/computerScreen_NE.png-7f7d4d738768c2f71d8e3f72f40fc155.stex" ]
 
 [params]
 

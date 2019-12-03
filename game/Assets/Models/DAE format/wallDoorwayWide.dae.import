@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallDoorwayWide.dae-c6118e8cb6518ec3a5703474deaa3a0a.scn"
+path="res://.import/wallDoorwayWide.dae-bba178234e7e6c009fb2b793da995aa0.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/wallDoorwayWide.dae"
-dest_files=[ "res://.import/wallDoorwayWide.dae-c6118e8cb6518ec3a5703474deaa3a0a.scn" ]
+source_file="res://Assets/Models/DAE format/wallDoorwayWide.dae"
+dest_files=[ "res://.import/wallDoorwayWide.dae-bba178234e7e6c009fb2b793da995aa0.scn" ]
 
 [params]
 

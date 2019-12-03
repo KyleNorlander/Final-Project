@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerScreen.dae-21ddfd18fd92f9f1ff88e9a788408ef6.scn"
+path="res://.import/computerScreen.dae-04a0af1b1b4593304c3a50cca0e63c03.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/computerScreen.dae"
-dest_files=[ "res://.import/computerScreen.dae-21ddfd18fd92f9f1ff88e9a788408ef6.scn" ]
+source_file="res://Assets/Models/DAE format/computerScreen.dae"
+dest_files=[ "res://.import/computerScreen.dae-04a0af1b1b4593304c3a50cca0e63c03.scn" ]
 
 [params]
 

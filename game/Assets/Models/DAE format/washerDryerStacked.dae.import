@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/washerDryerStacked.dae-df3a478177eaec979a9ebc6306702a60.scn"
+path="res://.import/washerDryerStacked.dae-ef3ca297cba4aedde1511ea3aaaaa122.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/washerDryerStacked.dae"
-dest_files=[ "res://.import/washerDryerStacked.dae-df3a478177eaec979a9ebc6306702a60.scn" ]
+source_file="res://Assets/Models/DAE format/washerDryerStacked.dae"
+dest_files=[ "res://.import/washerDryerStacked.dae-ef3ca297cba4aedde1511ea3aaaaa122.scn" ]
 
 [params]
 

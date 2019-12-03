@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampRoundFloor_NE.png-54847bef7d111978def44340a3f32ea0.stex"
+path="res://.import/lampRoundFloor_NE.png-89e591e9f0f2a2dd939f8fceff16cb9d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/lampRoundFloor_NE.png"
-dest_files=[ "res://.import/lampRoundFloor_NE.png-54847bef7d111978def44340a3f32ea0.stex" ]
+source_file="res://Assets/Isometric/lampRoundFloor_NE.png"
+dest_files=[ "res://.import/lampRoundFloor_NE.png-89e591e9f0f2a2dd939f8fceff16cb9d.stex" ]
 
 [params]
 

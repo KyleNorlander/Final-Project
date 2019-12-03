@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomCabinet.dae-db776f4f7bb53a4974590325de5ddb7b.scn"
+path="res://.import/bathroomCabinet.dae-e7d881f25b4ba0c7b56f119dfbadc34f.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/bathroomCabinet.dae"
-dest_files=[ "res://.import/bathroomCabinet.dae-db776f4f7bb53a4974590325de5ddb7b.scn" ]
+source_file="res://Assets/Models/DAE format/bathroomCabinet.dae"
+dest_files=[ "res://.import/bathroomCabinet.dae-e7d881f25b4ba0c7b56f119dfbadc34f.scn" ]
 
 [params]
 

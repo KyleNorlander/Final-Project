@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/laptop_NE.png-58c2c33b9e6b41a1f9abaf8cc8647854.stex"
+path="res://.import/laptop_NE.png-1c8c742e9fc472114fc3c970647086dc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/laptop_NE.png"
-dest_files=[ "res://.import/laptop_NE.png-58c2c33b9e6b41a1f9abaf8cc8647854.stex" ]
+source_file="res://Assets/Isometric/laptop_NE.png"
+dest_files=[ "res://.import/laptop_NE.png-1c8c742e9fc472114fc3c970647086dc.stex" ]
 
 [params]
 

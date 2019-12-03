@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/pillowLong.dae-62ddaa457e0e1bf3d0ee1b1d958a5a11.scn"
+path="res://.import/pillowLong.dae-afdc0d94ce54867aea9154b853afefa9.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/pillowLong.dae"
-dest_files=[ "res://.import/pillowLong.dae-62ddaa457e0e1bf3d0ee1b1d958a5a11.scn" ]
+source_file="res://Assets/Models/DAE format/pillowLong.dae"
+dest_files=[ "res://.import/pillowLong.dae-afdc0d94ce54867aea9154b853afefa9.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCabinetDrawer.dae-b53df6f29cf9790edb43af30e3b85709.scn"
+path="res://.import/kitchenCabinetDrawer.dae-7827d92b3827f344d14c5bbb2de5e6e9.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenCabinetDrawer.dae"
-dest_files=[ "res://.import/kitchenCabinetDrawer.dae-b53df6f29cf9790edb43af30e3b85709.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenCabinetDrawer.dae"
+dest_files=[ "res://.import/kitchenCabinetDrawer.dae-7827d92b3827f344d14c5bbb2de5e6e9.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hoodLarge.glb-f5897ae2678235a856c0bcd444457c61.scn"
+path="res://.import/hoodLarge.glb-3da79675717bbc4b8563367419980fa1.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/hoodLarge.glb"
-dest_files=[ "res://.import/hoodLarge.glb-f5897ae2678235a856c0bcd444457c61.scn" ]
+source_file="res://Assets/Models/GLTF format/hoodLarge.glb"
+dest_files=[ "res://.import/hoodLarge.glb-3da79675717bbc4b8563367419980fa1.scn" ]
 
 [params]
 

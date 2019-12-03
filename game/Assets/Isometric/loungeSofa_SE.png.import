@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/loungeSofa_SE.png-41024d611b0f95f81a1bbecfae3399ee.stex"
+path="res://.import/loungeSofa_SE.png-dcf54babdd87e1d89d2b33d6890724d2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/loungeSofa_SE.png"
-dest_files=[ "res://.import/loungeSofa_SE.png-41024d611b0f95f81a1bbecfae3399ee.stex" ]
+source_file="res://Assets/Isometric/loungeSofa_SE.png"
+dest_files=[ "res://.import/loungeSofa_SE.png-dcf54babdd87e1d89d2b33d6890724d2.stex" ]
 
 [params]
 

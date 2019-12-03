@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/chairModernFrameCushion.obj-29052b6464e05a12241835da1511b7b9.mesh"
+path="res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh"
 
 [deps]
 
-files=[ "res://.import/chairModernFrameCushion.obj-29052b6464e05a12241835da1511b7b9.mesh" ]
+files=[ "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh" ]
 
-source_file="res://assets/Models/OBJ format/chairModernFrameCushion.obj"
-dest_files=[ "res://.import/chairModernFrameCushion.obj-29052b6464e05a12241835da1511b7b9.mesh", "res://.import/chairModernFrameCushion.obj-29052b6464e05a12241835da1511b7b9.mesh" ]
+source_file="res://Assets/Models/OBJ format/chairModernFrameCushion.obj"
+dest_files=[ "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh", "res://.import/chairModernFrameCushion.obj-461e31672b40be805ef3823f43b15210.mesh" ]
 
 [params]
 

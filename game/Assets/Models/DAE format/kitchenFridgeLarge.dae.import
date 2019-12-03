@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenFridgeLarge.dae-fcbe1b5c15cfd4265e6aa245fa603632.scn"
+path="res://.import/kitchenFridgeLarge.dae-932be2ad51233e1f01b3b7972d43a965.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenFridgeLarge.dae"
-dest_files=[ "res://.import/kitchenFridgeLarge.dae-fcbe1b5c15cfd4265e6aa245fa603632.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenFridgeLarge.dae"
+dest_files=[ "res://.import/kitchenFridgeLarge.dae-932be2ad51233e1f01b3b7972d43a965.scn" ]
 
 [params]
 

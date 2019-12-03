@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenFridgeBuiltIn.obj-432295dbb408a310fa419dff9c0ce390.mesh"
+path="res://.import/kitchenFridgeBuiltIn.obj-a6365978688527afe47089c99575a323.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenFridgeBuiltIn.obj-432295dbb408a310fa419dff9c0ce390.mesh" ]
+files=[ "res://.import/kitchenFridgeBuiltIn.obj-a6365978688527afe47089c99575a323.mesh" ]
 
-source_file="res://assets/Models/OBJ format/kitchenFridgeBuiltIn.obj"
-dest_files=[ "res://.import/kitchenFridgeBuiltIn.obj-432295dbb408a310fa419dff9c0ce390.mesh", "res://.import/kitchenFridgeBuiltIn.obj-432295dbb408a310fa419dff9c0ce390.mesh" ]
+source_file="res://Assets/Models/OBJ format/kitchenFridgeBuiltIn.obj"
+dest_files=[ "res://.import/kitchenFridgeBuiltIn.obj-a6365978688527afe47089c99575a323.mesh", "res://.import/kitchenFridgeBuiltIn.obj-a6365978688527afe47089c99575a323.mesh" ]
 
 [params]
 

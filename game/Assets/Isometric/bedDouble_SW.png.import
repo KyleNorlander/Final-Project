@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedDouble_SW.png-02258dd7098d698922d27d2d4c09e55a.stex"
+path="res://.import/bedDouble_SW.png-210986080779ec8a1e2bd431f4c40804.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bedDouble_SW.png"
-dest_files=[ "res://.import/bedDouble_SW.png-02258dd7098d698922d27d2d4c09e55a.stex" ]
+source_file="res://Assets/Isometric/bedDouble_SW.png"
+dest_files=[ "res://.import/bedDouble_SW.png-210986080779ec8a1e2bd431f4c40804.stex" ]
 
 [params]
 

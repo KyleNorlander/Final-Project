@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pillowBlue.png-80559a21bf2fd688f15f9129a4c90bad.stex"
+path="res://.import/pillowBlue.png-51e102073059a66c8757c2f9a837f3fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/pillowBlue.png"
-dest_files=[ "res://.import/pillowBlue.png-80559a21bf2fd688f15f9129a4c90bad.stex" ]
+source_file="res://Assets/Side/pillowBlue.png"
+dest_files=[ "res://.import/pillowBlue.png-51e102073059a66c8757c2f9a837f3fa.stex" ]
 
 [params]
 

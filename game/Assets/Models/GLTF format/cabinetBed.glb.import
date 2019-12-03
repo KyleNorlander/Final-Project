@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetBed.glb-f96e23a00401cb8fbe6fb175bbe4fa42.scn"
+path="res://.import/cabinetBed.glb-2a867fb167c8b9c97ce381a03da6ed7b.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/cabinetBed.glb"
-dest_files=[ "res://.import/cabinetBed.glb-f96e23a00401cb8fbe6fb175bbe4fa42.scn" ]
+source_file="res://Assets/Models/GLTF format/cabinetBed.glb"
+dest_files=[ "res://.import/cabinetBed.glb-2a867fb167c8b9c97ce381a03da6ed7b.scn" ]
 
 [params]
 

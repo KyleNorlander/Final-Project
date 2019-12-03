@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trashcan.png-4ed30338cd1213aa0ac16f1a8f1c06c3.stex"
+path="res://.import/trashcan.png-c81d76ec340398fdb70a3c35cca69325.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/trashcan.png"
-dest_files=[ "res://.import/trashcan.png-4ed30338cd1213aa0ac16f1a8f1c06c3.stex" ]
+source_file="res://Assets/Side/trashcan.png"
+dest_files=[ "res://.import/trashcan.png-c81d76ec340398fdb70a3c35cca69325.stex" ]
 
 [params]
 

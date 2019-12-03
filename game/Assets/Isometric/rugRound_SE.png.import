@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rugRound_SE.png-60d59a0d595db94c2f952dd40e55b603.stex"
+path="res://.import/rugRound_SE.png-9b8f8dddaa068848ba99764f2a465a8c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/rugRound_SE.png"
-dest_files=[ "res://.import/rugRound_SE.png-60d59a0d595db94c2f952dd40e55b603.stex" ]
+source_file="res://Assets/Isometric/rugRound_SE.png"
+dest_files=[ "res://.import/rugRound_SE.png-9b8f8dddaa068848ba99764f2a465a8c.stex" ]
 
 [params]
 

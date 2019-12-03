@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bookcaseClosedWide.glb-41dee8edbe459536b3810648b516c391.scn"
+path="res://.import/bookcaseClosedWide.glb-efba0f06d08be82a9dc8b97616695c62.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/bookcaseClosedWide.glb"
-dest_files=[ "res://.import/bookcaseClosedWide.glb-41dee8edbe459536b3810648b516c391.scn" ]
+source_file="res://Assets/Models/GLTF format/bookcaseClosedWide.glb"
+dest_files=[ "res://.import/bookcaseClosedWide.glb-efba0f06d08be82a9dc8b97616695c62.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bookcaseClosedWide_SW.png-59b7bf50b4c278e4b601159d7c26471a.stex"
+path="res://.import/bookcaseClosedWide_SW.png-f285bde73da257d27b9188d41eeb9b2d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bookcaseClosedWide_SW.png"
-dest_files=[ "res://.import/bookcaseClosedWide_SW.png-59b7bf50b4c278e4b601159d7c26471a.stex" ]
+source_file="res://Assets/Isometric/bookcaseClosedWide_SW.png"
+dest_files=[ "res://.import/bookcaseClosedWide_SW.png-f285bde73da257d27b9188d41eeb9b2d.stex" ]
 
 [params]
 

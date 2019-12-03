@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampWall.dae-c78479a28cd24961c8ff75df70654e9e.scn"
+path="res://.import/lampWall.dae-0355edd512b5056a6563baeac90c0e8a.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/lampWall.dae"
-dest_files=[ "res://.import/lampWall.dae-c78479a28cd24961c8ff75df70654e9e.scn" ]
+source_file="res://Assets/Models/DAE format/lampWall.dae"
+dest_files=[ "res://.import/lampWall.dae-0355edd512b5056a6563baeac90c0e8a.scn" ]
 
 [params]
 

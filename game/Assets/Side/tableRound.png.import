@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableRound.png-f2ca175094d54b65c3475e8b695a32e4.stex"
+path="res://.import/tableRound.png-d111182dc1c5bee429498218a0b08d4d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/tableRound.png"
-dest_files=[ "res://.import/tableRound.png-f2ca175094d54b65c3475e8b695a32e4.stex" ]
+source_file="res://Assets/Side/tableRound.png"
+dest_files=[ "res://.import/tableRound.png-d111182dc1c5bee429498218a0b08d4d.stex" ]
 
 [params]
 

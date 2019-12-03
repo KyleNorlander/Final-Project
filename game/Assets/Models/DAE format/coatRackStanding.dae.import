@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coatRackStanding.dae-b3ed0ffbc206bbf13e4b267ca8dd40fa.scn"
+path="res://.import/coatRackStanding.dae-2a4cafc3e970d25d7521cec0d76a2a51.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/coatRackStanding.dae"
-dest_files=[ "res://.import/coatRackStanding.dae-b3ed0ffbc206bbf13e4b267ca8dd40fa.scn" ]
+source_file="res://Assets/Models/DAE format/coatRackStanding.dae"
+dest_files=[ "res://.import/coatRackStanding.dae-2a4cafc3e970d25d7521cec0d76a2a51.scn" ]
 
 [params]
 

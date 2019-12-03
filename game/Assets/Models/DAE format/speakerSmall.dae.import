@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/speakerSmall.dae-bd6ae117f1f1253dbb1c603042590786.scn"
+path="res://.import/speakerSmall.dae-7ac3423fe4dfef1e781f4263693a7ad6.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/speakerSmall.dae"
-dest_files=[ "res://.import/speakerSmall.dae-bd6ae117f1f1253dbb1c603042590786.scn" ]
+source_file="res://Assets/Models/DAE format/speakerSmall.dae"
+dest_files=[ "res://.import/speakerSmall.dae-7ac3423fe4dfef1e781f4263693a7ad6.scn" ]
 
 [params]
 

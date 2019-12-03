@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugDoormat.dae-952a55dbbe3f800a27e0b0afb06c3df0.scn"
+path="res://.import/rugDoormat.dae-fab6568672e0310d2aacaa91507a5f05.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/rugDoormat.dae"
-dest_files=[ "res://.import/rugDoormat.dae-952a55dbbe3f800a27e0b0afb06c3df0.scn" ]
+source_file="res://Assets/Models/DAE format/rugDoormat.dae"
+dest_files=[ "res://.import/rugDoormat.dae-fab6568672e0310d2aacaa91507a5f05.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/doorwayFront_SW.png-892987120a13ad864fd41b24ab9db510.stex"
+path="res://.import/doorwayFront_SW.png-8f7790ed8c2698baa1221d81e5392235.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/doorwayFront_SW.png"
-dest_files=[ "res://.import/doorwayFront_SW.png-892987120a13ad864fd41b24ab9db510.stex" ]
+source_file="res://Assets/Isometric/doorwayFront_SW.png"
+dest_files=[ "res://.import/doorwayFront_SW.png-8f7790ed8c2698baa1221d81e5392235.stex" ]
 
 [params]
 
