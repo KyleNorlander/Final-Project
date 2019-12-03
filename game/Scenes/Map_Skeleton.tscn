@@ -7,72 +7,80 @@
 [ext_resource path="res://Assets/Models/naturePack_021.obj" type="ArrayMesh" id=5]
 [ext_resource path="res://Assets/Models/naturePack_022.obj" type="ArrayMesh" id=6]
 [ext_resource path="res://Assets/Models/naturePack_002.obj" type="ArrayMesh" id=7]
-[ext_resource path="res://Assets/Models/naturePack_003.obj" type="ArrayMesh" id=8]
-[ext_resource path="res://Assets/Models/naturePack_004.obj" type="ArrayMesh" id=9]
-[ext_resource path="res://Assets/Models/naturePack_005.obj" type="ArrayMesh" id=10]
-[ext_resource path="res://Assets/Models/naturePack_006.obj" type="ArrayMesh" id=11]
-[ext_resource path="res://Assets/Models/naturePack_007.obj" type="ArrayMesh" id=12]
-[ext_resource path="res://Assets/Models/naturePack_008.obj" type="ArrayMesh" id=13]
-[ext_resource path="res://Assets/Models/naturePack_009.obj" type="ArrayMesh" id=14]
-[ext_resource path="res://Assets/Models/naturePack_010.obj" type="ArrayMesh" id=15]
-[ext_resource path="res://Assets/Models/naturePack_flat_013.obj" type="ArrayMesh" id=16]
-[ext_resource path="res://Assets/Models/naturePack_026.obj" type="ArrayMesh" id=17]
-[ext_resource path="res://Assets/Models/naturePack_027.obj" type="ArrayMesh" id=18]
-[ext_resource path="res://Assets/Models/naturePack_028.obj" type="ArrayMesh" id=19]
-[ext_resource path="res://Assets/Models/naturePack_029.obj" type="ArrayMesh" id=20]
-[ext_resource path="res://Assets/Models/naturePack_030.obj" type="ArrayMesh" id=21]
-[ext_resource path="res://Assets/Models/naturePack_031.obj" type="ArrayMesh" id=22]
-[ext_resource path="res://Assets/Models/naturePack_034.obj" type="ArrayMesh" id=23]
-[ext_resource path="res://Assets/Models/naturePack_035.obj" type="ArrayMesh" id=24]
-[ext_resource path="res://Assets/Models/naturePack_036.obj" type="ArrayMesh" id=25]
-[ext_resource path="res://Assets/Models/naturePack_037.obj" type="ArrayMesh" id=26]
-[ext_resource path="res://Assets/Models/naturePack_038.obj" type="ArrayMesh" id=27]
-[ext_resource path="res://Assets/Models/naturePack_039.obj" type="ArrayMesh" id=28]
-[ext_resource path="res://Assets/Models/naturePack_040.obj" type="ArrayMesh" id=29]
-[ext_resource path="res://Assets/Models/naturePack_041.obj" type="ArrayMesh" id=30]
-[ext_resource path="res://Assets/Models/naturePack_042.obj" type="ArrayMesh" id=31]
-[ext_resource path="res://Assets/Models/naturePack_043.obj" type="ArrayMesh" id=32]
-[ext_resource path="res://Assets/Models/naturePack_044.obj" type="ArrayMesh" id=33]
-[ext_resource path="res://Assets/Models/naturePack_032.obj" type="ArrayMesh" id=34]
-[ext_resource path="res://Assets/Models/naturePack_033.obj" type="ArrayMesh" id=35]
-[ext_resource path="res://Assets/Models/naturePack_045.obj" type="ArrayMesh" id=36]
-[ext_resource path="res://Assets/Models/naturePack_046.obj" type="ArrayMesh" id=37]
-[ext_resource path="res://Assets/Models/naturePack_047.obj" type="ArrayMesh" id=38]
-[ext_resource path="res://Assets/Models/naturePack_074.obj" type="ArrayMesh" id=39]
-[ext_resource path="res://Assets/Models/naturePack_073.obj" type="ArrayMesh" id=40]
-[ext_resource path="res://Assets/Models/naturePack_072.obj" type="ArrayMesh" id=41]
-[ext_resource path="res://Assets/Models/naturePack_075.obj" type="ArrayMesh" id=42]
-[ext_resource path="res://Assets/Models/naturePack_076.obj" type="ArrayMesh" id=43]
-[ext_resource path="res://Assets/Models/naturePack_077.obj" type="ArrayMesh" id=44]
-[ext_resource path="res://Assets/Models/naturePack_078.obj" type="ArrayMesh" id=45]
-[ext_resource path="res://Assets/Models/naturePack_079.obj" type="ArrayMesh" id=46]
-[ext_resource path="res://Assets/Models/naturePack_080.obj" type="ArrayMesh" id=47]
-[ext_resource path="res://Assets/Models/naturePack_081.obj" type="ArrayMesh" id=48]
-[ext_resource path="res://Assets/Models/naturePack_082.obj" type="ArrayMesh" id=49]
-[ext_resource path="res://Assets/Models/naturePack_083.obj" type="ArrayMesh" id=50]
-[ext_resource path="res://Assets/Models/naturePack_051.obj" type="ArrayMesh" id=51]
-[ext_resource path="res://Assets/Models/naturePack_052.obj" type="ArrayMesh" id=52]
-[ext_resource path="res://Assets/Models/naturePack_053.obj" type="ArrayMesh" id=53]
-[ext_resource path="res://Assets/Models/naturePack_085.obj" type="ArrayMesh" id=54]
-[ext_resource path="res://Assets/Models/naturePack_084.obj" type="ArrayMesh" id=55]
-[ext_resource path="res://Assets/Models/naturePack_086.obj" type="ArrayMesh" id=56]
-[ext_resource path="res://Assets/Models/naturePack_087.obj" type="ArrayMesh" id=57]
-[ext_resource path="res://Assets/Models/naturePack_088.obj" type="ArrayMesh" id=58]
-[ext_resource path="res://Assets/Models/naturePack_089.obj" type="ArrayMesh" id=59]
-[ext_resource path="res://Assets/Models/naturePack_090.obj" type="ArrayMesh" id=60]
-[ext_resource path="res://Assets/Models/naturePack_091.obj" type="ArrayMesh" id=61]
-[ext_resource path="res://Assets/Models/naturePack_092.obj" type="ArrayMesh" id=62]
-[ext_resource path="res://Assets/Models/naturePack_093.obj" type="ArrayMesh" id=63]
-[ext_resource path="res://Assets/Models/naturePack_095.obj" type="ArrayMesh" id=64]
-[ext_resource path="res://Assets/Models/naturePack_111.obj" type="ArrayMesh" id=65]
-[ext_resource path="res://Assets/Models/naturePack_112.obj" type="ArrayMesh" id=66]
-[ext_resource path="res://Assets/Models/naturePack_113.obj" type="ArrayMesh" id=67]
-[ext_resource path="res://Assets/Models/naturePack_124.obj" type="ArrayMesh" id=68]
-[ext_resource path="res://Assets/Models/naturePack_102.obj" type="ArrayMesh" id=69]
+[ext_resource path="res://Assets/Models/naturePack_005.obj" type="ArrayMesh" id=8]
+[ext_resource path="res://Assets/Models/naturePack_006.obj" type="ArrayMesh" id=9]
+[ext_resource path="res://Assets/Models/naturePack_007.obj" type="ArrayMesh" id=10]
+[ext_resource path="res://Assets/Models/naturePack_008.obj" type="ArrayMesh" id=11]
+[ext_resource path="res://Assets/Models/naturePack_009.obj" type="ArrayMesh" id=12]
+[ext_resource path="res://Assets/Models/naturePack_010.obj" type="ArrayMesh" id=13]
+[ext_resource path="res://Assets/Models/naturePack_flat_013.obj" type="ArrayMesh" id=14]
+[ext_resource path="res://Assets/Models/naturePack_026.obj" type="ArrayMesh" id=15]
+[ext_resource path="res://Assets/Models/naturePack_027.obj" type="ArrayMesh" id=16]
+[ext_resource path="res://Assets/Models/naturePack_028.obj" type="ArrayMesh" id=17]
+[ext_resource path="res://Assets/Models/naturePack_029.obj" type="ArrayMesh" id=18]
+[ext_resource path="res://Assets/Models/naturePack_034.obj" type="ArrayMesh" id=19]
+[ext_resource path="res://Assets/Models/naturePack_035.obj" type="ArrayMesh" id=20]
+[ext_resource path="res://Assets/Models/naturePack_036.obj" type="ArrayMesh" id=21]
+[ext_resource path="res://Assets/Models/naturePack_037.obj" type="ArrayMesh" id=22]
+[ext_resource path="res://Assets/Models/naturePack_038.obj" type="ArrayMesh" id=23]
+[ext_resource path="res://Assets/Models/naturePack_040.obj" type="ArrayMesh" id=24]
+[ext_resource path="res://Assets/Models/naturePack_041.obj" type="ArrayMesh" id=25]
+[ext_resource path="res://Assets/Models/naturePack_043.obj" type="ArrayMesh" id=26]
+[ext_resource path="res://Assets/Models/naturePack_044.obj" type="ArrayMesh" id=27]
+[ext_resource path="res://Assets/Models/naturePack_030.obj" type="ArrayMesh" id=28]
+[ext_resource path="res://Assets/Models/naturePack_031.obj" type="ArrayMesh" id=29]
+[ext_resource path="res://Assets/Models/naturePack_032.obj" type="ArrayMesh" id=30]
+[ext_resource path="res://Assets/Models/naturePack_033.obj" type="ArrayMesh" id=31]
+[ext_resource path="res://Assets/Models/naturePack_045.obj" type="ArrayMesh" id=32]
+[ext_resource path="res://Assets/Models/naturePack_046.obj" type="ArrayMesh" id=33]
+[ext_resource path="res://Assets/Models/naturePack_039.obj" type="ArrayMesh" id=34]
+[ext_resource path="res://Assets/Models/naturePack_047.obj" type="ArrayMesh" id=35]
+[ext_resource path="res://Assets/Models/naturePack_042.obj" type="ArrayMesh" id=36]
+[ext_resource path="res://Assets/Models/naturePack_074.obj" type="ArrayMesh" id=37]
+[ext_resource path="res://Assets/Models/naturePack_073.obj" type="ArrayMesh" id=38]
+[ext_resource path="res://Assets/Models/naturePack_072.obj" type="ArrayMesh" id=39]
+[ext_resource path="res://Assets/Models/naturePack_077.obj" type="ArrayMesh" id=40]
+[ext_resource path="res://Assets/Models/naturePack_078.obj" type="ArrayMesh" id=41]
+[ext_resource path="res://Assets/Models/naturePack_079.obj" type="ArrayMesh" id=42]
+[ext_resource path="res://Assets/Models/naturePack_080.obj" type="ArrayMesh" id=43]
+[ext_resource path="res://Assets/Models/naturePack_081.obj" type="ArrayMesh" id=44]
+[ext_resource path="res://Assets/Models/naturePack_082.obj" type="ArrayMesh" id=45]
+[ext_resource path="res://Assets/Models/naturePack_083.obj" type="ArrayMesh" id=46]
+[ext_resource path="res://Assets/Models/naturePack_051.obj" type="ArrayMesh" id=47]
+[ext_resource path="res://Assets/Models/naturePack_052.obj" type="ArrayMesh" id=48]
+[ext_resource path="res://Assets/Models/naturePack_053.obj" type="ArrayMesh" id=49]
+[ext_resource path="res://Assets/Models/naturePack_085.obj" type="ArrayMesh" id=50]
+[ext_resource path="res://Assets/Models/naturePack_084.obj" type="ArrayMesh" id=51]
+[ext_resource path="res://Assets/Models/naturePack_086.obj" type="ArrayMesh" id=52]
+[ext_resource path="res://Assets/Models/naturePack_087.obj" type="ArrayMesh" id=53]
+[ext_resource path="res://Assets/Models/naturePack_088.obj" type="ArrayMesh" id=54]
+[ext_resource path="res://Assets/Models/naturePack_089.obj" type="ArrayMesh" id=55]
+[ext_resource path="res://Assets/Models/naturePack_090.obj" type="ArrayMesh" id=56]
+[ext_resource path="res://Assets/Models/naturePack_091.obj" type="ArrayMesh" id=57]
+[ext_resource path="res://Assets/Models/naturePack_092.obj" type="ArrayMesh" id=58]
+[ext_resource path="res://Assets/Models/naturePack_093.obj" type="ArrayMesh" id=59]
+[ext_resource path="res://Assets/Models/naturePack_095.obj" type="ArrayMesh" id=60]
+[ext_resource path="res://Assets/Models/naturePack_111.obj" type="ArrayMesh" id=61]
+[ext_resource path="res://Assets/Models/naturePack_112.obj" type="ArrayMesh" id=62]
+[ext_resource path="res://Assets/Models/naturePack_113.obj" type="ArrayMesh" id=63]
+[ext_resource path="res://Assets/Models/naturePack_124.obj" type="ArrayMesh" id=64]
+[ext_resource path="res://Assets/Models/naturePack_102.obj" type="ArrayMesh" id=65]
 
 [sub_resource type="CubeMesh" id=1]
 
 [sub_resource type="SpatialMaterial" id=2]
+
+[sub_resource type="ConvexPolygonShape" id=3]
+points = PoolVector3Array( 0, 0, 0, 3, 0.3, 0, 3, 0, 0, 0, 0.3, 0, 0, 0.3, -3, 3, 0.3, 0, 0, 0.3, 0, 3, 0.3, -3, 3, 0, -3, 3, 0.3, 0, 3, 0.3, -3, 3, 0, 0, 3, 0, -3, 0, 0, 0, 3, 0, 0, 0, 0, -3, 0, 0.3, -3, 0, 0, 0, 0, 0, -3, 0, 0.3, 0, 3, 0, -3, 0, 0.3, -3, 0, 0, -3, 3, 0.3, -3 )
+
+[sub_resource type="ConvexPolygonShape" id=4]
+points = PoolVector3Array( 0.796743, 0, 0, 1.43414, 0.56, -0.552, 1.59349, 0, -0.46, 0.796743, 0.56, -0.184, 0.796743, 0.56, -0.184, 1.33215, 0.92, -0.59616, 1.43414, 0.56, -0.552, 0.796743, 0.92, -0.28704, 0.796743, 0.92, -0.28704, 1.17153, 1.97, -0.628896, 1.33215, 0.92, -0.59616, 0.796743, 1.97, -0.412512, 0.796743, 1.97, -0.412512, 0.967061, 1.97, -0.998049, 1.17153, 1.97, -0.628896, 0.767868, 1.97, -0.752337, 0.741895, 1.97, -0.894036, 0.741895, 1.97, -0.894036, 1.04005, 0.92, -1.12352, 0.967061, 1.97, -0.998049, 0.718388, 0.92, -0.974932, 0.718388, 0.92, -0.974932, 1.06445, 0.92, -1.36896, 1.04005, 0.92, -1.12352, 0.681284, 0.92, -1.17736, 0.681284, 0.92, -1.17736, 1.11544, 0.56, -1.472, 1.06445, 0.92, -1.36896, 0.659291, 0.56, -1.2439, 0.659291, 0.56, -1.2439, 0.796743, 0.56, -1.656, 1.11544, 0.56, -1.472, 0.159349, 0.56, -1.288, 0.159349, 0.56, -1.288, 0.796743, 0, -1.84, 0.796743, 0.56, -1.656, 0, 0, -1.38, 0, 0, -0.46, 0.796743, 0, -1.84, 0, 0, -1.38, 0.796743, 0, 0, 1.59349, 0, -1.38, 1.59349, 0, -1.38, 0.796743, 0.56, -1.656, 0.796743, 0, -1.84, 1.43414, 0.56, -1.288, 1.11544, 0.56, -1.472, 1.43414, 0.56, -1.288, 1.06445, 0.92, -1.36896, 1.11544, 0.56, -1.472, 1.33215, 0.92, -1.2144, 1.33215, 0.92, -0.896416, 1.33215, 0.92, -1.2144, 1.33215, 0.92, -0.896416, 0.967061, 1.97, -0.998049, 1.04005, 0.92, -1.12352, 1.17153, 1.97, -0.839075, 1.17153, 1.97, -0.839075, 1.33215, 0.92, -0.896416, 1.17153, 1.97, -0.628896, 1.17153, 1.97, -0.839075, 1.33215, 0.92, -0.59616, 1.43414, 0.56, -1.288, 1.33215, 0.92, -0.59616, 1.33215, 0.92, -0.896416, 1.43414, 0.56, -0.552, 1.59349, 0, -1.38, 1.43414, 0.56, -0.552, 1.43414, 0.56, -1.288, 1.59349, 0, -0.46, 1.59349, 0, -0.46, 1.33215, 0.92, -1.2144, 0, 0, -0.46, 0.796743, 0.56, -0.184, 0.796743, 0, 0, 0.159349, 0.56, -0.552, 0.159349, 0.56, -0.552, 0.796743, 0.92, -0.28704, 0.796743, 0.56, -0.184, 0.261332, 0.92, -0.59616, 0.261332, 0.92, -0.59616, 0.796743, 1.97, -0.412512, 0.796743, 0.92, -0.28704, 0.421955, 1.97, -0.628896, 0.421955, 1.97, -0.752337, 0.421955, 1.97, -0.628896, 0.421955, 1.97, -0.752337, 0.755492, 0.92, -0.772504, 0.767868, 1.97, -0.752337, 0.261332, 0.92, -0.772504, 0.261332, 0.92, -0.772504, 0.747635, 0.56, -0.761934, 0.755492, 0.92, -0.772504, 0.159349, 0.56, -0.761934, 0.747635, 0.56, -0.761934, 0.159349, 0.56, -0.761934, 0.659291, 0.56, -1.2439, 0.755492, 0.92, -0.772504, 0.747635, 0.56, -0.761934, 0.718388, 0.92, -0.974932, 0.741895, 1.97, -0.894036, 0.755492, 0.92, -0.772504, 0.718388, 0.92, -0.974932, 0.767868, 1.97, -0.752337, 0.681284, 0.92, -1.17736, 0.159349, 0.56, -0.761934, 0, 0, -1.38, 0.159349, 0.56, -1.288, 0.159349, 0.56, -0.552, 0, 0, -0.46, 0.261332, 0.92, -0.59616, 0.261332, 0.92, -0.772504, 0.261332, 0.92, -0.772504, 0.421955, 1.97, -0.628896, 0.261332, 0.92, -0.59616, 0.421955, 1.97, -0.752337 )
+
+[sub_resource type="ConvexPolygonShape" id=5]
+points = PoolVector3Array( 0.58757, 1.2544, -0.984256, 0.922635, 1.6905, -1.49088, 0.630135, 1.6905, -0.984256, 0.617817, 1.2544, -1.03664, 0.639379, 0.890147, -1.13557, 0.883576, 0.890147, -1.55853, 1.16128, 0.890147, -1.55853, 0.922635, 1.6905, -1.49088, 0.883576, 0.890147, -1.55853, 1.50764, 1.6905, -1.49088, 1.40571, 0.6885, -1.57558, 1.55653, 0.6885, -1.57558, 1.69291, 0.6885, -1.33936, 1.50764, 1.6905, -1.49088, 1.55653, 0.6885, -1.57558, 1.91719, 3.37922e-016, -1.0673, 1.80014, 1.6905, -0.984256, 1.96514, 9.61779e-031, -0.984256, 1.94951, 4.32275e-016, -0.957199, 1.80014, 1.6905, -0.984256, 1.96514, 9.61779e-031, -0.984256, 1.87376, 0.48, -0.907133, 1.81027, 0.48, -0.797176, 1.75733, 1.02, -0.796756, 1.50764, 1.6905, -0.477631, 1.54036, 1.02, -0.420955, 1.54036, 1.02, -0.420955, 0.922635, 1.6905, -0.477631, 1.50764, 1.6905, -0.477631, 1.47123, 1.02, -0.420955, 0.864048, 0.49, -0.376156, 0.899156, 0.49, -0.376156, 1.32604, 0.48, -0.37531, 1.43838, 0.48, -0.37531, 1.43838, 0.48, -0.37531, 1.4337, 0.48, -0.132985, 1.32604, 0.48, -0.37531, 1.48987, 0.48, -0.259408, 1.8257, 0.48, -0.132985, 1.8257, 0.48, -0.132985, 1.3847, 1.44382e-015, -0.0226961, 1.4337, 0.48, -0.132985, 1.8747, 1.44382e-015, -0.0226961, 1.9163, 0, -2.06883, 1.3847, 1.44382e-015, -0.0226961, 1.8747, 1.44382e-015, -0.0226961, 1.25698, 0, -2.13425, 1.24607, 7.21911e-016, -0.334737, 1.1853, 7.21911e-016, -1.94, 1.16078, 1.00703e-015, -0.334737, 1.12448, 1.44382e-015, -2.04535, 1.11479, 1.44382e-015, -0.0978689, 0.749538, 1.44382e-015, 0, 0.445978, 1.44382e-015, -2.04535, 0.254877, 1.44382e-015, -0.385094, 0.199382, 1.44382e-015, -0.592205, 0.177733, 1.44382e-015, -1.33477, 0.106728, 1.44382e-015, -1.45775, 0.106728, 1.44382e-015, -1.45775, 0.31566, 0.545352, -1.35507, 0.177733, 1.44382e-015, -1.33477, 0.350988, 0.890147, -1.45775, 0.452283, 0.890147, -1.2823, 0.452283, 0.890147, -1.2823, 0.409184, 1.2544, -1.20543, 0.31566, 0.545352, -1.35507, 0.528408, 0.890147, -1.2823, 0.490166, 1.2544, -1.20543, 0.659335, 1.2544, -0.734873, 0.409184, 1.2544, -1.20543, 0.490166, 1.2544, -1.20543, 0.264719, 1.2544, -0.90907, 0.264719, 1.2544, -0.848874, 0.264719, 1.2544, -0.848874, 0, 1.44382e-015, -0.970154, 0.264719, 1.2544, -0.90907, 0, 1.44382e-015, -0.649804, 0, 1.44382e-015, -0.649804, 0, 1.44382e-015, -0.970154, 0, 1.44382e-015, -0.649804, 0.465173, 0.49, -0.623055, 0.199382, 1.44382e-015, -0.592205, 0.264719, 1.2544, -0.848874, 0.659335, 1.2544, -0.734873, 0.636501, 0.49, -0.57356, 0.636501, 0.49, -0.57356, 0.487586, 0.49, -0.539411, 0.465173, 0.49, -0.623055, 0.808234, 0.49, -0.289785, 0.808234, 0.49, -0.289785, 0.254877, 1.44382e-015, -0.385094, 0.487586, 0.49, -0.539411, 0.749538, 1.44382e-015, 0, 0.886457, 0.49, -0.310745, 0.749538, 1.44382e-015, 0, 0.808234, 0.49, -0.289785, 1.11479, 1.44382e-015, -0.0978689, 0.886457, 0.49, -0.310745, 1.16078, 1.00703e-015, -0.334737, 1.11479, 1.44382e-015, -0.0978689, 0.899156, 0.49, -0.376156, 1.16078, 1.00703e-015, -0.334737, 1.24607, 7.21911e-016, -0.334737, 1.4337, 0.48, -0.132985, 1.24607, 7.21911e-016, -0.334737, 1.32604, 0.48, -0.37531, 1.3847, 1.44382e-015, -0.0226961, 0.886457, 0.49, -0.310745, 0.864048, 0.49, -0.376156, 0.899156, 0.49, -0.376156, 0.750077, 0.49, -0.57356, 0.636501, 0.49, -0.57356, 0.731551, 1.2544, -0.734873, 0.750077, 0.49, -0.57356, 0.659335, 1.2544, -0.734873, 0.58757, 1.2544, -0.984256, 0.731551, 1.2544, -0.734873, 0.617817, 1.2544, -1.03664, 0.490166, 1.2544, -1.20543, 0.639379, 0.890147, -1.13557, 0.617817, 1.2544, -1.03664, 0.528408, 0.890147, -1.2823, 0.528408, 0.890147, -1.2823, 0.568108, 0.890147, -1.83381, 0.639379, 0.890147, -1.13557, 0.452283, 0.890147, -1.2823, 0.350988, 0.890147, -1.45775, 0.106728, 1.44382e-015, -1.45775, 0.568108, 0.890147, -1.83381, 0.350988, 0.890147, -1.45775, 0.445978, 1.44382e-015, -2.04535, 1.12448, 1.44382e-015, -2.04535, 0.568108, 0.890147, -1.83381, 0.445978, 1.44382e-015, -2.04535, 1.00235, 0.890147, -1.83381, 1.00235, 0.890147, -1.83381, 0.883576, 0.890147, -1.55853, 1.16128, 0.890147, -1.55853, 1.00235, 0.890147, -1.83381, 1.27, 0.408245, -1.59927, 1.16128, 0.890147, -1.55853, 1.1853, 7.21911e-016, -1.94, 1.48023, 0.6885, -1.77753, 1.27, 0.408245, -1.59927, 1.1853, 7.21911e-016, -1.94, 1.40571, 0.6885, -1.57558, 1.27, 0.408245, -1.59927, 1.48023, 0.6885, -1.77753, 1.55653, 0.6885, -1.57558, 1.40571, 0.6885, -1.57558, 1.63412, 0.6885, -1.76226, 1.69291, 0.6885, -1.33936, 1.70743, 0.6885, -1.36325, 2.05779, 0, -1.29872, 1.69291, 0.6885, -1.33936, 1.70743, 0.6885, -1.36325, 1.91719, 3.37922e-016, -1.0673, 1.91719, 3.37922e-016, -1.0673, 2.05779, 0, -1.29872, 1.94951, 4.32275e-016, -0.957199, 1.96514, 9.61779e-031, -0.984256, 2.1197, 1.44382e-015, -0.574142, 2.0217, 0.48, -0.574142, 1.94951, 4.32275e-016, -0.957199, 2.1197, 1.44382e-015, -0.574142, 1.87376, 0.48, -0.907133, 1.90937, 0.48, -0.574142, 1.87376, 0.48, -0.907133, 2.0217, 0.48, -0.574142, 1.81027, 0.48, -0.797176, 1.85623, 1.02, -0.574142, 1.81027, 0.48, -0.797176, 1.90937, 0.48, -0.574142, 1.75733, 1.02, -0.796756, 1.74297, 1.02, -0.319207, 1.75733, 1.02, -0.796756, 1.85623, 1.02, -0.574142, 1.54036, 1.02, -0.420955, 1.51644, 1.02, -0.319207, 1.47123, 1.02, -0.420955, 1.51644, 1.02, -0.319207, 1.43838, 0.48, -0.37531, 1.47123, 1.02, -0.420955, 1.48987, 0.48, -0.259408, 1.74297, 1.02, -0.319207, 1.48987, 0.48, -0.259408, 1.51644, 1.02, -0.319207, 1.76953, 0.48, -0.259408, 1.76953, 0.48, -0.259408, 2.1197, 1.44382e-015, -0.574142, 1.8257, 0.48, -0.132985, 2.0217, 0.48, -0.574142, 1.8747, 1.44382e-015, -0.0226961, 1.74297, 1.02, -0.319207, 1.90937, 0.48, -0.574142, 1.76953, 0.48, -0.259408, 1.85623, 1.02, -0.574142, 1.70743, 0.6885, -1.36325, 1.9163, 0, -2.06883, 2.05779, 0, -1.29872, 1.63412, 0.6885, -1.76226, 1.48023, 0.6885, -1.77753, 1.9163, 0, -2.06883, 1.63412, 0.6885, -1.76226, 1.25698, 0, -2.13425, 1.25698, 0, -2.13425, 1.12448, 1.44382e-015, -2.04535, 0.630135, 1.6905, -0.984256, 0.731551, 1.2544, -0.734873, 0.58757, 1.2544, -0.984256, 0.922635, 1.6905, -0.477631, 0.750077, 0.49, -0.57356, 0.864048, 0.49, -0.376156, 0.922635, 1.6905, -1.49088, 0.922635, 1.6905, -0.477631, 0.630135, 1.6905, -0.984256, 0.924102, 1.6905, -0.904696, 1.09273, 1.6905, -0.612631, 1.50764, 1.6905, -0.477631, 1.42997, 1.6905, -0.612631, 1.5986, 1.6905, -0.904696, 1.80014, 1.6905, -0.984256, 1.50764, 1.6905, -1.49088, 1.42997, 1.6905, -1.19676, 1.09273, 1.6905, -1.19676, 1.13825, 2.4495, -1.1179, 0.924102, 1.6905, -0.904696, 1.09273, 1.6905, -1.19676, 1.01516, 2.4495, -0.904696, 1.13825, 2.4495, -0.691488, 0.924102, 1.6905, -0.904696, 1.01516, 2.4495, -0.904696, 1.09273, 1.6905, -0.612631, 1.38445, 2.4495, -0.691488, 1.09273, 1.6905, -0.612631, 1.13825, 2.4495, -0.691488, 1.42997, 1.6905, -0.612631, 1.38445, 2.4495, -0.691488, 1.5986, 1.6905, -0.904696, 1.42997, 1.6905, -0.612631, 1.50754, 2.4495, -0.904696, 1.50754, 2.4495, -0.904696, 1.42997, 1.6905, -1.19676, 1.5986, 1.6905, -0.904696, 1.38445, 2.4495, -1.1179, 1.13825, 2.4495, -1.1179, 1.42997, 1.6905, -1.19676, 1.38445, 2.4495, -1.1179, 1.09273, 1.6905, -1.19676, 1.38445, 2.4495, -0.691488, 1.13825, 2.4495, -1.1179, 1.38445, 2.4495, -1.1179, 1.13825, 2.4495, -0.691488, 1.01516, 2.4495, -0.904696, 1.50754, 2.4495, -0.904696, 0.199382, 1.44382e-015, -0.592205, 0.487586, 0.49, -0.539411, 0.254877, 1.44382e-015, -0.385094, 0.465173, 0.49, -0.623055, 0.409184, 1.2544, -1.20543, 0, 1.44382e-015, -0.970154, 0.177733, 1.44382e-015, -1.33477, 0.264719, 1.2544, -0.90907, 0.31566, 0.545352, -1.35507 )
+
+[sub_resource type="ConvexPolygonShape" id=6]
+points = PoolVector3Array( 1.93085, 1.40998e-017, -1.35512, 2.25433, 0.8321, -1.28609, 2.14585, 0.8321, -1.17761, 2.22469, 2.81997e-017, -1.64896, 2.72469, 2.81997e-017, -1.29019, 2.25433, 0.8321, -1.28609, 2.22469, 2.81997e-017, -1.64896, 2.40417, 0.8321, -1.17857, 2.33217, 0.8321, -0.926507, 2.25433, 0.8321, -1.28609, 2.40417, 0.8321, -1.17857, 2.14706, 0.8321, -1.17691, 2.14706, 0.8321, -0.926507, 2.14706, 0.8321, -0.926507, 2.096, 1.75112, -1.14743, 2.14706, 0.8321, -1.17691, 2.096, 1.75112, -0.8024, 2.19328, 1.40998e-017, -0.648961, 2.096, 1.75112, -0.457368, 2.19328, 0, -0.4012, 1.49839, 0, 0, 2.096, 1.75112, -0.457368, 2.19328, 0, -0.4012, 1.49839, 1.75112, -0.112336, 1.49839, 1.75112, -0.112336, 2.01233, 2.44496, -0.471199, 2.096, 1.75112, -0.457368, 1.49839, 2.44496, -0.174472, 1.49839, 2.44496, -0.174472, 1.949, 3.58484, -0.485643, 2.01233, 2.44496, -0.471199, 1.52242, 3.58484, -0.239359, 1.52242, 3.58484, -0.239359, 1.949, 3.58484, -0.731926, 1.949, 3.58484, -0.485643, 1.48128, 3.58484, -0.872963, 1.33057, 3.58484, -0.350124, 1.33057, 3.58484, -0.350124, 1.44881, 2.44496, -0.937851, 1.48128, 3.58484, -0.872963, 1.26724, 2.44496, -0.307924, 1.26724, 2.44496, -0.307924, 0.984438, 2.44496, -0.767927, 1.44881, 2.44496, -0.937851, 0.984438, 2.44496, -0.471199, 0.984438, 2.44496, -0.471199, 0.900773, 1.75112, -0.8024, 0.984438, 2.44496, -0.767927, 0.900773, 1.75112, -0.457368, 0.900773, 1.75112, -0.457368, 0.86806, 1.1623, -0.507287, 0.900773, 1.75112, -0.8024, 0.849186, 0.822583, -0.427585, 0.849186, 0.822583, -0.427585, 0.796743, 1.1623, -0.466112, 0.86806, 1.1623, -0.507287, 0.796743, 0.5428, -0.34064, 0.882718, 0.5428, -0.390277, 0.960153, 0.3304, -0.331944, 0.796743, 0.5428, -0.34064, 0.882718, 0.5428, -0.390277, 0.796743, 0.3304, -0.2376, 0.159349, 0.3304, -0.6056, 0.796743, 0.5428, -0.34064, 0.796743, 0.3304, -0.2376, 0.261332, 0.5428, -0.64976, 0.261332, 0.5428, -0.64976, 0.796743, 1.1623, -0.466112, 0.796743, 0.5428, -0.34064, 0.421955, 1.1623, -0.682496, 0.421955, 1.1623, -0.805937, 0.796743, 1.1623, -0.466112, 0.421955, 1.1623, -0.682496, 0.767868, 1.1623, -0.805937, 0.86806, 1.1623, -1.00592, 0.741895, 1.1623, -0.947636, 0.718388, 0.5428, -1.02853, 0.86806, 1.1623, -1.00592, 0.741895, 1.1623, -0.947636, 0.833643, 0.5428, -1.08177, 0.900773, 1.75112, -1.14743, 0.86806, 1.1623, -1.00592, 0.833643, 0.5428, -1.08177, 0.86806, 1.1623, -0.507287, 0.900773, 1.75112, -1.14743, 1.44074, 1.75112, -0.999986, 0.900773, 1.75112, -0.8024, 1.49839, 1.75112, -1.49246, 2.096, 1.75112, -0.8024, 2.096, 1.75112, -0.8024, 1.44881, 2.44496, -0.937851, 1.44074, 1.75112, -0.999986, 2.01233, 2.44496, -0.767927, 2.01233, 2.44496, -0.767927, 1.48128, 3.58484, -0.872963, 1.44881, 2.44496, -0.937851, 1.949, 3.58484, -0.731926, 2.01233, 2.44496, -0.767927, 1.949, 3.58484, -0.485643, 1.949, 3.58484, -0.731926, 2.01233, 2.44496, -0.471199, 2.096, 1.75112, -0.8024, 2.01233, 2.44496, -0.471199, 2.01233, 2.44496, -0.767927, 2.096, 1.75112, -0.457368, 0.984438, 2.44496, -0.767927, 1.44074, 1.75112, -0.999986, 1.44881, 2.44496, -0.937851, 0.900773, 1.75112, -0.8024, 2.096, 1.75112, -1.14743, 1.49839, 1.75112, -1.49246, 2.14706, 0.8321, -1.17691, 2.096, 1.75112, -1.14743, 2.14585, 0.8321, -1.17761, 1.93085, 1.40998e-017, -1.35512, 1.49839, 0, -1.6048, 1.49839, 0, -1.6048, 1.49839, 0, 0, 1.93085, 1.40998e-017, -1.35512, 1.39767, 0, -1.54665, 1.10115, 0, -0.229347, 0.796743, 0, -0.0536, 0.796743, 0, -1.8936, 0, 0, -0.5136, 0, 0, -1.4336, 0, 0, -1.4336, 0.159349, 0.3304, -0.6056, 0, 0, -0.5136, 0.159349, 0.3304, -0.815534, 0.261332, 0.5428, -0.64976, 0.261332, 0.5428, -0.826104, 0.261332, 0.5428, -0.826104, 0.421955, 1.1623, -0.682496, 0.261332, 0.5428, -0.64976, 0.421955, 1.1623, -0.805937, 0.755492, 0.5428, -0.826104, 0.421955, 1.1623, -0.805937, 0.261332, 0.5428, -0.826104, 0.767868, 1.1623, -0.805937, 0.755492, 0.5428, -0.826104, 0.741895, 1.1623, -0.947636, 0.767868, 1.1623, -0.805937, 0.718388, 0.5428, -1.02853, 0.755492, 0.5428, -0.826104, 0.659291, 0.3304, -1.2975, 0.718388, 0.5428, -1.02853, 0.747635, 0.3304, -0.815534, 0.747635, 0.3304, -0.815534, 0.159349, 0.3304, -1.3416, 0.659291, 0.3304, -1.2975, 0.159349, 0.3304, -0.815534, 0.159349, 0.3304, -1.3416, 0.796743, 0, -1.8936, 0.159349, 0.3304, -1.3416, 0, 0, -1.4336, 0.796743, 0.3304, -1.7096, 0.796743, 0.3304, -1.7096, 1.11544, 0.3304, -1.5256, 1.11544, 0.3304, -1.5256, 0.681284, 0.5428, -1.23096, 0.659291, 0.3304, -1.2975, 1.06445, 0.5428, -1.42256, 0.833643, 0.5428, -1.18619, 0.681284, 0.5428, -1.23096, 1.06445, 0.5428, -1.42256, 0.718388, 0.5428, -1.02853, 0.681284, 0.5428, -1.23096, 0.833643, 0.5428, -1.08177, 0.833643, 0.5428, -1.18619, 1.15375, 0.5428, -1.371, 0.900773, 1.75112, -1.14743, 0.833643, 0.5428, -1.18619, 1.49839, 1.75112, -1.49246, 1.25668, 0.3304, -1.44406, 1.49839, 0, -1.6048, 1.39767, 0, -1.54665, 1.11544, 0.3304, -1.5256, 1.39767, 0, -1.54665, 1.25668, 0.3304, -1.44406, 0.796743, 0.3304, -1.7096, 0.796743, 0, -1.8936, 1.25668, 0.3304, -1.44406, 1.06445, 0.5428, -1.42256, 1.11544, 0.3304, -1.5256, 1.15375, 0.5428, -1.371, 1.15375, 0.5428, -1.371, 0.747635, 0.3304, -0.815534, 0.261332, 0.5428, -0.826104, 0.159349, 0.3304, -0.815534, 0.755492, 0.5428, -0.826104, 0.796743, 0.3304, -0.2376, 0, 0, -0.5136, 0.159349, 0.3304, -0.6056, 0.796743, 0, -0.0536, 0.960153, 0.3304, -0.331944, 0.796743, 0, -0.0536, 0.796743, 0.3304, -0.2376, 1.10115, 0, -0.229347, 1.49839, 1.75112, -0.112336, 1.10115, 0, -0.229347, 0.960153, 0.3304, -0.331944, 1.49839, 0, 0, 0.882718, 0.5428, -0.390277, 0.849186, 0.822583, -0.427585, 0.900773, 1.75112, -0.457368, 0.900773, 1.75112, -0.457368, 1.49839, 2.44496, -0.174472, 1.49839, 1.75112, -0.112336, 0.984438, 2.44496, -0.471199, 1.26724, 2.44496, -0.307924, 1.26724, 2.44496, -0.307924, 1.52242, 3.58484, -0.239359, 1.49839, 2.44496, -0.174472, 1.33057, 3.58484, -0.350124, 2.19328, 0, -0.4012, 2.19328, 1.40998e-017, -0.648961, 2.22469, 2.81997e-017, -1.64896, 2.54154, 2.81997e-017, -0.648961, 2.72469, 2.81997e-017, -1.29019, 2.33217, 0.8321, -0.926507, 2.72469, 2.81997e-017, -1.29019, 2.54154, 2.81997e-017, -0.648961, 2.40417, 0.8321, -1.17857, 2.54154, 2.81997e-017, -0.648961, 2.14706, 0.8321, -0.926507, 2.33217, 0.8321, -0.926507, 2.19328, 1.40998e-017, -0.648961, 2.14585, 0.8321, -1.17761 )
 
 [node name="Environment" type="Spatial"]
 
@@ -218,7 +226,7 @@ material/8 = null
 material/9 = null
 
 [node name="naturePack_018" type="MeshInstance" parent="Base_Campground/naturePack_019"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.38119, -2.90682, 4.03794 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -11.2632, -2.90682, 4.40132 )
 mesh = ExtResource( 3 )
 material/0 = null
 material/1 = null
@@ -269,6 +277,11 @@ material/2 = null
 material/3 = null
 material/4 = null
 
+[node name="StaticBody" type="StaticBody" parent="Base_Campground"]
+
+[node name="CollisionShape" type="CollisionShape" parent="Base_Campground/StaticBody"]
+shape = SubResource( 3 )
+
 [node name="River" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.22295, 5.27829, 0.77598 )
 mesh = ExtResource( 7 )
@@ -287,25 +300,9 @@ material/11 = null
 material/12 = null
 material/13 = null
 
-[node name="naturePack_003" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.725604, 7.08509, -4.93211 )
-mesh = ExtResource( 8 )
-material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-
-[node name="naturePack_004" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.68825, 6.97113, -6.91664 )
-mesh = ExtResource( 9 )
-material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-
 [node name="naturePack_005" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.29466, 9.22458, -8.83232 )
-mesh = ExtResource( 10 )
+mesh = ExtResource( 8 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -313,14 +310,14 @@ material/3 = null
 
 [node name="naturePack_006" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.325383, 7.97309, -9.47925 )
-mesh = ExtResource( 11 )
+mesh = ExtResource( 9 )
 material/0 = null
 material/1 = null
 material/2 = null
 
 [node name="naturePack_007" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.54297, 9.30147, -9.15774 )
-mesh = ExtResource( 12 )
+mesh = ExtResource( 10 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -330,8 +327,8 @@ material/5 = null
 material/6 = null
 
 [node name="naturePack_008" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10.4836, 9.34322, -4.02624 )
-mesh = ExtResource( 13 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10.4836, 5.7209, -4.02624 )
+mesh = ExtResource( 11 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -343,8 +340,8 @@ material/7 = null
 material/8 = null
 
 [node name="naturePack_009" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 13.277, 9.42805, -1.51426 )
-mesh = ExtResource( 14 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 13.3251, 6.84105, -1.51372 )
+mesh = ExtResource( 12 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -355,7 +352,7 @@ material/6 = null
 
 [node name="naturePack_010" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 18.9034, 16.9592, -8.40546 )
-mesh = ExtResource( 15 )
+mesh = ExtResource( 13 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -366,42 +363,73 @@ material/6 = null
 
 [node name="naturePack_flat_013" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 16.9153, 19.0576, -10.2321 )
-mesh = ExtResource( 16 )
+mesh = ExtResource( 14 )
 material/0 = null
 
 [node name="naturePack_026" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.78859, 5.44659, -4.56185 )
-mesh = ExtResource( 17 )
+mesh = ExtResource( 15 )
 material/0 = null
 
 [node name="naturePack_027" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.36009, 5.64563, -2.65951 )
-mesh = ExtResource( 18 )
+mesh = ExtResource( 16 )
 material/0 = null
 
 [node name="naturePack_028" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.97927, 5.27829, -5.69235 )
-mesh = ExtResource( 19 )
+mesh = ExtResource( 17 )
 material/0 = null
 
 [node name="naturePack_029" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.95224, 6.77592, -4.50568 )
+mesh = ExtResource( 18 )
+material/0 = null
+
+[node name="naturePack_034" type="MeshInstance" parent="."]
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, 7.28501, 5.27829, -1.31282 )
+mesh = ExtResource( 19 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
+
+[node name="naturePack_035" type="MeshInstance" parent="."]
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, 7.36504, 5.27829, -2.93063 )
 mesh = ExtResource( 20 )
 material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
 
-[node name="naturePack_030" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -10.5836, 6.77606, -0.415101 )
+[node name="naturePack_036" type="MeshInstance" parent="."]
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, 7.88618, 5.27828, -8.18939 )
 mesh = ExtResource( 21 )
 material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
 
-[node name="naturePack_031" type="MeshInstance" parent="."]
-editor/display_folded = true
-transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, -9.30963, 5.09522, 6.55124 )
+[node name="naturePack_037" type="MeshInstance" parent="."]
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, 8.08855, 5.27829, 1.79499 )
 mesh = ExtResource( 22 )
 material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+material/6 = null
 
-[node name="naturePack_034" type="MeshInstance" parent="naturePack_031"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.53038, 0.183065, -17.7961 )
+[node name="naturePack_038" type="MeshInstance" parent="."]
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, 7.27353, 5.27829, 3.77083 )
 mesh = ExtResource( 23 )
 material/0 = null
 material/1 = null
@@ -411,114 +439,165 @@ material/4 = null
 material/5 = null
 material/6 = null
 
-[node name="naturePack_035" type="MeshInstance" parent="naturePack_031"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.33558, 0.183065, -18.8898 )
+[node name="Grass_1" type="MeshInstance" parent="."]
+transform = Transform( 0.0334489, 0, -0.999441, 0, 1, 0, 0.999441, 0, 0.0334489, 1.57495, 5.38987, -0.089942 )
 mesh = ExtResource( 24 )
 material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
 
-[node name="naturePack_036" type="MeshInstance" parent="naturePack_031"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.60083, 0.183064, -20.1752 )
+[node name="Grass_2" type="MeshInstance" parent="."]
+transform = Transform( 0.0334489, 0, -0.999441, 0, 1, 0, 0.999441, 0, 0.0334489, 2.64521, 5.38987, -0.152825 )
 mesh = ExtResource( 25 )
 material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
-material/6 = null
 
-[node name="naturePack_037" type="MeshInstance" parent="naturePack_031"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 7.43627, 0.183065, -16.4323 )
+[node name="naturePack_043" type="MeshInstance" parent="."]
+transform = Transform( 0.0167244, 0, -0.49972, 0, 0.5, 0, 0.49972, 0, 0.0167244, 8.93476, 5.43073, 7.50869 )
 mesh = ExtResource( 26 )
 material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
-material/6 = null
 
-[node name="naturePack_038" type="MeshInstance" parent="naturePack_031"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.43791, 0.183065, -14.5442 )
+[node name="naturePack_044" type="MeshInstance" parent="."]
+transform = Transform( 0.0334489, 0, -0.999441, 0, 1, 0, 0.999441, 0, 0.0334489, -3.64859, 5.27829, 7.9957 )
 mesh = ExtResource( 27 )
 material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
-material/6 = null
 
-[node name="naturePack_039" type="MeshInstance" parent="naturePack_031"]
-editor/display_folded = true
-transform = Transform( 0.790994, 0, -0.611825, 0, 1, 0, 0.611825, 0, 0.790994, 0.0502755, 0.192384, -11.6222 )
+[node name="naturePack_030" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -10.5836, 6.77606, -0.415101 )
 mesh = ExtResource( 28 )
 material/0 = null
 
-[node name="naturePack_040" type="MeshInstance" parent="naturePack_031/naturePack_039"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 9.22931, -0.00931931, 5.22646 )
+[node name="naturePack_031" type="MeshInstance" parent="."]
+editor/display_folded = true
+transform = Transform( 0.63794, 0, -0.770086, 0, 1, 0, 0.770086, 0, 0.63794, -9.30963, 5.09522, 6.55124 )
 mesh = ExtResource( 29 )
 material/0 = null
 
-[node name="naturePack_041" type="MeshInstance" parent="naturePack_031/naturePack_039"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 9.20226, -0.00931931, 4.1547 )
+[node name="StaticBody" type="StaticBody" parent="naturePack_031"]
+
+[node name="CollisionShape" type="CollisionShape" parent="naturePack_031/StaticBody"]
+shape = SubResource( 4 )
+
+[node name="naturePack_032" type="MeshInstance" parent="."]
+editor/display_folded = true
+transform = Transform( 0.953156, 0, -0.302478, 0, 1, 0, 0.302478, 0, 0.953156, -10.7652, 5.21542, 8.80425 )
 mesh = ExtResource( 30 )
 material/0 = null
 
-[node name="naturePack_042" type="MeshInstance" parent="naturePack_031/naturePack_039"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.4598, -0.00931931, 5.21795 )
+[node name="StaticBody" type="StaticBody" parent="naturePack_032"]
+
+[node name="CollisionShape" type="CollisionShape" parent="naturePack_032/StaticBody"]
+shape = SubResource( 5 )
+
+[node name="naturePack_033" type="MeshInstance" parent="."]
+editor/display_folded = true
+transform = Transform( -0.0850063, 0, -0.99638, 0, 1, 0, 0.99638, 0, -0.0850063, -10.6708, 5.25123, 3.83532 )
 mesh = ExtResource( 31 )
 material/0 = null
 
-[node name="naturePack_043" type="MeshInstance" parent="naturePack_031/naturePack_039"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10.0217, -0.00931883, 2.83214 )
+[node name="StaticBody" type="StaticBody" parent="naturePack_033"]
+
+[node name="CollisionShape" type="CollisionShape" parent="naturePack_033/StaticBody"]
+shape = SubResource( 6 )
+
+[node name="Stepping_Stone_1" type="MeshInstance" parent="."]
+transform = Transform( 0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 8.46776, 5.46345, 9.32868 )
 mesh = ExtResource( 32 )
 material/0 = null
 
-[node name="naturePack_044" type="MeshInstance" parent="naturePack_031/naturePack_039"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.70398, -0.00931931, 3.61428 )
+[node name="Stepping_Stone_2" type="MeshInstance" parent="."]
+transform = Transform( 0.294225, 0, -0.404266, 0, 0.5, 0, 0.404266, 0, 0.294225, 8.93373, 5.46345, 5.59545 )
+mesh = ExtResource( 32 )
+material/0 = null
+
+[node name="Stepping_Stone_3" type="MeshInstance" parent="."]
+transform = Transform( -0.254422, 0, -0.43043, 0, 0.5, 0, 0.43043, 0, -0.254422, 8.30926, 5.46345, 6.36533 )
+mesh = ExtResource( 32 )
+material/0 = null
+
+[node name="Fence_1" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.15507, 5.12462, 9.75245 )
 mesh = ExtResource( 33 )
 material/0 = null
 
-[node name="naturePack_032" type="MeshInstance" parent="."]
-transform = Transform( 0.953156, 0, -0.302478, 0, 1, 0, 0.302478, 0, 0.953156, -10.7746, 5.21542, 8.81287 )
+[node name="Fence_2" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.3552, 5.12462, 9.75245 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="Fence_3" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.448575, 5.12462, 9.75245 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="Fence_4" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.24856, 5.12462, 9.75245 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="Fence_5" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -6.05343, 5.12462, 9.75245 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="Fence_6" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -8.85302, 5.12462, 9.75245 )
+mesh = ExtResource( 33 )
+material/0 = null
+
+[node name="Monument" type="MeshInstance" parent="."]
+editor/display_folded = true
+transform = Transform( 0.0267591, 0, -0.799552, 0, 0.8, 0, 0.799552, 0, 0.0267591, 0.695536, 5.2876, -3.94243 )
 mesh = ExtResource( 34 )
 material/0 = null
 
-[node name="naturePack_033" type="MeshInstance" parent="."]
-transform = Transform( -0.0850063, 0, -0.99638, 0, 1, 0, 0.99638, 0, -0.0850063, -10.6708, 5.25123, 3.83532 )
+[node name="Monument_Fence_1" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.426912, 0, 0.456477, 0, 0.625, 0, -0.456477, 0, -0.426912, 2.04342, 0.211689, 0.571238 )
 mesh = ExtResource( 35 )
 material/0 = null
 
-[node name="naturePack_045" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.58894, 5.46345, 6.85227 )
+[node name="Monument_Fence_2" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.426912, 0, 0.456477, 0, 0.625, 0, -0.456477, 0, -0.426912, 2.12692, 0.211689, -1.92375 )
+mesh = ExtResource( 35 )
+material/0 = null
+
+[node name="Monument_Fence_3" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.456477, 0, -0.426912, 0, 0.625, 0, 0.426912, 0, -0.456477, 2.04298, 0.211689, -2.01621 )
+mesh = ExtResource( 35 )
+material/0 = null
+
+[node name="Monument_Fence_4" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.456477, 0, -0.426912, 0, 0.625, 0, 0.426912, 0, -0.456477, -0.432343, 0.211689, -2.07978 )
+mesh = ExtResource( 35 )
+material/0 = null
+
+[node name="Bench_1" type="MeshInstance" parent="Monument"]
+transform = Transform( 0.625, 0, 3.72529e-009, 0, 0.625, 0, -1.86265e-009, 0, 1.25, -0.313944, 0.265913, 2.43651 )
 mesh = ExtResource( 36 )
 material/0 = null
 
-[node name="naturePack_046" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.15507, 5.12462, 9.75245 )
-mesh = ExtResource( 37 )
+[node name="Bench_2" type="MeshInstance" parent="Monument"]
+transform = Transform( 0.625, 0, 3.72529e-009, 0, 0.625, 0, -1.86265e-009, 0, 1.25, -0.209502, 0.265915, -3.55646 )
+mesh = ExtResource( 36 )
 material/0 = null
 
-[node name="naturePack_047" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.00077, 5.27829, 9.31944 )
-mesh = ExtResource( 38 )
+[node name="Bench_3" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.0209055, 0, -1.2493, 0, 0.625, 0, 0.62465, 0, -0.0418109, -2.17095, 0.265915, -1.76073 )
+mesh = ExtResource( 36 )
+material/0 = null
+
+[node name="Bench_4" type="MeshInstance" parent="Monument"]
+transform = Transform( -0.0209055, 0, -1.2493, 0, 0.625, 0, 0.62465, 0, -0.0418109, 3.48974, 0.265915, -1.57128 )
+mesh = ExtResource( 36 )
 material/0 = null
 
 [node name="naturePack_074" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -7.91987, 5.27829, 4.58434 )
-mesh = ExtResource( 39 )
+mesh = ExtResource( 37 )
 material/0 = null
 material/1 = null
 material/2 = null
 
 [node name="naturePack_073" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.89409, 5.27829, 5.18208 )
-mesh = ExtResource( 40 )
+mesh = ExtResource( 38 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -564,7 +643,7 @@ material/41 = null
 
 [node name="naturePack_072" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -10.6401, 5.27829, 2.8622 )
-mesh = ExtResource( 41 )
+mesh = ExtResource( 39 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -578,55 +657,15 @@ material/9 = null
 material/10 = null
 material/11 = null
 material/12 = null
-
-[node name="naturePack_075" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -4.72698, 5.27829, 1.07561 )
-mesh = ExtResource( 42 )
-material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
-material/6 = null
-material/7 = null
-material/8 = null
-material/9 = null
-material/10 = null
-
-[node name="naturePack_076" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.10344, 5.27829, 1.26437 )
-mesh = ExtResource( 43 )
-material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
-material/6 = null
-material/7 = null
-material/8 = null
-material/9 = null
-material/10 = null
-material/11 = null
-material/12 = null
-material/13 = null
-material/14 = null
-material/15 = null
-material/16 = null
-material/17 = null
-material/18 = null
-material/19 = null
-material/20 = null
 
 [node name="naturePack_077" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.22956, 5.27829, 0.643361 )
-mesh = ExtResource( 44 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.22956, 5.43929, 0.643361 )
+mesh = ExtResource( 40 )
 material/0 = null
 
 [node name="naturePack_078" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.75983, 5.29073, 0.0468417 )
-mesh = ExtResource( 45 )
+mesh = ExtResource( 41 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -644,8 +683,8 @@ material/13 = null
 material/14 = null
 
 [node name="naturePack_079" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.5941, 5.27829, -1.59283 )
-mesh = ExtResource( 46 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.92633, 5.21049, -1.05256 )
+mesh = ExtResource( 42 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -653,8 +692,8 @@ material/3 = null
 material/4 = null
 
 [node name="naturePack_080" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.6066, 5.27829, -2.6646 )
-mesh = ExtResource( 47 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.59096, 5.27829, -1.26085 )
+mesh = ExtResource( 43 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -662,8 +701,8 @@ material/3 = null
 material/4 = null
 
 [node name="naturePack_081" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.33174, 5.27829, -2.99316 )
-mesh = ExtResource( 48 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10.2787, 5.41127, -13.4973 )
+mesh = ExtResource( 44 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -677,14 +716,14 @@ material/9 = null
 
 [node name="naturePack_082" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 7.30178, 5.27829, -4.39994 )
-mesh = ExtResource( 49 )
+mesh = ExtResource( 45 )
 material/0 = null
 material/1 = null
 material/2 = null
 
 [node name="naturePack_083" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.65377, 5.27829, -6.40813 )
-mesh = ExtResource( 50 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.65377, 5.27829, -9.45771 )
+mesh = ExtResource( 46 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -712,12 +751,12 @@ material/23 = null
 
 [node name="naturePack_048" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.47827, 5.27829, -7.60859 )
-mesh = ExtResource( 36 )
+mesh = ExtResource( 32 )
 material/0 = null
 
 [node name="naturePack_051" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.10975, 5.27829, -5.71249 )
-mesh = ExtResource( 51 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 12.5929, 1.56104, -16.0413 )
+mesh = ExtResource( 47 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -726,21 +765,21 @@ material/4 = null
 material/5 = null
 
 [node name="naturePack_052" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.06974, 5.41829, -8.32656 )
-mesh = ExtResource( 52 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.83565, 5.10862, -14.7147 )
+mesh = ExtResource( 48 )
 material/0 = null
 material/1 = null
 material/2 = null
 material/3 = null
 
 [node name="naturePack_053" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.80861, 5.27829, -8.33933 )
-mesh = ExtResource( 53 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.62162, 4.68486, -14.1636 )
+mesh = ExtResource( 49 )
 material/0 = null
 
 [node name="naturePack_085" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.17018, 5.27829, 7.17726 )
-mesh = ExtResource( 54 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 12.007, 5.27829, -10.5452 )
+mesh = ExtResource( 50 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -769,15 +808,15 @@ material/24 = null
 material/25 = null
 
 [node name="naturePack_084" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.27688, 5.77416, 8.10022 )
-mesh = ExtResource( 55 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.54072, 8.18071, -12.9137 )
+mesh = ExtResource( 51 )
 material/0 = null
 material/1 = null
 material/2 = null
 
 [node name="naturePack_086" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.94418, 5.27829, 9.09734 )
-mesh = ExtResource( 56 )
+mesh = ExtResource( 52 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -785,23 +824,23 @@ material/3 = null
 material/4 = null
 
 [node name="naturePack_087" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.62929, 5.27829, 9.39618 )
-mesh = ExtResource( 57 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 8.56564, 7.47266, -10.3676 )
+mesh = ExtResource( 53 )
 material/0 = null
 
 [node name="naturePack_088" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.387182, 6.07102, 9.92712 )
-mesh = ExtResource( 58 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 13.2307, 6.07102, -8.58151 )
+mesh = ExtResource( 54 )
 material/0 = null
 
 [node name="naturePack_089" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 3.12242, 6.36216, 11.3462 )
-mesh = ExtResource( 59 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 10.6131, 6.1902, -8.26812 )
+mesh = ExtResource( 55 )
 material/0 = null
 
 [node name="naturePack_090" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -3.73022, 5.27829, 5.78975 )
-mesh = ExtResource( 60 )
+mesh = ExtResource( 56 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -809,7 +848,7 @@ material/3 = null
 
 [node name="naturePack_091" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.78116, 5.47935, 4.86214 )
-mesh = ExtResource( 61 )
+mesh = ExtResource( 57 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -825,7 +864,7 @@ material/11 = null
 
 [node name="naturePack_092" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.45769, 5.27829, -7.78663 )
-mesh = ExtResource( 62 )
+mesh = ExtResource( 58 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -841,7 +880,7 @@ material/11 = null
 
 [node name="naturePack_093" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -5.33309, 5.57829, -10.624 )
-mesh = ExtResource( 63 )
+mesh = ExtResource( 59 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -859,7 +898,7 @@ material/13 = null
 
 [node name="naturePack_095" type="MeshInstance" parent="."]
 transform = Transform( -0.5, 0, -4.37114e-008, 0, 0.5, 0, 4.37114e-008, 0, -0.5, 7.53997, 5.27829, 1.98984 )
-mesh = ExtResource( 64 )
+mesh = ExtResource( 60 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -884,7 +923,7 @@ material/20 = null
 
 [node name="naturePack_111" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.5371, 5.31683, 1.63326 )
-mesh = ExtResource( 65 )
+mesh = ExtResource( 61 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -892,7 +931,7 @@ material/3 = null
 
 [node name="naturePack_112" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 7.07025, 5.27829, 1.81371 )
-mesh = ExtResource( 66 )
+mesh = ExtResource( 62 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -900,7 +939,7 @@ material/3 = null
 
 [node name="naturePack_113" type="MeshInstance" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 6.64513, 5.27829, 2.43374 )
-mesh = ExtResource( 67 )
+mesh = ExtResource( 63 )
 material/0 = null
 material/1 = null
 material/2 = null
@@ -908,11 +947,12 @@ material/3 = null
 material/4 = null
 
 [node name="Steps" type="MeshInstance" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.48122, 5.61373, -2.08939 )
-mesh = ExtResource( 68 )
+editor/display_folded = true
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 5.48122, 5.61373, -10.1139 )
+mesh = ExtResource( 64 )
 material/0 = null
 
 [node name="naturePack_102" type="MeshInstance" parent="Steps"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0122485, 0.0330901, -0.0975988 )
-mesh = ExtResource( 69 )
+mesh = ExtResource( 65 )
 material/0 = null
