@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/loungeSofaLong.png-f1e64af6fb45bfd9e84467e9c5ddd4be.stex"
+path="res://.import/loungeSofaLong.png-f8cf86bb29afde1630f0864c80b101a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/loungeSofaLong.png"
-dest_files=[ "res://.import/loungeSofaLong.png-f1e64af6fb45bfd9e84467e9c5ddd4be.stex" ]
+source_file="res://Assets/Side/loungeSofaLong.png"
+dest_files=[ "res://.import/loungeSofaLong.png-f8cf86bb29afde1630f0864c80b101a8.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathroomCabinetDrawer.glb-ac9ed32577807455fbf1ddbd838be588.scn"
+path="res://.import/bathroomCabinetDrawer.glb-7d33b8c506e84231971e5e3aa731e15f.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/bathroomCabinetDrawer.glb"
-dest_files=[ "res://.import/bathroomCabinetDrawer.glb-ac9ed32577807455fbf1ddbd838be588.scn" ]
+source_file="res://Assets/Models/GLTF format/bathroomCabinetDrawer.glb"
+dest_files=[ "res://.import/bathroomCabinetDrawer.glb-7d33b8c506e84231971e5e3aa731e15f.scn" ]
 
 [params]
 

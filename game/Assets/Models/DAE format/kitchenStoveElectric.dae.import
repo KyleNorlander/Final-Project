@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenStoveElectric.dae-aa95a7ecedc2938e67b34c0ee1ad5834.scn"
+path="res://.import/kitchenStoveElectric.dae-1378c936fc1f985dce75b4080bbd4de4.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenStoveElectric.dae"
-dest_files=[ "res://.import/kitchenStoveElectric.dae-aa95a7ecedc2938e67b34c0ee1ad5834.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenStoveElectric.dae"
+dest_files=[ "res://.import/kitchenStoveElectric.dae-1378c936fc1f985dce75b4080bbd4de4.scn" ]
 
 [params]
 

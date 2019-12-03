@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/sideTableDrawers.glb-c4539759963c09ad6ac47ba1e5a8b9a4.scn"
+path="res://.import/sideTableDrawers.glb-074860d0afb816f47e67a95c03b4d00e.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/sideTableDrawers.glb"
-dest_files=[ "res://.import/sideTableDrawers.glb-c4539759963c09ad6ac47ba1e5a8b9a4.scn" ]
+source_file="res://Assets/Models/GLTF format/sideTableDrawers.glb"
+dest_files=[ "res://.import/sideTableDrawers.glb-074860d0afb816f47e67a95c03b4d00e.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeDesignChair.glb-be2979a8595a86eb0ecf39206bb92abb.scn"
+path="res://.import/loungeDesignChair.glb-0a2ab168ee85e1e923921501bc1c79b5.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/loungeDesignChair.glb"
-dest_files=[ "res://.import/loungeDesignChair.glb-be2979a8595a86eb0ecf39206bb92abb.scn" ]
+source_file="res://Assets/Models/GLTF format/loungeDesignChair.glb"
+dest_files=[ "res://.import/loungeDesignChair.glb-0a2ab168ee85e1e923921501bc1c79b5.scn" ]
 
 [params]
 

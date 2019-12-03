@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathtub.dae-2b0e707d5ccec3c4da267e45c180529b.scn"
+path="res://.import/bathtub.dae-b6408c0422a7027b4e2fd2b208020c5d.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/bathtub.dae"
-dest_files=[ "res://.import/bathtub.dae-2b0e707d5ccec3c4da267e45c180529b.scn" ]
+source_file="res://Assets/Models/DAE format/bathtub.dae"
+dest_files=[ "res://.import/bathtub.dae-b6408c0422a7027b4e2fd2b208020c5d.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerKeyboard.glb-73f2a3871a9cb558ff4786a58cab97d4.scn"
+path="res://.import/computerKeyboard.glb-da01d81fb532d48cbb0fa06d4a56093d.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/computerKeyboard.glb"
-dest_files=[ "res://.import/computerKeyboard.glb-73f2a3871a9cb558ff4786a58cab97d4.scn" ]
+source_file="res://Assets/Models/GLTF format/computerKeyboard.glb"
+dest_files=[ "res://.import/computerKeyboard.glb-da01d81fb532d48cbb0fa06d4a56093d.scn" ]
 
 [params]
 

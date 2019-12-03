@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/table_SE.png-6c6392bb4184fbbea005d0fdc42bc17e.stex"
+path="res://.import/table_SE.png-5383fd53bb14784f30afaed61a7c03c2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/table_SE.png"
-dest_files=[ "res://.import/table_SE.png-6c6392bb4184fbbea005d0fdc42bc17e.stex" ]
+source_file="res://Assets/Isometric/table_SE.png"
+dest_files=[ "res://.import/table_SE.png-5383fd53bb14784f30afaed61a7c03c2.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallWindow.dae-33a717f280c1c9db12a35d3b6f643671.scn"
+path="res://.import/wallWindow.dae-584a8780deb45902ee50373f6a30f3c7.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/wallWindow.dae"
-dest_files=[ "res://.import/wallWindow.dae-33a717f280c1c9db12a35d3b6f643671.scn" ]
+source_file="res://Assets/Models/DAE format/wallWindow.dae"
+dest_files=[ "res://.import/wallWindow.dae-584a8780deb45902ee50373f6a30f3c7.scn" ]
 
 [params]
 

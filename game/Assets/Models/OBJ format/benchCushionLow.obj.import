@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/benchCushionLow.obj-95f832bf6b1439924cf1ff52a7624d8b.mesh"
+path="res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh"
 
 [deps]
 
-files=[ "res://.import/benchCushionLow.obj-95f832bf6b1439924cf1ff52a7624d8b.mesh" ]
+files=[ "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh" ]
 
-source_file="res://assets/Models/OBJ format/benchCushionLow.obj"
-dest_files=[ "res://.import/benchCushionLow.obj-95f832bf6b1439924cf1ff52a7624d8b.mesh", "res://.import/benchCushionLow.obj-95f832bf6b1439924cf1ff52a7624d8b.mesh" ]
+source_file="res://Assets/Models/OBJ format/benchCushionLow.obj"
+dest_files=[ "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh", "res://.import/benchCushionLow.obj-3b8bd5e6eaa6c712f060d299e986053b.mesh" ]
 
 [params]
 

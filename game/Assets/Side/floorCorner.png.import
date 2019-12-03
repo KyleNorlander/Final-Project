@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/floorCorner.png-a7badc9db98d46e9824dffc82083127e.stex"
+path="res://.import/floorCorner.png-e54aa6fbea80411112da34f6137f70ae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/floorCorner.png"
-dest_files=[ "res://.import/floorCorner.png-a7badc9db98d46e9824dffc82083127e.stex" ]
+source_file="res://Assets/Side/floorCorner.png"
+dest_files=[ "res://.import/floorCorner.png-e54aa6fbea80411112da34f6137f70ae.stex" ]
 
 [params]
 

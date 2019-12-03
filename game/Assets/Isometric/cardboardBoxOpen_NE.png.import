@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cardboardBoxOpen_NE.png-79190e82d5d1a5a3c242cc3391fe0c35.stex"
+path="res://.import/cardboardBoxOpen_NE.png-9cb43fad0fd7d36211f16c6eaa28b6ee.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/cardboardBoxOpen_NE.png"
-dest_files=[ "res://.import/cardboardBoxOpen_NE.png-79190e82d5d1a5a3c242cc3391fe0c35.stex" ]
+source_file="res://Assets/Isometric/cardboardBoxOpen_NE.png"
+dest_files=[ "res://.import/cardboardBoxOpen_NE.png-9cb43fad0fd7d36211f16c6eaa28b6ee.stex" ]
 
 [params]
 

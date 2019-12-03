@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bathtub.glb-ef189073e474bfc8f48206b1e873134d.scn"
+path="res://.import/bathtub.glb-ffc1b6c7a26ac56ce76aec190808440f.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/bathtub.glb"
-dest_files=[ "res://.import/bathtub.glb-ef189073e474bfc8f48206b1e873134d.scn" ]
+source_file="res://Assets/Models/GLTF format/bathtub.glb"
+dest_files=[ "res://.import/bathtub.glb-ffc1b6c7a26ac56ce76aec190808440f.scn" ]
 
 [params]
 

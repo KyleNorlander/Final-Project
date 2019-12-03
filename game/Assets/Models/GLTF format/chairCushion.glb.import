@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairCushion.glb-be10ee0ddc0d1db2ca7bbb04a6553dcb.scn"
+path="res://.import/chairCushion.glb-ed500a4ef257ac3059b51695a4885d14.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/chairCushion.glb"
-dest_files=[ "res://.import/chairCushion.glb-be10ee0ddc0d1db2ca7bbb04a6553dcb.scn" ]
+source_file="res://Assets/Models/GLTF format/chairCushion.glb"
+dest_files=[ "res://.import/chairCushion.glb-ed500a4ef257ac3059b51695a4885d14.scn" ]
 
 [params]
 

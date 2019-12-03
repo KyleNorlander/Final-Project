@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableCoffeeGlass_NW.png-4e07df8716b080267f6c446c7448edfc.stex"
+path="res://.import/tableCoffeeGlass_NW.png-aed67d1b57b6f219832c5b7bdd5469e0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/tableCoffeeGlass_NW.png"
-dest_files=[ "res://.import/tableCoffeeGlass_NW.png-4e07df8716b080267f6c446c7448edfc.stex" ]
+source_file="res://Assets/Isometric/tableCoffeeGlass_NW.png"
+dest_files=[ "res://.import/tableCoffeeGlass_NW.png-aed67d1b57b6f219832c5b7bdd5469e0.stex" ]
 
 [params]
 

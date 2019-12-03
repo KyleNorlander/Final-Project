@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableCoffee.png-96c02b1880f768d3f2801df58ca10756.stex"
+path="res://.import/tableCoffee.png-5525877e8cd126edb82e886644529824.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/tableCoffee.png"
-dest_files=[ "res://.import/tableCoffee.png-96c02b1880f768d3f2801df58ca10756.stex" ]
+source_file="res://Assets/Side/tableCoffee.png"
+dest_files=[ "res://.import/tableCoffee.png-5525877e8cd126edb82e886644529824.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCabinetCornerRound.glb-69559d5e3881159549769352737a4438.scn"
+path="res://.import/kitchenCabinetCornerRound.glb-5d4a0f212eb906ab5ee0d6c3dceb8e7e.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenCabinetCornerRound.glb"
-dest_files=[ "res://.import/kitchenCabinetCornerRound.glb-69559d5e3881159549769352737a4438.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenCabinetCornerRound.glb"
+dest_files=[ "res://.import/kitchenCabinetCornerRound.glb-5d4a0f212eb906ab5ee0d6c3dceb8e7e.scn" ]
 
 [params]
 

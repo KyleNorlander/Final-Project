@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetBed.dae-87768070e208dcff4157887658c6b6ad.scn"
+path="res://.import/cabinetBed.dae-56925500996759597df8482a47b991f8.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/cabinetBed.dae"
-dest_files=[ "res://.import/cabinetBed.dae-87768070e208dcff4157887658c6b6ad.scn" ]
+source_file="res://Assets/Models/DAE format/cabinetBed.dae"
+dest_files=[ "res://.import/cabinetBed.dae-56925500996759597df8482a47b991f8.scn" ]
 
 [params]
 

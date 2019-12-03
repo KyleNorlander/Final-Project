@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableCross.png-528cee3eb4dc774898f823502d3f8523.stex"
+path="res://.import/tableCross.png-7aa40e826c848779251f0291e9f30696.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/tableCross.png"
-dest_files=[ "res://.import/tableCross.png-528cee3eb4dc774898f823502d3f8523.stex" ]
+source_file="res://Assets/Side/tableCross.png"
+dest_files=[ "res://.import/tableCross.png-7aa40e826c848779251f0291e9f30696.stex" ]
 
 [params]
 

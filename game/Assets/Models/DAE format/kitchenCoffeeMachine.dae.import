@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenCoffeeMachine.dae-e3343d6a0005a2c4868defa6caad5aae.scn"
+path="res://.import/kitchenCoffeeMachine.dae-7f44d27b84b23433e1107de8ec3bcf6c.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/kitchenCoffeeMachine.dae"
-dest_files=[ "res://.import/kitchenCoffeeMachine.dae-e3343d6a0005a2c4868defa6caad5aae.scn" ]
+source_file="res://Assets/Models/DAE format/kitchenCoffeeMachine.dae"
+dest_files=[ "res://.import/kitchenCoffeeMachine.dae-7f44d27b84b23433e1107de8ec3bcf6c.scn" ]
 
 [params]
 

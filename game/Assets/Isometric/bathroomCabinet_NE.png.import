@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bathroomCabinet_NE.png-7b466236cd9a02114dd1f382e794cad1.stex"
+path="res://.import/bathroomCabinet_NE.png-60b929d669e4ef97330803c1b89daa6b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bathroomCabinet_NE.png"
-dest_files=[ "res://.import/bathroomCabinet_NE.png-7b466236cd9a02114dd1f382e794cad1.stex" ]
+source_file="res://Assets/Isometric/bathroomCabinet_NE.png"
+dest_files=[ "res://.import/bathroomCabinet_NE.png-60b929d669e4ef97330803c1b89daa6b.stex" ]
 
 [params]
 

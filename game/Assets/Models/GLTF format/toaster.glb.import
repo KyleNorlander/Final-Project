@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toaster.glb-991b580ced2b08b4c96d5636b3e96ad6.scn"
+path="res://.import/toaster.glb-f4d98459e621f57649a2a08222f4ad09.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/toaster.glb"
-dest_files=[ "res://.import/toaster.glb-991b580ced2b08b4c96d5636b3e96ad6.scn" ]
+source_file="res://Assets/Models/GLTF format/toaster.glb"
+dest_files=[ "res://.import/toaster.glb-f4d98459e621f57649a2a08222f4ad09.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/benchCushionLow_SE.png-29002b7956388b9dc84bfa85813b57c6.stex"
+path="res://.import/benchCushionLow_SE.png-c96c53c558db5d51f2552370f60e633a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/benchCushionLow_SE.png"
-dest_files=[ "res://.import/benchCushionLow_SE.png-29002b7956388b9dc84bfa85813b57c6.stex" ]
+source_file="res://Assets/Isometric/benchCushionLow_SE.png"
+dest_files=[ "res://.import/benchCushionLow_SE.png-c96c53c558db5d51f2552370f60e633a.stex" ]
 
 [params]
 

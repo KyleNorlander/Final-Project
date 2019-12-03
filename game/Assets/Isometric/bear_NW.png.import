@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bear_NW.png-7e769e9e0c122b8648dadd5cb58467c8.stex"
+path="res://.import/bear_NW.png-8c3893b9e01cc5d0899d327888e9aaa6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bear_NW.png"
-dest_files=[ "res://.import/bear_NW.png-7e769e9e0c122b8648dadd5cb58467c8.stex" ]
+source_file="res://Assets/Isometric/bear_NW.png"
+dest_files=[ "res://.import/bear_NW.png-8c3893b9e01cc5d0899d327888e9aaa6.stex" ]
 
 [params]
 

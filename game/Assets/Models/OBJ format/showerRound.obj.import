@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/showerRound.obj-7500c04255b399d03e1ba7453da35fc1.mesh"
+path="res://.import/showerRound.obj-742823e2da692cbb0efa283f0118f06c.mesh"
 
 [deps]
 
-files=[ "res://.import/showerRound.obj-7500c04255b399d03e1ba7453da35fc1.mesh" ]
+files=[ "res://.import/showerRound.obj-742823e2da692cbb0efa283f0118f06c.mesh" ]
 
-source_file="res://assets/Models/OBJ format/showerRound.obj"
-dest_files=[ "res://.import/showerRound.obj-7500c04255b399d03e1ba7453da35fc1.mesh", "res://.import/showerRound.obj-7500c04255b399d03e1ba7453da35fc1.mesh" ]
+source_file="res://Assets/Models/OBJ format/showerRound.obj"
+dest_files=[ "res://.import/showerRound.obj-742823e2da692cbb0efa283f0118f06c.mesh", "res://.import/showerRound.obj-742823e2da692cbb0efa283f0118f06c.mesh" ]
 
 [params]
 

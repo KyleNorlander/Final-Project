@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chair.glb-9e9419b70db545dd2e48f3ad4ab0ac63.scn"
+path="res://.import/chair.glb-17e2f6d486e2fb1531ca4319d8d47375.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/chair.glb"
-dest_files=[ "res://.import/chair.glb-9e9419b70db545dd2e48f3ad4ab0ac63.scn" ]
+source_file="res://Assets/Models/GLTF format/chair.glb"
+dest_files=[ "res://.import/chair.glb-17e2f6d486e2fb1531ca4319d8d47375.scn" ]
 
 [params]
 

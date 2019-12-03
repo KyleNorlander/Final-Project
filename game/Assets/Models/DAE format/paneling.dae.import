@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/paneling.dae-1accfad32223d063971927262e5fbd85.scn"
+path="res://.import/paneling.dae-309175a5da65b847323b8feb1126ffbe.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/paneling.dae"
-dest_files=[ "res://.import/paneling.dae-1accfad32223d063971927262e5fbd85.scn" ]
+source_file="res://Assets/Models/DAE format/paneling.dae"
+dest_files=[ "res://.import/paneling.dae-309175a5da65b847323b8feb1126ffbe.scn" ]
 
 [params]
 

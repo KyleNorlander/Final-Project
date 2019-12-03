@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bear_SW.png-3cd17e33f7799fc7fd0771112380f87c.stex"
+path="res://.import/bear_SW.png-fa44c869f7d9125ca7857b39b3cfaded.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bear_SW.png"
-dest_files=[ "res://.import/bear_SW.png-3cd17e33f7799fc7fd0771112380f87c.stex" ]
+source_file="res://Assets/Isometric/bear_SW.png"
+dest_files=[ "res://.import/bear_SW.png-fa44c869f7d9125ca7857b39b3cfaded.stex" ]
 
 [params]
 

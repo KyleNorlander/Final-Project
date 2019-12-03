@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ceilingFan.dae-8ba63e5677790bc3ebe16f191b55f1cc.scn"
+path="res://.import/ceilingFan.dae-a8db69bc9fe2a95074c9f279dc1bebb6.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/ceilingFan.dae"
-dest_files=[ "res://.import/ceilingFan.dae-8ba63e5677790bc3ebe16f191b55f1cc.scn" ]
+source_file="res://Assets/Models/DAE format/ceilingFan.dae"
+dest_files=[ "res://.import/ceilingFan.dae-a8db69bc9fe2a95074c9f279dc1bebb6.scn" ]
 
 [params]
 

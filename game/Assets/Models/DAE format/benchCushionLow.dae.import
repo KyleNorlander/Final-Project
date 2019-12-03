@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/benchCushionLow.dae-3520376f1c1026f08680b97deba961a1.scn"
+path="res://.import/benchCushionLow.dae-033a5bc84a927b38158175958f40783a.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/benchCushionLow.dae"
-dest_files=[ "res://.import/benchCushionLow.dae-3520376f1c1026f08680b97deba961a1.scn" ]
+source_file="res://Assets/Models/DAE format/benchCushionLow.dae"
+dest_files=[ "res://.import/benchCushionLow.dae-033a5bc84a927b38158175958f40783a.scn" ]
 
 [params]
 

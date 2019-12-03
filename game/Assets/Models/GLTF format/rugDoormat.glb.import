@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugDoormat.glb-2742fab97957a17711ccf6517cb4a40e.scn"
+path="res://.import/rugDoormat.glb-286ee085337d8b5d25e8ab37ac6a9f6a.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/rugDoormat.glb"
-dest_files=[ "res://.import/rugDoormat.glb-2742fab97957a17711ccf6517cb4a40e.scn" ]
+source_file="res://Assets/Models/GLTF format/rugDoormat.glb"
+dest_files=[ "res://.import/rugDoormat.glb-286ee085337d8b5d25e8ab37ac6a9f6a.scn" ]
 
 [params]
 

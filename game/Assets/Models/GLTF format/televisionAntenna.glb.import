@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/televisionAntenna.glb-e78eaa71f15ef5f7b1e5da806a355698.scn"
+path="res://.import/televisionAntenna.glb-bc595fcfd1aa17fd21bd115faa5d3fa0.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/televisionAntenna.glb"
-dest_files=[ "res://.import/televisionAntenna.glb-e78eaa71f15ef5f7b1e5da806a355698.scn" ]
+source_file="res://Assets/Models/GLTF format/televisionAntenna.glb"
+dest_files=[ "res://.import/televisionAntenna.glb-bc595fcfd1aa17fd21bd115faa5d3fa0.scn" ]
 
 [params]
 

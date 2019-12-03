@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/plantSmall1_SE.png-733043b966dc9b6f84efcb493ed11d88.stex"
+path="res://.import/plantSmall1_SE.png-b0aea203d963f77798642f40bd68f7ef.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/plantSmall1_SE.png"
-dest_files=[ "res://.import/plantSmall1_SE.png-733043b966dc9b6f84efcb493ed11d88.stex" ]
+source_file="res://Assets/Isometric/plantSmall1_SE.png"
+dest_files=[ "res://.import/plantSmall1_SE.png-b0aea203d963f77798642f40bd68f7ef.stex" ]
 
 [params]
 

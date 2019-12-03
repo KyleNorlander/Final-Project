@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairsCorner.glb-17d9e3ff96db4507f23760006c6f0f19.scn"
+path="res://.import/stairsCorner.glb-9a26ab5cd59b1efde5f770e75b8f1c64.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/stairsCorner.glb"
-dest_files=[ "res://.import/stairsCorner.glb-17d9e3ff96db4507f23760006c6f0f19.scn" ]
+source_file="res://Assets/Models/GLTF format/stairsCorner.glb"
+dest_files=[ "res://.import/stairsCorner.glb-9a26ab5cd59b1efde5f770e75b8f1c64.scn" ]
 
 [params]
 

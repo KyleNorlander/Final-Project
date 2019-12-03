@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenFridgeSmall_SW.png-8f0ebb8f3c3a8b5d9bfa811bf80572a7.stex"
+path="res://.import/kitchenFridgeSmall_SW.png-6c1c1b2521546df0fc287dc7057486ab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/kitchenFridgeSmall_SW.png"
-dest_files=[ "res://.import/kitchenFridgeSmall_SW.png-8f0ebb8f3c3a8b5d9bfa811bf80572a7.stex" ]
+source_file="res://Assets/Isometric/kitchenFridgeSmall_SW.png"
+dest_files=[ "res://.import/kitchenFridgeSmall_SW.png-6c1c1b2521546df0fc287dc7057486ab.stex" ]
 
 [params]
 

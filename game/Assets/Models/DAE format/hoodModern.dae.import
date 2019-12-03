@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hoodModern.dae-b6de7cd093ecb7ba76aadd50dc1e7e60.scn"
+path="res://.import/hoodModern.dae-21535d91d812722ecdd4c466ed6ed64e.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/hoodModern.dae"
-dest_files=[ "res://.import/hoodModern.dae-b6de7cd093ecb7ba76aadd50dc1e7e60.scn" ]
+source_file="res://Assets/Models/DAE format/hoodModern.dae"
+dest_files=[ "res://.import/hoodModern.dae-21535d91d812722ecdd4c466ed6ed64e.scn" ]
 
 [params]
 

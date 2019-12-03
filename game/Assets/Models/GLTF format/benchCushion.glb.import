@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/benchCushion.glb-66c5ea427bfe8df3ed371b830aad9752.scn"
+path="res://.import/benchCushion.glb-a578f2015e5ee287683f07df08659116.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/benchCushion.glb"
-dest_files=[ "res://.import/benchCushion.glb-66c5ea427bfe8df3ed371b830aad9752.scn" ]
+source_file="res://Assets/Models/GLTF format/benchCushion.glb"
+dest_files=[ "res://.import/benchCushion.glb-a578f2015e5ee287683f07df08659116.scn" ]
 
 [params]
 

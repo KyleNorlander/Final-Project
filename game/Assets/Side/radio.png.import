@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radio.png-575a03e6187cdb4f04526b1c35d3dec0.stex"
+path="res://.import/radio.png-6984e4a1a0d0b1704950958231929bce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/radio.png"
-dest_files=[ "res://.import/radio.png-575a03e6187cdb4f04526b1c35d3dec0.stex" ]
+source_file="res://Assets/Side/radio.png"
+dest_files=[ "res://.import/radio.png-6984e4a1a0d0b1704950958231929bce.stex" ]
 
 [params]
 

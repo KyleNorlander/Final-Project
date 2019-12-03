@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rugSquare_SE.png-5faf49a80583d22f16cf7e6147744a0d.stex"
+path="res://.import/rugSquare_SE.png-0e603b0bd033a752efe4ff2f338c02c5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/rugSquare_SE.png"
-dest_files=[ "res://.import/rugSquare_SE.png-5faf49a80583d22f16cf7e6147744a0d.stex" ]
+source_file="res://Assets/Isometric/rugSquare_SE.png"
+dest_files=[ "res://.import/rugSquare_SE.png-0e603b0bd033a752efe4ff2f338c02c5.stex" ]
 
 [params]
 

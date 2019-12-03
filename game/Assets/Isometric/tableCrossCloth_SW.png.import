@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableCrossCloth_SW.png-95a1c9778f21cdf62bd6aec1c16445aa.stex"
+path="res://.import/tableCrossCloth_SW.png-d1e43f374e019fbd5f3f4db942d037da.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/tableCrossCloth_SW.png"
-dest_files=[ "res://.import/tableCrossCloth_SW.png-95a1c9778f21cdf62bd6aec1c16445aa.stex" ]
+source_file="res://Assets/Isometric/tableCrossCloth_SW.png"
+dest_files=[ "res://.import/tableCrossCloth_SW.png-d1e43f374e019fbd5f3f4db942d037da.stex" ]
 
 [params]
 

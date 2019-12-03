@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenStoveElectric.obj-36e5be248b1a4846001134276b555144.mesh"
+path="res://.import/kitchenStoveElectric.obj-c29a49b8d344c734ca56cb535a3530ef.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenStoveElectric.obj-36e5be248b1a4846001134276b555144.mesh" ]
+files=[ "res://.import/kitchenStoveElectric.obj-c29a49b8d344c734ca56cb535a3530ef.mesh" ]
 
-source_file="res://assets/Models/OBJ format/kitchenStoveElectric.obj"
-dest_files=[ "res://.import/kitchenStoveElectric.obj-36e5be248b1a4846001134276b555144.mesh", "res://.import/kitchenStoveElectric.obj-36e5be248b1a4846001134276b555144.mesh" ]
+source_file="res://Assets/Models/OBJ format/kitchenStoveElectric.obj"
+dest_files=[ "res://.import/kitchenStoveElectric.obj-c29a49b8d344c734ca56cb535a3530ef.mesh", "res://.import/kitchenStoveElectric.obj-c29a49b8d344c734ca56cb535a3530ef.mesh" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampSquareCeiling.glb-d1e731001ade49878c6efe0925baffa0.scn"
+path="res://.import/lampSquareCeiling.glb-e0a5d96ae65ad8e959ef1396f6a6af95.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/lampSquareCeiling.glb"
-dest_files=[ "res://.import/lampSquareCeiling.glb-d1e731001ade49878c6efe0925baffa0.scn" ]
+source_file="res://Assets/Models/GLTF format/lampSquareCeiling.glb"
+dest_files=[ "res://.import/lampSquareCeiling.glb-e0a5d96ae65ad8e959ef1396f6a6af95.scn" ]
 
 [params]
 

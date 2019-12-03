@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/washer.glb-8cc123b10955837fcd9653276497a02d.scn"
+path="res://.import/washer.glb-3ea9aa7baf24e771375d397eefdc4e81.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/washer.glb"
-dest_files=[ "res://.import/washer.glb-8cc123b10955837fcd9653276497a02d.scn" ]
+source_file="res://Assets/Models/GLTF format/washer.glb"
+dest_files=[ "res://.import/washer.glb-3ea9aa7baf24e771375d397eefdc4e81.scn" ]
 
 [params]
 

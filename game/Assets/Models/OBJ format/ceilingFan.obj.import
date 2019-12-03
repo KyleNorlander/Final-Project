@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/ceilingFan.obj-59ee852cbe07d089d95eeb530e095745.mesh"
+path="res://.import/ceilingFan.obj-e5d634b5fcb42473bd8b1c35226dbaba.mesh"
 
 [deps]
 
-files=[ "res://.import/ceilingFan.obj-59ee852cbe07d089d95eeb530e095745.mesh" ]
+files=[ "res://.import/ceilingFan.obj-e5d634b5fcb42473bd8b1c35226dbaba.mesh" ]
 
-source_file="res://assets/Models/OBJ format/ceilingFan.obj"
-dest_files=[ "res://.import/ceilingFan.obj-59ee852cbe07d089d95eeb530e095745.mesh", "res://.import/ceilingFan.obj-59ee852cbe07d089d95eeb530e095745.mesh" ]
+source_file="res://Assets/Models/OBJ format/ceilingFan.obj"
+dest_files=[ "res://.import/ceilingFan.obj-e5d634b5fcb42473bd8b1c35226dbaba.mesh", "res://.import/ceilingFan.obj-e5d634b5fcb42473bd8b1c35226dbaba.mesh" ]
 
 [params]
 

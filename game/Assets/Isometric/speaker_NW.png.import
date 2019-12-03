@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/speaker_NW.png-688bd560da6221ef9903e2d2aea2bb20.stex"
+path="res://.import/speaker_NW.png-535354257ede689706eebe013b5e8c31.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/speaker_NW.png"
-dest_files=[ "res://.import/speaker_NW.png-688bd560da6221ef9903e2d2aea2bb20.stex" ]
+source_file="res://Assets/Isometric/speaker_NW.png"
+dest_files=[ "res://.import/speaker_NW.png-535354257ede689706eebe013b5e8c31.stex" ]
 
 [params]
 

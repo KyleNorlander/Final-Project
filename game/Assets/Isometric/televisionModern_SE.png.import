@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/televisionModern_SE.png-ddc818c99682601b9b3c4819b61162b0.stex"
+path="res://.import/televisionModern_SE.png-0bfedbcc0fad18f98e5c0c79da0558df.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/televisionModern_SE.png"
-dest_files=[ "res://.import/televisionModern_SE.png-ddc818c99682601b9b3c4819b61162b0.stex" ]
+source_file="res://Assets/Isometric/televisionModern_SE.png"
+dest_files=[ "res://.import/televisionModern_SE.png-0bfedbcc0fad18f98e5c0c79da0558df.stex" ]
 
 [params]
 

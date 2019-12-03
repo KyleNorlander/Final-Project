@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableCloth.dae-c83fe968a4cd66766cf27ed312831c4d.scn"
+path="res://.import/tableCloth.dae-c6dacbc31dd6ea4dae2f04b12d0f8840.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/tableCloth.dae"
-dest_files=[ "res://.import/tableCloth.dae-c83fe968a4cd66766cf27ed312831c4d.scn" ]
+source_file="res://Assets/Models/DAE format/tableCloth.dae"
+dest_files=[ "res://.import/tableCloth.dae-c6dacbc31dd6ea4dae2f04b12d0f8840.scn" ]
 
 [params]
 

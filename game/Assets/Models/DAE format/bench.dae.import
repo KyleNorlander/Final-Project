@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bench.dae-472713355bc25089cb4c347e0dae5918.scn"
+path="res://.import/bench.dae-aed5951d504a9d58e266adc33af0f6a2.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/bench.dae"
-dest_files=[ "res://.import/bench.dae-472713355bc25089cb4c347e0dae5918.scn" ]
+source_file="res://Assets/Models/DAE format/bench.dae"
+dest_files=[ "res://.import/bench.dae-aed5951d504a9d58e266adc33af0f6a2.scn" ]
 
 [params]
 

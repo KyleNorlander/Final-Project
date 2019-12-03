@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bathroomMirror_SE.png-0781e640c11bd4b0de3ee9858b57d6ad.stex"
+path="res://.import/bathroomMirror_SE.png-4791c7db9d01274fc9f40c6bee340f23.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bathroomMirror_SE.png"
-dest_files=[ "res://.import/bathroomMirror_SE.png-0781e640c11bd4b0de3ee9858b57d6ad.stex" ]
+source_file="res://Assets/Isometric/bathroomMirror_SE.png"
+dest_files=[ "res://.import/bathroomMirror_SE.png-4791c7db9d01274fc9f40c6bee340f23.stex" ]
 
 [params]
 

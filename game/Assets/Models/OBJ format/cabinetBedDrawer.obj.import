@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cabinetBedDrawer.obj-689887139f141c5da62e1bfe867414d6.mesh"
+path="res://.import/cabinetBedDrawer.obj-d56c32406193919dd509ea29f60ca511.mesh"
 
 [deps]
 
-files=[ "res://.import/cabinetBedDrawer.obj-689887139f141c5da62e1bfe867414d6.mesh" ]
+files=[ "res://.import/cabinetBedDrawer.obj-d56c32406193919dd509ea29f60ca511.mesh" ]
 
-source_file="res://assets/Models/OBJ format/cabinetBedDrawer.obj"
-dest_files=[ "res://.import/cabinetBedDrawer.obj-689887139f141c5da62e1bfe867414d6.mesh", "res://.import/cabinetBedDrawer.obj-689887139f141c5da62e1bfe867414d6.mesh" ]
+source_file="res://Assets/Models/OBJ format/cabinetBedDrawer.obj"
+dest_files=[ "res://.import/cabinetBedDrawer.obj-d56c32406193919dd509ea29f60ca511.mesh", "res://.import/cabinetBedDrawer.obj-d56c32406193919dd509ea29f60ca511.mesh" ]
 
 [params]
 

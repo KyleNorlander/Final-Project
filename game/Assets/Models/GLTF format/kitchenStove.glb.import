@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenStove.glb-e2e5f6b3148684ef7057c053c599a1a7.scn"
+path="res://.import/kitchenStove.glb-f6ebfdebee60ba68158d26cfa069ca59.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenStove.glb"
-dest_files=[ "res://.import/kitchenStove.glb-e2e5f6b3148684ef7057c053c599a1a7.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenStove.glb"
+dest_files=[ "res://.import/kitchenStove.glb-f6ebfdebee60ba68158d26cfa069ca59.scn" ]
 
 [params]
 

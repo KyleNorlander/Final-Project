@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/computerMouse_NW.png-6dcdba6f3b8c3fb602e1086c5320913a.stex"
+path="res://.import/computerMouse_NW.png-fcffb9e700a98f6ce5c06e05fbe1f566.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/computerMouse_NW.png"
-dest_files=[ "res://.import/computerMouse_NW.png-6dcdba6f3b8c3fb602e1086c5320913a.stex" ]
+source_file="res://Assets/Isometric/computerMouse_NW.png"
+dest_files=[ "res://.import/computerMouse_NW.png-fcffb9e700a98f6ce5c06e05fbe1f566.stex" ]
 
 [params]
 

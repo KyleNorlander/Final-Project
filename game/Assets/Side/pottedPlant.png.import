@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/pottedPlant.png-4156e728b3cc82a92d7b8d5cc1b498ac.stex"
+path="res://.import/pottedPlant.png-e0bed9e3f5fae23a7cac38f9cff115c0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/pottedPlant.png"
-dest_files=[ "res://.import/pottedPlant.png-4156e728b3cc82a92d7b8d5cc1b498ac.stex" ]
+source_file="res://Assets/Side/pottedPlant.png"
+dest_files=[ "res://.import/pottedPlant.png-e0bed9e3f5fae23a7cac38f9cff115c0.stex" ]
 
 [params]
 

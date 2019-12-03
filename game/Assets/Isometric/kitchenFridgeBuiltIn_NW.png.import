@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenFridgeBuiltIn_NW.png-910660345cefe40e569f7ac8abbad99f.stex"
+path="res://.import/kitchenFridgeBuiltIn_NW.png-1473f5b095a5be30ca34366cbae0cce9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/kitchenFridgeBuiltIn_NW.png"
-dest_files=[ "res://.import/kitchenFridgeBuiltIn_NW.png-910660345cefe40e569f7ac8abbad99f.stex" ]
+source_file="res://Assets/Isometric/kitchenFridgeBuiltIn_NW.png"
+dest_files=[ "res://.import/kitchenFridgeBuiltIn_NW.png-1473f5b095a5be30ca34366cbae0cce9.stex" ]
 
 [params]
 

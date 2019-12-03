@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/sideTableDrawers.obj-9733068503a5d3310927b0ade4f11aa4.mesh"
+path="res://.import/sideTableDrawers.obj-6077328d3f7bca1bd11da48c797278a8.mesh"
 
 [deps]
 
-files=[ "res://.import/sideTableDrawers.obj-9733068503a5d3310927b0ade4f11aa4.mesh" ]
+files=[ "res://.import/sideTableDrawers.obj-6077328d3f7bca1bd11da48c797278a8.mesh" ]
 
-source_file="res://assets/Models/OBJ format/sideTableDrawers.obj"
-dest_files=[ "res://.import/sideTableDrawers.obj-9733068503a5d3310927b0ade4f11aa4.mesh", "res://.import/sideTableDrawers.obj-9733068503a5d3310927b0ade4f11aa4.mesh" ]
+source_file="res://Assets/Models/OBJ format/sideTableDrawers.obj"
+dest_files=[ "res://.import/sideTableDrawers.obj-6077328d3f7bca1bd11da48c797278a8.mesh", "res://.import/sideTableDrawers.obj-6077328d3f7bca1bd11da48c797278a8.mesh" ]
 
 [params]
 

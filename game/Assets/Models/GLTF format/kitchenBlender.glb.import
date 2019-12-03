@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenBlender.glb-17fe5d1ad4cc9d86073ea84e45ff40a4.scn"
+path="res://.import/kitchenBlender.glb-8a125cc9efeae7a51d3b87ee61e35998.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenBlender.glb"
-dest_files=[ "res://.import/kitchenBlender.glb-17fe5d1ad4cc9d86073ea84e45ff40a4.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenBlender.glb"
+dest_files=[ "res://.import/kitchenBlender.glb-8a125cc9efeae7a51d3b87ee61e35998.scn" ]
 
 [params]
 

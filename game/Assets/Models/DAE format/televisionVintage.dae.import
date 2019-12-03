@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/televisionVintage.dae-295b9e1a9c388f341187332dd413a05a.scn"
+path="res://.import/televisionVintage.dae-1cc55fbbf1ad1fbcccc95f1d2553012e.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/televisionVintage.dae"
-dest_files=[ "res://.import/televisionVintage.dae-295b9e1a9c388f341187332dd413a05a.scn" ]
+source_file="res://Assets/Models/DAE format/televisionVintage.dae"
+dest_files=[ "res://.import/televisionVintage.dae-1cc55fbbf1ad1fbcccc95f1d2553012e.scn" ]
 
 [params]
 

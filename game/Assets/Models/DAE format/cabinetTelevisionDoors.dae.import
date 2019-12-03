@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetTelevisionDoors.dae-7f7f7d359e2238db7c05ebf384d04b64.scn"
+path="res://.import/cabinetTelevisionDoors.dae-ab89db01bd27f4e440fcc823dadcfb0b.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/cabinetTelevisionDoors.dae"
-dest_files=[ "res://.import/cabinetTelevisionDoors.dae-7f7f7d359e2238db7c05ebf384d04b64.scn" ]
+source_file="res://Assets/Models/DAE format/cabinetTelevisionDoors.dae"
+dest_files=[ "res://.import/cabinetTelevisionDoors.dae-ab89db01bd27f4e440fcc823dadcfb0b.scn" ]
 
 [params]
 

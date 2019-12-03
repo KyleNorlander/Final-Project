@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenFridgeSmall.glb-eadeb3c185a6d392e820cec7103824ea.scn"
+path="res://.import/kitchenFridgeSmall.glb-21c6391ecdffa6f4d30631bd3c26cc56.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/kitchenFridgeSmall.glb"
-dest_files=[ "res://.import/kitchenFridgeSmall.glb-eadeb3c185a6d392e820cec7103824ea.scn" ]
+source_file="res://Assets/Models/GLTF format/kitchenFridgeSmall.glb"
+dest_files=[ "res://.import/kitchenFridgeSmall.glb-21c6391ecdffa6f4d30631bd3c26cc56.scn" ]
 
 [params]
 

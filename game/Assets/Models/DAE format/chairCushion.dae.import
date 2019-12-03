@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairCushion.dae-cc96d08b0da00e80ae9e105848ee4bd6.scn"
+path="res://.import/chairCushion.dae-cb402f5302f8831666030c92b25db9ae.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/chairCushion.dae"
-dest_files=[ "res://.import/chairCushion.dae-cc96d08b0da00e80ae9e105848ee4bd6.scn" ]
+source_file="res://Assets/Models/DAE format/chairCushion.dae"
+dest_files=[ "res://.import/chairCushion.dae-cb402f5302f8831666030c92b25db9ae.scn" ]
 
 [params]
 

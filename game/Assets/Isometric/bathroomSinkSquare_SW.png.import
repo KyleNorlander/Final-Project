@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bathroomSinkSquare_SW.png-fcf9172c1aa2b73f188b031173b4cb28.stex"
+path="res://.import/bathroomSinkSquare_SW.png-668921ac478b61b075da1b7f77c376c2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Isometric/bathroomSinkSquare_SW.png"
-dest_files=[ "res://.import/bathroomSinkSquare_SW.png-fcf9172c1aa2b73f188b031173b4cb28.stex" ]
+source_file="res://Assets/Isometric/bathroomSinkSquare_SW.png"
+dest_files=[ "res://.import/bathroomSinkSquare_SW.png-668921ac478b61b075da1b7f77c376c2.stex" ]
 
 [params]
 

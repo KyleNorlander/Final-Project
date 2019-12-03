@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableCoffeeSquare.png-4421edb0c364bb3f7c52c857054a2462.stex"
+path="res://.import/tableCoffeeSquare.png-77f0de5027b92654433731e663c05422.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/tableCoffeeSquare.png"
-dest_files=[ "res://.import/tableCoffeeSquare.png-4421edb0c364bb3f7c52c857054a2462.stex" ]
+source_file="res://Assets/Side/tableCoffeeSquare.png"
+dest_files=[ "res://.import/tableCoffeeSquare.png-77f0de5027b92654433731e663c05422.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/plantSmall1.dae-e0cb51e6e9eaa1d84a74d56aafe6b54c.scn"
+path="res://.import/plantSmall1.dae-ca62e5dce152bd7b7ec4feb9172fac50.scn"
 
 [deps]
 
-source_file="res://assets/Models/DAE format/plantSmall1.dae"
-dest_files=[ "res://.import/plantSmall1.dae-e0cb51e6e9eaa1d84a74d56aafe6b54c.scn" ]
+source_file="res://Assets/Models/DAE format/plantSmall1.dae"
+dest_files=[ "res://.import/plantSmall1.dae-ca62e5dce152bd7b7ec4feb9172fac50.scn" ]
 
 [params]
 

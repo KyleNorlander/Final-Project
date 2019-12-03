@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallHalf.glb-bccfc82e95ffb59fd4e72c9d579aea16.scn"
+path="res://.import/wallHalf.glb-4d07eeb47d381cbdbf22d4572cbccbf5.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/wallHalf.glb"
-dest_files=[ "res://.import/wallHalf.glb-bccfc82e95ffb59fd4e72c9d579aea16.scn" ]
+source_file="res://Assets/Models/GLTF format/wallHalf.glb"
+dest_files=[ "res://.import/wallHalf.glb-4d07eeb47d381cbdbf22d4572cbccbf5.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ceilingFan.glb-caa28a621e4d0fad60dd01da25a9c7cb.scn"
+path="res://.import/ceilingFan.glb-74640c6fd4437d3301a56c7139baac0a.scn"
 
 [deps]
 
-source_file="res://assets/Models/GLTF format/ceilingFan.glb"
-dest_files=[ "res://.import/ceilingFan.glb-caa28a621e4d0fad60dd01da25a9c7cb.scn" ]
+source_file="res://Assets/Models/GLTF format/ceilingFan.glb"
+dest_files=[ "res://.import/ceilingFan.glb-74640c6fd4437d3301a56c7139baac0a.scn" ]
 
 [params]
 
