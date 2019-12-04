@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/deskCorner.png-a3728896d732125dc2a785bc4294beca.stex"
+path="res://.import/deskCorner.png-3c674fd0c8c616039d2bf536a04e4b03.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/deskCorner.png"
-dest_files=[ "res://.import/deskCorner.png-a3728896d732125dc2a785bc4294beca.stex" ]
+source_file="res://Assets/Side/deskCorner.png"
+dest_files=[ "res://.import/deskCorner.png-3c674fd0c8c616039d2bf536a04e4b03.stex" ]
 
 [params]
 

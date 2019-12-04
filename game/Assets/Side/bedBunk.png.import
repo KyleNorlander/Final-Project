@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bedBunk.png-d1efb93147fc36fe136c77b2bef365e5.stex"
+path="res://.import/bedBunk.png-984f05eefe69ca6968a6a647e4550c03.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/bedBunk.png"
-dest_files=[ "res://.import/bedBunk.png-d1efb93147fc36fe136c77b2bef365e5.stex" ]
+source_file="res://Assets/Side/bedBunk.png"
+dest_files=[ "res://.import/bedBunk.png-984f05eefe69ca6968a6a647e4550c03.stex" ]
 
 [params]
 

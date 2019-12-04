@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinetTelevision.png-16e8121b4bba01dafe6f41b4522eb3c6.stex"
+path="res://.import/cabinetTelevision.png-7f3674430fb3e61fc0e6837fc452ade9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/cabinetTelevision.png"
-dest_files=[ "res://.import/cabinetTelevision.png-16e8121b4bba01dafe6f41b4522eb3c6.stex" ]
+source_file="res://Assets/Side/cabinetTelevision.png"
+dest_files=[ "res://.import/cabinetTelevision.png-7f3674430fb3e61fc0e6837fc452ade9.stex" ]
 
 [params]
 

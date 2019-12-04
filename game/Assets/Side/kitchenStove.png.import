@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenStove.png-16cfaba34f187cb6ac46908b099fa92d.stex"
+path="res://.import/kitchenStove.png-b6578c09440e3112fe9c1db680932163.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/kitchenStove.png"
-dest_files=[ "res://.import/kitchenStove.png-16cfaba34f187cb6ac46908b099fa92d.stex" ]
+source_file="res://Assets/Side/kitchenStove.png"
+dest_files=[ "res://.import/kitchenStove.png-b6578c09440e3112fe9c1db680932163.stex" ]
 
 [params]
 

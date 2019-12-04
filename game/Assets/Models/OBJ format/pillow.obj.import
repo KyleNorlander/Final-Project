@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/pillow.obj-0de7ae0aff5c54e302f637d005f9c76b.mesh"
+path="res://.import/pillow.obj-0f9f4f6fc4ce1f0524edccbdc43ee58b.mesh"
 
 [deps]
 
-files=[ "res://.import/pillow.obj-0de7ae0aff5c54e302f637d005f9c76b.mesh" ]
+files=[ "res://.import/pillow.obj-0f9f4f6fc4ce1f0524edccbdc43ee58b.mesh" ]
 
-source_file="res://assets/Models/OBJ format/pillow.obj"
-dest_files=[ "res://.import/pillow.obj-0de7ae0aff5c54e302f637d005f9c76b.mesh", "res://.import/pillow.obj-0de7ae0aff5c54e302f637d005f9c76b.mesh" ]
+source_file="res://Assets/Models/OBJ format/pillow.obj"
+dest_files=[ "res://.import/pillow.obj-0f9f4f6fc4ce1f0524edccbdc43ee58b.mesh", "res://.import/pillow.obj-0f9f4f6fc4ce1f0524edccbdc43ee58b.mesh" ]
 
 [params]
 

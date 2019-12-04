@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/loungeChair.obj-55ee0576be9b606f0cf82a04554ca091.mesh"
+path="res://.import/loungeChair.obj-34cfd4febfe200013a977c5458955b13.mesh"
 
 [deps]
 
-files=[ "res://.import/loungeChair.obj-55ee0576be9b606f0cf82a04554ca091.mesh" ]
+files=[ "res://.import/loungeChair.obj-34cfd4febfe200013a977c5458955b13.mesh" ]
 
-source_file="res://assets/Models/OBJ format/loungeChair.obj"
-dest_files=[ "res://.import/loungeChair.obj-55ee0576be9b606f0cf82a04554ca091.mesh", "res://.import/loungeChair.obj-55ee0576be9b606f0cf82a04554ca091.mesh" ]
+source_file="res://Assets/Models/OBJ format/loungeChair.obj"
+dest_files=[ "res://.import/loungeChair.obj-34cfd4febfe200013a977c5458955b13.mesh", "res://.import/loungeChair.obj-34cfd4febfe200013a977c5458955b13.mesh" ]
 
 [params]
 

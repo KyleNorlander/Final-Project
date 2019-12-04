@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stairsOpen.png-efb1d0e8bb05b5cb752cdf8de62e521b.stex"
+path="res://.import/stairsOpen.png-3180d123eaf13ba6e6cae065289b4679.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/stairsOpen.png"
-dest_files=[ "res://.import/stairsOpen.png-efb1d0e8bb05b5cb752cdf8de62e521b.stex" ]
+source_file="res://Assets/Side/stairsOpen.png"
+dest_files=[ "res://.import/stairsOpen.png-3180d123eaf13ba6e6cae065289b4679.stex" ]
 
 [params]
 

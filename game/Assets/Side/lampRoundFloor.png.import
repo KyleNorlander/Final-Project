@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lampRoundFloor.png-3950d097f3343bea1128a4a6ff4b6e2a.stex"
+path="res://.import/lampRoundFloor.png-d42ca0a2af4fb58d654624f020b96cda.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/lampRoundFloor.png"
-dest_files=[ "res://.import/lampRoundFloor.png-3950d097f3343bea1128a4a6ff4b6e2a.stex" ]
+source_file="res://Assets/Side/lampRoundFloor.png"
+dest_files=[ "res://.import/lampRoundFloor.png-d42ca0a2af4fb58d654624f020b96cda.stex" ]
 
 [params]
 

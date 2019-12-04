@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/EndoftheLineLOGO-1.png.png-5c2b6ebaaf77275662a6681c25a47dd0.stex"
+path="res://.import/EndoftheLineLOGO-1.png.png-2db44c7f3467222bccc94b07c8726cbe.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/EndoftheLineLOGO-1.png.png"
-dest_files=[ "res://.import/EndoftheLineLOGO-1.png.png-5c2b6ebaaf77275662a6681c25a47dd0.stex" ]
+source_file="res://Assets/EndoftheLineLOGO-1.png.png"
+dest_files=[ "res://.import/EndoftheLineLOGO-1.png.png-2db44c7f3467222bccc94b07c8726cbe.stex" ]
 
 [params]
 

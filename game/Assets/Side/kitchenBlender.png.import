@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenBlender.png-288546f8616ec7eda7e2aca6b3a923e8.stex"
+path="res://.import/kitchenBlender.png-977f69619a048b97ffff0634b17e8237.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/kitchenBlender.png"
-dest_files=[ "res://.import/kitchenBlender.png-288546f8616ec7eda7e2aca6b3a923e8.stex" ]
+source_file="res://Assets/Side/kitchenBlender.png"
+dest_files=[ "res://.import/kitchenBlender.png-977f69619a048b97ffff0634b17e8237.stex" ]
 
 [params]
 

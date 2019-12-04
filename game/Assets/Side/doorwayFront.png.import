@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/doorwayFront.png-d4c36b584a23f5bc346ac3c7c137641f.stex"
+path="res://.import/doorwayFront.png-3df11655e38251f1ca154782a9821e1f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/doorwayFront.png"
-dest_files=[ "res://.import/doorwayFront.png-d4c36b584a23f5bc346ac3c7c137641f.stex" ]
+source_file="res://Assets/Side/doorwayFront.png"
+dest_files=[ "res://.import/doorwayFront.png-3df11655e38251f1ca154782a9821e1f.stex" ]
 
 [params]
 

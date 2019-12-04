@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/lampSquareFloor.obj-52065671fa2fd21f5506c776d9f3a334.mesh"
+path="res://.import/lampSquareFloor.obj-6aef8ef4cff563529596e0afd8334a3a.mesh"
 
 [deps]
 
-files=[ "res://.import/lampSquareFloor.obj-52065671fa2fd21f5506c776d9f3a334.mesh" ]
+files=[ "res://.import/lampSquareFloor.obj-6aef8ef4cff563529596e0afd8334a3a.mesh" ]
 
-source_file="res://assets/Models/OBJ format/lampSquareFloor.obj"
-dest_files=[ "res://.import/lampSquareFloor.obj-52065671fa2fd21f5506c776d9f3a334.mesh", "res://.import/lampSquareFloor.obj-52065671fa2fd21f5506c776d9f3a334.mesh" ]
+source_file="res://Assets/Models/OBJ format/lampSquareFloor.obj"
+dest_files=[ "res://.import/lampSquareFloor.obj-6aef8ef4cff563529596e0afd8334a3a.mesh", "res://.import/lampSquareFloor.obj-6aef8ef4cff563529596e0afd8334a3a.mesh" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenBar.png-2000d01776a7cbe4de25f23e8697348d.stex"
+path="res://.import/kitchenBar.png-2e58008f1d66098b98882836d55385fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/kitchenBar.png"
-dest_files=[ "res://.import/kitchenBar.png-2000d01776a7cbe4de25f23e8697348d.stex" ]
+source_file="res://Assets/Side/kitchenBar.png"
+dest_files=[ "res://.import/kitchenBar.png-2e58008f1d66098b98882836d55385fd.stex" ]
 
 [params]
 

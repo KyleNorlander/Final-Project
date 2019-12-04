@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/stairsOpenSingle.obj-6febfdc152fb15e3cd2e7bef97523f42.mesh"
+path="res://.import/stairsOpenSingle.obj-706e7c4e121ea20fc148d73137caf3e6.mesh"
 
 [deps]
 
-files=[ "res://.import/stairsOpenSingle.obj-6febfdc152fb15e3cd2e7bef97523f42.mesh" ]
+files=[ "res://.import/stairsOpenSingle.obj-706e7c4e121ea20fc148d73137caf3e6.mesh" ]
 
-source_file="res://assets/Models/OBJ format/stairsOpenSingle.obj"
-dest_files=[ "res://.import/stairsOpenSingle.obj-6febfdc152fb15e3cd2e7bef97523f42.mesh", "res://.import/stairsOpenSingle.obj-6febfdc152fb15e3cd2e7bef97523f42.mesh" ]
+source_file="res://Assets/Models/OBJ format/stairsOpenSingle.obj"
+dest_files=[ "res://.import/stairsOpenSingle.obj-706e7c4e121ea20fc148d73137caf3e6.mesh", "res://.import/stairsOpenSingle.obj-706e7c4e121ea20fc148d73137caf3e6.mesh" ]
 
 [params]
 

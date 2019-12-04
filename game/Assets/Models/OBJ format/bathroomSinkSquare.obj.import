@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bathroomSinkSquare.obj-d94b99f35eb0bcdf7d8513e8089df226.mesh"
+path="res://.import/bathroomSinkSquare.obj-b876ce42a4eae901c67a13ce2354763d.mesh"
 
 [deps]
 
-files=[ "res://.import/bathroomSinkSquare.obj-d94b99f35eb0bcdf7d8513e8089df226.mesh" ]
+files=[ "res://.import/bathroomSinkSquare.obj-b876ce42a4eae901c67a13ce2354763d.mesh" ]
 
-source_file="res://assets/Models/OBJ format/bathroomSinkSquare.obj"
-dest_files=[ "res://.import/bathroomSinkSquare.obj-d94b99f35eb0bcdf7d8513e8089df226.mesh", "res://.import/bathroomSinkSquare.obj-d94b99f35eb0bcdf7d8513e8089df226.mesh" ]
+source_file="res://Assets/Models/OBJ format/bathroomSinkSquare.obj"
+dest_files=[ "res://.import/bathroomSinkSquare.obj-b876ce42a4eae901c67a13ce2354763d.mesh", "res://.import/bathroomSinkSquare.obj-b876ce42a4eae901c67a13ce2354763d.mesh" ]
 
 [params]
 

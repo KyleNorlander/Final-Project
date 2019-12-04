@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/loungeChair.png-73521025d1c041764a76ed8eb519715f.stex"
+path="res://.import/loungeChair.png-6cfc617d40c5d5fa051502e787207e87.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Side/loungeChair.png"
-dest_files=[ "res://.import/loungeChair.png-73521025d1c041764a76ed8eb519715f.stex" ]
+source_file="res://Assets/Side/loungeChair.png"
+dest_files=[ "res://.import/loungeChair.png-6cfc617d40c5d5fa051502e787207e87.stex" ]
 
 [params]
 
