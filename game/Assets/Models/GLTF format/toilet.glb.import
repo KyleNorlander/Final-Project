@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toilet.glb-bf7b7404ec7a97397df49ebb433d650d.scn"
+path="res://.import/toilet.glb-be48a9e5e71386deca6e2ee03264ed66.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/toilet.glb"
-dest_files=[ "res://.import/toilet.glb-bf7b7404ec7a97397df49ebb433d650d.scn" ]
+source_file="res://assets/Models/GLTF format/toilet.glb"
+dest_files=[ "res://.import/toilet.glb-be48a9e5e71386deca6e2ee03264ed66.scn" ]
 
 [params]
 

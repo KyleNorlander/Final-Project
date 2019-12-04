@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/kitchenSink.obj-08855897b34096e0ef54faa14e9d50ac.mesh"
+path="res://.import/kitchenSink.obj-411a46c7164b479e39c7b4d8ec471e25.mesh"
 
 [deps]
 
-files=[ "res://.import/kitchenSink.obj-08855897b34096e0ef54faa14e9d50ac.mesh" ]
+files=[ "res://.import/kitchenSink.obj-411a46c7164b479e39c7b4d8ec471e25.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/kitchenSink.obj"
-dest_files=[ "res://.import/kitchenSink.obj-08855897b34096e0ef54faa14e9d50ac.mesh", "res://.import/kitchenSink.obj-08855897b34096e0ef54faa14e9d50ac.mesh" ]
+source_file="res://assets/Models/OBJ format/kitchenSink.obj"
+dest_files=[ "res://.import/kitchenSink.obj-411a46c7164b479e39c7b4d8ec471e25.mesh", "res://.import/kitchenSink.obj-411a46c7164b479e39c7b4d8ec471e25.mesh" ]
 
 [params]
 

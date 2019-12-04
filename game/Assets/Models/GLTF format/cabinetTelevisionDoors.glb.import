@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetTelevisionDoors.glb-a594480433ff3dd8fe01626fa53cc103.scn"
+path="res://.import/cabinetTelevisionDoors.glb-cc93d0fc1af61fda495779220280278a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/cabinetTelevisionDoors.glb"
-dest_files=[ "res://.import/cabinetTelevisionDoors.glb-a594480433ff3dd8fe01626fa53cc103.scn" ]
+source_file="res://assets/Models/GLTF format/cabinetTelevisionDoors.glb"
+dest_files=[ "res://.import/cabinetTelevisionDoors.glb-cc93d0fc1af61fda495779220280278a.scn" ]
 
 [params]
 

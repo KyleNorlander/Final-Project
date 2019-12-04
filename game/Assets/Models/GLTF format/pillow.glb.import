@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/pillow.glb-f1615d21bcacc8f7977caf1dc611e456.scn"
+path="res://.import/pillow.glb-f6b43581a3a35181a6d1f80811331732.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/pillow.glb"
-dest_files=[ "res://.import/pillow.glb-f1615d21bcacc8f7977caf1dc611e456.scn" ]
+source_file="res://assets/Models/GLTF format/pillow.glb"
+dest_files=[ "res://.import/pillow.glb-f6b43581a3a35181a6d1f80811331732.scn" ]
 
 [params]
 

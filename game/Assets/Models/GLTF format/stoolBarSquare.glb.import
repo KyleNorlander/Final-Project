@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stoolBarSquare.glb-35740e3774df430921dfae65c239216d.scn"
+path="res://.import/stoolBarSquare.glb-bd23d887079c0cc27b26aa601a8f20b0.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/stoolBarSquare.glb"
-dest_files=[ "res://.import/stoolBarSquare.glb-35740e3774df430921dfae65c239216d.scn" ]
+source_file="res://assets/Models/GLTF format/stoolBarSquare.glb"
+dest_files=[ "res://.import/stoolBarSquare.glb-bd23d887079c0cc27b26aa601a8f20b0.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/stoolBarSquare_SW.png-8a63a4df8356464060ce830657c4bee8.stex"
+path="res://.import/stoolBarSquare_SW.png-56e5fcaf3245349e89e554bb1f095b4a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/stoolBarSquare_SW.png"
-dest_files=[ "res://.import/stoolBarSquare_SW.png-8a63a4df8356464060ce830657c4bee8.stex" ]
+source_file="res://assets/Isometric/stoolBarSquare_SW.png"
+dest_files=[ "res://.import/stoolBarSquare_SW.png-56e5fcaf3245349e89e554bb1f095b4a.stex" ]
 
 [params]
 

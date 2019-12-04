@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rugRounded.png-e2cbc5611b5d2d4b12cf513594644903.stex"
+path="res://.import/rugRounded.png-3ad83353bdba9ac61836808584d140a9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/rugRounded.png"
-dest_files=[ "res://.import/rugRounded.png-e2cbc5611b5d2d4b12cf513594644903.stex" ]
+source_file="res://assets/Side/rugRounded.png"
+dest_files=[ "res://.import/rugRounded.png-3ad83353bdba9ac61836808584d140a9.stex" ]
 
 [params]
 

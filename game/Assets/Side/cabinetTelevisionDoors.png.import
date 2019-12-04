@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cabinetTelevisionDoors.png-0ed5d64ba80eff82a1c89215e2802afd.stex"
+path="res://.import/cabinetTelevisionDoors.png-5b06a06b5819bb3bbbeaadec4b61607e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/cabinetTelevisionDoors.png"
-dest_files=[ "res://.import/cabinetTelevisionDoors.png-0ed5d64ba80eff82a1c89215e2802afd.stex" ]
+source_file="res://assets/Side/cabinetTelevisionDoors.png"
+dest_files=[ "res://.import/cabinetTelevisionDoors.png-5b06a06b5819bb3bbbeaadec4b61607e.stex" ]
 
 [params]
 

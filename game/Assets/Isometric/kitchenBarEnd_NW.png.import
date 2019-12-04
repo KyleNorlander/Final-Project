@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenBarEnd_NW.png-ca784e51a149e41739d431a1e3942aa9.stex"
+path="res://.import/kitchenBarEnd_NW.png-13c8a81ec832ddc80cfc783419b134c8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenBarEnd_NW.png"
-dest_files=[ "res://.import/kitchenBarEnd_NW.png-ca784e51a149e41739d431a1e3942aa9.stex" ]
+source_file="res://assets/Isometric/kitchenBarEnd_NW.png"
+dest_files=[ "res://.import/kitchenBarEnd_NW.png-13c8a81ec832ddc80cfc783419b134c8.stex" ]
 
 [params]
 

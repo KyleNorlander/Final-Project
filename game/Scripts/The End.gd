@@ -1,8 +1,8 @@
-extends DirectionalLight
+extends Spatial
 
 onready var sundemon = $Sundemon
 onready var x = 0
-onready var y = 0.1
+onready var y = 0
 var z = 0
 var velocity = Vector3()
 
@@ -12,7 +12,4 @@ func _ready():
 	set_process(true)
 	
 func _process(delta):
-	#velocity.y= velocity.y + y
-	#THISISBROKEN
-	pass
-	
+	y=y - 1

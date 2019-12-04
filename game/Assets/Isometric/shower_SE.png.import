@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shower_SE.png-de5cc07b1964b797014163d584116e76.stex"
+path="res://.import/shower_SE.png-f3353998c1fe3bde680bd57b2970a0eb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/shower_SE.png"
-dest_files=[ "res://.import/shower_SE.png-de5cc07b1964b797014163d584116e76.stex" ]
+source_file="res://assets/Isometric/shower_SE.png"
+dest_files=[ "res://.import/shower_SE.png-f3353998c1fe3bde680bd57b2970a0eb.stex" ]
 
 [params]
 

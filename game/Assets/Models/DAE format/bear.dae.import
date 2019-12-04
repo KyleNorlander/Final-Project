@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bear.dae-a5a0638698cf2fc9a253a727104498d5.scn"
+path="res://.import/bear.dae-d6119495644fbca65f72a8d1fad97c7e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/bear.dae"
-dest_files=[ "res://.import/bear.dae-a5a0638698cf2fc9a253a727104498d5.scn" ]
+source_file="res://assets/Models/DAE format/bear.dae"
+dest_files=[ "res://.import/bear.dae-d6119495644fbca65f72a8d1fad97c7e.scn" ]
 
 [params]
 

@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/chair.obj-cacb1ad6ddb119e492fa5df66f9b219e.mesh"
+path="res://.import/chair.obj-ede2a392f569bd3e89c87b664a3d481c.mesh"
 
 [deps]
 
-files=[ "res://.import/chair.obj-cacb1ad6ddb119e492fa5df66f9b219e.mesh" ]
+files=[ "res://.import/chair.obj-ede2a392f569bd3e89c87b664a3d481c.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/chair.obj"
-dest_files=[ "res://.import/chair.obj-cacb1ad6ddb119e492fa5df66f9b219e.mesh", "res://.import/chair.obj-cacb1ad6ddb119e492fa5df66f9b219e.mesh" ]
+source_file="res://assets/Models/OBJ format/chair.obj"
+dest_files=[ "res://.import/chair.obj-ede2a392f569bd3e89c87b664a3d481c.mesh", "res://.import/chair.obj-ede2a392f569bd3e89c87b664a3d481c.mesh" ]
 
 [params]
 

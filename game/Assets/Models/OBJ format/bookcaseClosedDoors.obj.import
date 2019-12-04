@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bookcaseClosedDoors.obj-932ef9be893425e0750bb8d7741b7800.mesh"
+path="res://.import/bookcaseClosedDoors.obj-1ba87039df66661de983269a79bdf1ef.mesh"
 
 [deps]
 
-files=[ "res://.import/bookcaseClosedDoors.obj-932ef9be893425e0750bb8d7741b7800.mesh" ]
+files=[ "res://.import/bookcaseClosedDoors.obj-1ba87039df66661de983269a79bdf1ef.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/bookcaseClosedDoors.obj"
-dest_files=[ "res://.import/bookcaseClosedDoors.obj-932ef9be893425e0750bb8d7741b7800.mesh", "res://.import/bookcaseClosedDoors.obj-932ef9be893425e0750bb8d7741b7800.mesh" ]
+source_file="res://assets/Models/OBJ format/bookcaseClosedDoors.obj"
+dest_files=[ "res://.import/bookcaseClosedDoors.obj-1ba87039df66661de983269a79bdf1ef.mesh", "res://.import/bookcaseClosedDoors.obj-1ba87039df66661de983269a79bdf1ef.mesh" ]
 
 [params]
 

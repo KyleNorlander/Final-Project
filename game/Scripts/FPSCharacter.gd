@@ -1,7 +1,6 @@
 extends KinematicBody
 
 onready var camera = $Pivot/Camera
-
 ###########################################
 ### The following is code for our main	###
 ### character, made by Christopher for	###
@@ -9,11 +8,14 @@ onready var camera = $Pivot/Camera
 ###	works! 								###
 ###########################################
 
+var keygot = false
+var fusegot = false
 
-var jump_speed = 12 #value
+var jump_speed = 8
 var gravity = -30
-var max_speed = 8
-var mouse_sensitivity = 0.002 # radians per pixel (1/10th of a degree)
+var max_speed = 5
+var speed = 1 # New Speed variable that will update based on no. of hitz
+var mouse_sensitivity = 0.001 # radians per pixel (1/10th of a degree)
 
 var velocity = Vector3()
 var jump = false # property
@@ -30,13 +32,13 @@ func get_input():
 		jump = true
 	# Figure out what direction we're trying to move in
 	if Input.is_action_pressed("move_forward"):
-		input_dir += -camera.global_transform.basis.z
+		input_dir += (-camera.global_transform.basis.z)*speed
 	if Input.is_action_pressed("move_back"):
-		input_dir += camera.global_transform.basis.z
+		input_dir += (camera.global_transform.basis.z)*speed
 	if Input.is_action_pressed("strafe_right"):
-		input_dir += camera.global_transform.basis.x
+		input_dir += (camera.global_transform.basis.x)*speed
 	if Input.is_action_pressed("strafe_left"):
-		input_dir += -camera.global_transform.basis.x
+		input_dir += (-camera.global_transform.basis.x)*speed
 	if Input.is_action_pressed("ui_cancel"):
 		Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
 	input_dir = input_dir.normalized() # don't move faster if moving diagonal
@@ -59,8 +61,26 @@ func _physics_process(delta):
 	# true so you don't slide back down the ramp
 	if jump and is_on_floor():
 		velocity.y = jump_speed
-
+		
+		
+func once_bitten():
+	#pseudocode below
+	#
+	#if colliding with enemy:
+	#	speed = speed - (speed/3)
+	pass
+	
+func item_get():
+	if get_node("Body").get_collider() == get_parent().get_node("Key").get_node("RayCast"):
+		keygot = true
+		print("YOU GOT A KEY!")
+	if get_node("Body").get_collider() == get_parent().get_node("Fuse").get_node("RayCast"):
+		fusegot = true
+		print("LET THERE BE LIGHT!")
+		# FUSE FLIPS HERE
+		
 func kill():
 	pass
 	### Eventually this will restart the game when the player dies.
-	
+
+

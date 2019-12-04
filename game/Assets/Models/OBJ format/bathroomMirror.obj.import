@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bathroomMirror.obj-09ac7abbe10d7c92a6f6f5dd1f5ce415.mesh"
+path="res://.import/bathroomMirror.obj-7556ebda197d99c61d6b88530b246788.mesh"
 
 [deps]
 
-files=[ "res://.import/bathroomMirror.obj-09ac7abbe10d7c92a6f6f5dd1f5ce415.mesh" ]
+files=[ "res://.import/bathroomMirror.obj-7556ebda197d99c61d6b88530b246788.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/bathroomMirror.obj"
-dest_files=[ "res://.import/bathroomMirror.obj-09ac7abbe10d7c92a6f6f5dd1f5ce415.mesh", "res://.import/bathroomMirror.obj-09ac7abbe10d7c92a6f6f5dd1f5ce415.mesh" ]
+source_file="res://assets/Models/OBJ format/bathroomMirror.obj"
+dest_files=[ "res://.import/bathroomMirror.obj-7556ebda197d99c61d6b88530b246788.mesh", "res://.import/bathroomMirror.obj-7556ebda197d99c61d6b88530b246788.mesh" ]
 
 [params]
 

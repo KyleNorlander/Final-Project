@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampRoundTable.dae-c91d6257c83db2cf67e3a48bd06b1b47.scn"
+path="res://.import/lampRoundTable.dae-229315da7d4a6845c66e8d09de70bb51.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/lampRoundTable.dae"
-dest_files=[ "res://.import/lampRoundTable.dae-c91d6257c83db2cf67e3a48bd06b1b47.scn" ]
+source_file="res://assets/Models/DAE format/lampRoundTable.dae"
+dest_files=[ "res://.import/lampRoundTable.dae-229315da7d4a6845c66e8d09de70bb51.scn" ]
 
 [params]
 

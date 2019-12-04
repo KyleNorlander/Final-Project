@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableRound.dae-0e5fe237bdfbd43f99a810fe65d44b25.scn"
+path="res://.import/tableRound.dae-1014dda3f41bda84d7c130a89db9dc30.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/tableRound.dae"
-dest_files=[ "res://.import/tableRound.dae-0e5fe237bdfbd43f99a810fe65d44b25.scn" ]
+source_file="res://assets/Models/DAE format/tableRound.dae"
+dest_files=[ "res://.import/tableRound.dae-1014dda3f41bda84d7c130a89db9dc30.scn" ]
 
 [params]
 

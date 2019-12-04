@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/pillowBlue.dae-7a17f6cb81d900d02b8a2b7e91ec20ca.scn"
+path="res://.import/pillowBlue.dae-6a2bd0ba4d124965387e38ff655fc3f6.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/pillowBlue.dae"
-dest_files=[ "res://.import/pillowBlue.dae-7a17f6cb81d900d02b8a2b7e91ec20ca.scn" ]
+source_file="res://assets/Models/DAE format/pillowBlue.dae"
+dest_files=[ "res://.import/pillowBlue.dae-6a2bd0ba4d124965387e38ff655fc3f6.scn" ]
 
 [params]
 

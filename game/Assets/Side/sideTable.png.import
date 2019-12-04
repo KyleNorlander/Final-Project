@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sideTable.png-06c877c293ec01d135b3d054f63609ad.stex"
+path="res://.import/sideTable.png-650d80b1c58e2da0d470483831016372.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/sideTable.png"
-dest_files=[ "res://.import/sideTable.png-06c877c293ec01d135b3d054f63609ad.stex" ]
+source_file="res://assets/Side/sideTable.png"
+dest_files=[ "res://.import/sideTable.png-650d80b1c58e2da0d470483831016372.stex" ]
 
 [params]
 

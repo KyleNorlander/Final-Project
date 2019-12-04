@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/televisionVintage.png-3270274e1e19cd40756109e7e64ce8b4.stex"
+path="res://.import/televisionVintage.png-5135eeeacaffcaf0a319d8d027baa96b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/televisionVintage.png"
-dest_files=[ "res://.import/televisionVintage.png-3270274e1e19cd40756109e7e64ce8b4.stex" ]
+source_file="res://assets/Side/televisionVintage.png"
+dest_files=[ "res://.import/televisionVintage.png-5135eeeacaffcaf0a319d8d027baa96b.stex" ]
 
 [params]
 

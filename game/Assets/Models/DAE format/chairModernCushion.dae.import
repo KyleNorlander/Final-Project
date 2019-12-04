@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chairModernCushion.dae-c50c693d8861638902e36beb3b6f6c7b.scn"
+path="res://.import/chairModernCushion.dae-d5968761ffe74d738b59b32b9db5600a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/chairModernCushion.dae"
-dest_files=[ "res://.import/chairModernCushion.dae-c50c693d8861638902e36beb3b6f6c7b.scn" ]
+source_file="res://assets/Models/DAE format/chairModernCushion.dae"
+dest_files=[ "res://.import/chairModernCushion.dae-d5968761ffe74d738b59b32b9db5600a.scn" ]
 
 [params]
 

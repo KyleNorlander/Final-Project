@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/radio_SW.png-d306e6afd19a195b59b8692d5206875f.stex"
+path="res://.import/radio_SW.png-306c81bfdd8a60a79d90b3f8e0d1f369.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/radio_SW.png"
-dest_files=[ "res://.import/radio_SW.png-d306e6afd19a195b59b8692d5206875f.stex" ]
+source_file="res://assets/Isometric/radio_SW.png"
+dest_files=[ "res://.import/radio_SW.png-306c81bfdd8a60a79d90b3f8e0d1f369.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toiletSquare.dae-66f34aee0ddda3129125410030497836.scn"
+path="res://.import/toiletSquare.dae-cd7b96c5850cc0aab8f1786220ab2b11.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/toiletSquare.dae"
-dest_files=[ "res://.import/toiletSquare.dae-66f34aee0ddda3129125410030497836.scn" ]
+source_file="res://assets/Models/DAE format/toiletSquare.dae"
+dest_files=[ "res://.import/toiletSquare.dae-cd7b96c5850cc0aab8f1786220ab2b11.scn" ]
 
 [params]
 

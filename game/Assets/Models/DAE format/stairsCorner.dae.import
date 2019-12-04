@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/stairsCorner.dae-f27cbd5c2a259d7a1815f4fc706b2aff.scn"
+path="res://.import/stairsCorner.dae-581f17f4b72d2334aa4eb17f89fc36e0.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/stairsCorner.dae"
-dest_files=[ "res://.import/stairsCorner.dae-f27cbd5c2a259d7a1815f4fc706b2aff.scn" ]
+source_file="res://assets/Models/DAE format/stairsCorner.dae"
+dest_files=[ "res://.import/stairsCorner.dae-581f17f4b72d2334aa4eb17f89fc36e0.scn" ]
 
 [params]
 

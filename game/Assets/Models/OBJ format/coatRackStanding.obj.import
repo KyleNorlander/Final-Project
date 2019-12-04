@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/coatRackStanding.obj-359bc8c2415ecac01e280953f9813cb6.mesh"
+path="res://.import/coatRackStanding.obj-bc24ddb5eda13029031a7ca622412abe.mesh"
 
 [deps]
 
-files=[ "res://.import/coatRackStanding.obj-359bc8c2415ecac01e280953f9813cb6.mesh" ]
+files=[ "res://.import/coatRackStanding.obj-bc24ddb5eda13029031a7ca622412abe.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/coatRackStanding.obj"
-dest_files=[ "res://.import/coatRackStanding.obj-359bc8c2415ecac01e280953f9813cb6.mesh", "res://.import/coatRackStanding.obj-359bc8c2415ecac01e280953f9813cb6.mesh" ]
+source_file="res://assets/Models/OBJ format/coatRackStanding.obj"
+dest_files=[ "res://.import/coatRackStanding.obj-bc24ddb5eda13029031a7ca622412abe.mesh", "res://.import/coatRackStanding.obj-bc24ddb5eda13029031a7ca622412abe.mesh" ]
 
 [params]
 

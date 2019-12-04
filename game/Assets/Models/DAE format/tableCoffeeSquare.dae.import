@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tableCoffeeSquare.dae-8b51d9cf54f973612bf683fa944f4524.scn"
+path="res://.import/tableCoffeeSquare.dae-d9ab38d1d2c39433d87acea2e01c3bae.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/tableCoffeeSquare.dae"
-dest_files=[ "res://.import/tableCoffeeSquare.dae-8b51d9cf54f973612bf683fa944f4524.scn" ]
+source_file="res://assets/Models/DAE format/tableCoffeeSquare.dae"
+dest_files=[ "res://.import/tableCoffeeSquare.dae-d9ab38d1d2c39433d87acea2e01c3bae.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/dryer.dae-1747d22e3a108a0e822c30e2e68935d0.scn"
+path="res://.import/dryer.dae-b5405572d5c8dee3f6c15b5adbd88fec.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/dryer.dae"
-dest_files=[ "res://.import/dryer.dae-1747d22e3a108a0e822c30e2e68935d0.scn" ]
+source_file="res://assets/Models/DAE format/dryer.dae"
+dest_files=[ "res://.import/dryer.dae-b5405572d5c8dee3f6c15b5adbd88fec.scn" ]
 
 [params]
 

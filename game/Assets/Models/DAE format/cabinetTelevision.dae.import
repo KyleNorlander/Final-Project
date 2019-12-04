@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cabinetTelevision.dae-f1b9df3578440804f43dc486f1aa9711.scn"
+path="res://.import/cabinetTelevision.dae-5d2aaca0afbf36ad5ca244ccc775df0a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/cabinetTelevision.dae"
-dest_files=[ "res://.import/cabinetTelevision.dae-f1b9df3578440804f43dc486f1aa9711.scn" ]
+source_file="res://assets/Models/DAE format/cabinetTelevision.dae"
+dest_files=[ "res://.import/cabinetTelevision.dae-5d2aaca0afbf36ad5ca244ccc775df0a.scn" ]
 
 [params]
 

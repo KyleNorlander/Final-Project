@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/bathroomCabinet.obj-d5cb0f1d69b03cd595d0c801e7beac8a.mesh"
+path="res://.import/bathroomCabinet.obj-a20cf0fc2137aa6f0f941a41c4b3f415.mesh"
 
 [deps]
 
-files=[ "res://.import/bathroomCabinet.obj-d5cb0f1d69b03cd595d0c801e7beac8a.mesh" ]
+files=[ "res://.import/bathroomCabinet.obj-a20cf0fc2137aa6f0f941a41c4b3f415.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/bathroomCabinet.obj"
-dest_files=[ "res://.import/bathroomCabinet.obj-d5cb0f1d69b03cd595d0c801e7beac8a.mesh", "res://.import/bathroomCabinet.obj-d5cb0f1d69b03cd595d0c801e7beac8a.mesh" ]
+source_file="res://assets/Models/OBJ format/bathroomCabinet.obj"
+dest_files=[ "res://.import/bathroomCabinet.obj-a20cf0fc2137aa6f0f941a41c4b3f415.mesh", "res://.import/bathroomCabinet.obj-a20cf0fc2137aa6f0f941a41c4b3f415.mesh" ]
 
 [params]
 

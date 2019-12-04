@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/rugSquare.obj-c50232332cd1f1e6cd0ecfbade5650f6.mesh"
+path="res://.import/rugSquare.obj-95aec13bd4d58f691ec81e9b64a7b3fc.mesh"
 
 [deps]
 
-files=[ "res://.import/rugSquare.obj-c50232332cd1f1e6cd0ecfbade5650f6.mesh" ]
+files=[ "res://.import/rugSquare.obj-95aec13bd4d58f691ec81e9b64a7b3fc.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/rugSquare.obj"
-dest_files=[ "res://.import/rugSquare.obj-c50232332cd1f1e6cd0ecfbade5650f6.mesh", "res://.import/rugSquare.obj-c50232332cd1f1e6cd0ecfbade5650f6.mesh" ]
+source_file="res://assets/Models/OBJ format/rugSquare.obj"
+dest_files=[ "res://.import/rugSquare.obj-95aec13bd4d58f691ec81e9b64a7b3fc.mesh", "res://.import/rugSquare.obj-95aec13bd4d58f691ec81e9b64a7b3fc.mesh" ]
 
 [params]
 

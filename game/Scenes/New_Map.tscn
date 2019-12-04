@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [gd_scene load_steps=177 format=2]
+=======
+
+>>>>>>> b7afae507416dab1e2cf420b2c9da6a02f4c19dd
 
 [ext_resource path="res://Assets/Models/naturePack_018.obj" type="ArrayMesh" id=1]
 [ext_resource path="res://Assets/Models/naturePack_001.obj" type="ArrayMesh" id=2]
@@ -92,6 +96,9 @@
 [sub_resource type="CubeMesh" id=1]
 
 [sub_resource type="SpatialMaterial" id=2]
+
+[sub_resource type="ConvexPolygonShape" id=35]
+points = PoolVector3Array( -1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, -1 )
 
 [sub_resource type="ConcavePolygonShape" id=3]
 data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
@@ -488,6 +495,7 @@ material/0 = SubResource( 2 )
 [node name="StaticBody" type="StaticBody" parent="Home_2"]
 
 [node name="CollisionShape" type="CollisionShape" parent="Home_2/StaticBody"]
+shape = SubResource( 35 )
 shape = SubResource( 11 )
 
 [node name="StaticBody2" type="StaticBody" parent="Home_2"]

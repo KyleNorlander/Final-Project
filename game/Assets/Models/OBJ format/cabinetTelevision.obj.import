@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh"
+path="res://.import/cabinetTelevision.obj-c05aefff18152bbb448f68dbf3eeeaea.mesh"
 
 [deps]
 
-files=[ "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh" ]
+files=[ "res://.import/cabinetTelevision.obj-c05aefff18152bbb448f68dbf3eeeaea.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/cabinetTelevision.obj"
-dest_files=[ "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh", "res://.import/cabinetTelevision.obj-ea65ba00167adc041c510986f3cff9e2.mesh" ]
+source_file="res://assets/Models/OBJ format/cabinetTelevision.obj"
+dest_files=[ "res://.import/cabinetTelevision.obj-c05aefff18152bbb448f68dbf3eeeaea.mesh", "res://.import/cabinetTelevision.obj-c05aefff18152bbb448f68dbf3eeeaea.mesh" ]
 
 [params]
 
