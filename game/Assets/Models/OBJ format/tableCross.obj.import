@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/tableCross.obj-307a59fe6b3bb39ee2e6855542cce0a0.mesh"
+path="res://.import/tableCross.obj-b1d98a0129115840c55a37c0a5a64e90.mesh"
 
 [deps]
 
-files=[ "res://.import/tableCross.obj-307a59fe6b3bb39ee2e6855542cce0a0.mesh" ]
+files=[ "res://.import/tableCross.obj-b1d98a0129115840c55a37c0a5a64e90.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/tableCross.obj"
-dest_files=[ "res://.import/tableCross.obj-307a59fe6b3bb39ee2e6855542cce0a0.mesh", "res://.import/tableCross.obj-307a59fe6b3bb39ee2e6855542cce0a0.mesh" ]
+source_file="res://assets/Models/OBJ format/tableCross.obj"
+dest_files=[ "res://.import/tableCross.obj-b1d98a0129115840c55a37c0a5a64e90.mesh", "res://.import/tableCross.obj-b1d98a0129115840c55a37c0a5a64e90.mesh" ]
 
 [params]
 

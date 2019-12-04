@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/pottedPlant.glb-fc9bc279bc533a5e11d70324130d1c03.scn"
+path="res://.import/pottedPlant.glb-1998932792905034e258f845e108ba4e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/pottedPlant.glb"
-dest_files=[ "res://.import/pottedPlant.glb-fc9bc279bc533a5e11d70324130d1c03.scn" ]
+source_file="res://assets/Models/GLTF format/pottedPlant.glb"
+dest_files=[ "res://.import/pottedPlant.glb-1998932792905034e258f845e108ba4e.scn" ]
 
 [params]
 

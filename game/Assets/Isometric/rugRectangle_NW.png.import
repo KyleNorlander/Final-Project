@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/rugRectangle_NW.png-3f9420b0b99d6cdb6aa98bf9f29032d0.stex"
+path="res://.import/rugRectangle_NW.png-dab13c985d7044ff69868f3248b65042.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/rugRectangle_NW.png"
-dest_files=[ "res://.import/rugRectangle_NW.png-3f9420b0b99d6cdb6aa98bf9f29032d0.stex" ]
+source_file="res://assets/Isometric/rugRectangle_NW.png"
+dest_files=[ "res://.import/rugRectangle_NW.png-dab13c985d7044ff69868f3248b65042.stex" ]
 
 [params]
 

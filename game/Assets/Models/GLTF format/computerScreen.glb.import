@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/computerScreen.glb-34aea33ba66e0d8cde2ef318ccdc2dad.scn"
+path="res://.import/computerScreen.glb-de7c9b58636318a3c6e1cb5338a3f399.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/computerScreen.glb"
-dest_files=[ "res://.import/computerScreen.glb-34aea33ba66e0d8cde2ef318ccdc2dad.scn" ]
+source_file="res://assets/Models/GLTF format/computerScreen.glb"
+dest_files=[ "res://.import/computerScreen.glb-de7c9b58636318a3c6e1cb5338a3f399.scn" ]
 
 [params]
 

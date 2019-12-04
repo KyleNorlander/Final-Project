@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/cardboardBoxClosed.png-0093a528801616df2f29fe8092d8542e.stex"
+path="res://.import/cardboardBoxClosed.png-234ac330fdfa6b9c0f4f2f6f8db8c5da.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/cardboardBoxClosed.png"
-dest_files=[ "res://.import/cardboardBoxClosed.png-0093a528801616df2f29fe8092d8542e.stex" ]
+source_file="res://assets/Side/cardboardBoxClosed.png"
+dest_files=[ "res://.import/cardboardBoxClosed.png-234ac330fdfa6b9c0f4f2f6f8db8c5da.stex" ]
 
 [params]
 

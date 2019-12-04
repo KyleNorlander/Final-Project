@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/kitchenMicrowave.glb-c323fc3a067955981e121343a94860de.scn"
+path="res://.import/kitchenMicrowave.glb-6bc43259cafc5f7ef45644befeebc5b0.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/kitchenMicrowave.glb"
-dest_files=[ "res://.import/kitchenMicrowave.glb-c323fc3a067955981e121343a94860de.scn" ]
+source_file="res://assets/Models/GLTF format/kitchenMicrowave.glb"
+dest_files=[ "res://.import/kitchenMicrowave.glb-6bc43259cafc5f7ef45644befeebc5b0.scn" ]
 
 [params]
 

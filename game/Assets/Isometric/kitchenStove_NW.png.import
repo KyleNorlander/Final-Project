@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenStove_NW.png-520cdeace6345584b2206dfe700adf0a.stex"
+path="res://.import/kitchenStove_NW.png-f3cd8bd13805fc451da028f8f41319bd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenStove_NW.png"
-dest_files=[ "res://.import/kitchenStove_NW.png-520cdeace6345584b2206dfe700adf0a.stex" ]
+source_file="res://assets/Isometric/kitchenStove_NW.png"
+dest_files=[ "res://.import/kitchenStove_NW.png-f3cd8bd13805fc451da028f8f41319bd.stex" ]
 
 [params]
 

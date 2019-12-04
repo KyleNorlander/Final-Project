@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/stoolBarSquare.obj-4580eeb99aeecffd71032ed123ea2709.mesh"
+path="res://.import/stoolBarSquare.obj-551224a960eed5b7cfb779c3b1fb46a6.mesh"
 
 [deps]
 
-files=[ "res://.import/stoolBarSquare.obj-4580eeb99aeecffd71032ed123ea2709.mesh" ]
+files=[ "res://.import/stoolBarSquare.obj-551224a960eed5b7cfb779c3b1fb46a6.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/stoolBarSquare.obj"
-dest_files=[ "res://.import/stoolBarSquare.obj-4580eeb99aeecffd71032ed123ea2709.mesh", "res://.import/stoolBarSquare.obj-4580eeb99aeecffd71032ed123ea2709.mesh" ]
+source_file="res://assets/Models/OBJ format/stoolBarSquare.obj"
+dest_files=[ "res://.import/stoolBarSquare.obj-551224a960eed5b7cfb779c3b1fb46a6.mesh", "res://.import/stoolBarSquare.obj-551224a960eed5b7cfb779c3b1fb46a6.mesh" ]
 
 [params]
 

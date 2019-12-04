@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/computerMouse.obj-e5d8c80ffcb88b6090bb18934bd941e4.mesh"
+path="res://.import/computerMouse.obj-181149d769c4b84850dca35c38ae1640.mesh"
 
 [deps]
 
-files=[ "res://.import/computerMouse.obj-e5d8c80ffcb88b6090bb18934bd941e4.mesh" ]
+files=[ "res://.import/computerMouse.obj-181149d769c4b84850dca35c38ae1640.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/computerMouse.obj"
-dest_files=[ "res://.import/computerMouse.obj-e5d8c80ffcb88b6090bb18934bd941e4.mesh", "res://.import/computerMouse.obj-e5d8c80ffcb88b6090bb18934bd941e4.mesh" ]
+source_file="res://assets/Models/OBJ format/computerMouse.obj"
+dest_files=[ "res://.import/computerMouse.obj-181149d769c4b84850dca35c38ae1640.mesh", "res://.import/computerMouse.obj-181149d769c4b84850dca35c38ae1640.mesh" ]
 
 [params]
 

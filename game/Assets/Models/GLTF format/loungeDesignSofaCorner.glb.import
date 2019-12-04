@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeDesignSofaCorner.glb-0decf7dd83ce1bd2fc1261ac495c3bc7.scn"
+path="res://.import/loungeDesignSofaCorner.glb-a1d1836423fa9c2a2825f387603e53e9.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/loungeDesignSofaCorner.glb"
-dest_files=[ "res://.import/loungeDesignSofaCorner.glb-0decf7dd83ce1bd2fc1261ac495c3bc7.scn" ]
+source_file="res://assets/Models/GLTF format/loungeDesignSofaCorner.glb"
+dest_files=[ "res://.import/loungeDesignSofaCorner.glb-a1d1836423fa9c2a2825f387603e53e9.scn" ]
 
 [params]
 

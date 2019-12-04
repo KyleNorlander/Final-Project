@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugRectangle.dae-009c37f4afca40371a3785d64b9781e2.scn"
+path="res://.import/rugRectangle.dae-571c319207a643e3b7c52f18ce36eb01.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/rugRectangle.dae"
-dest_files=[ "res://.import/rugRectangle.dae-009c37f4afca40371a3785d64b9781e2.scn" ]
+source_file="res://assets/Models/DAE format/rugRectangle.dae"
+dest_files=[ "res://.import/rugRectangle.dae-571c319207a643e3b7c52f18ce36eb01.scn" ]
 
 [params]
 

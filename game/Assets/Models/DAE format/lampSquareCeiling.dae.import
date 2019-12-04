@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampSquareCeiling.dae-4c4acfa1a266f98ab2b811d1d8515e90.scn"
+path="res://.import/lampSquareCeiling.dae-c2861f4927754c14ba4fa1d10148c570.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/lampSquareCeiling.dae"
-dest_files=[ "res://.import/lampSquareCeiling.dae-4c4acfa1a266f98ab2b811d1d8515e90.scn" ]
+source_file="res://assets/Models/DAE format/lampSquareCeiling.dae"
+dest_files=[ "res://.import/lampSquareCeiling.dae-c2861f4927754c14ba4fa1d10148c570.scn" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenSink_SE.png-35ce8a4b0c8d2337c730019d7237605b.stex"
+path="res://.import/kitchenSink_SE.png-105dd6963db63a79354f2f40265ac81c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/kitchenSink_SE.png"
-dest_files=[ "res://.import/kitchenSink_SE.png-35ce8a4b0c8d2337c730019d7237605b.stex" ]
+source_file="res://assets/Isometric/kitchenSink_SE.png"
+dest_files=[ "res://.import/kitchenSink_SE.png-105dd6963db63a79354f2f40265ac81c.stex" ]
 
 [params]
 

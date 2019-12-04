@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallWindowSlide.dae-df4c224c3864df0b20cfa107d13c1170.scn"
+path="res://.import/wallWindowSlide.dae-d9e0ed549ff237763aef5b6c585870b1.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/wallWindowSlide.dae"
-dest_files=[ "res://.import/wallWindowSlide.dae-df4c224c3864df0b20cfa107d13c1170.scn" ]
+source_file="res://assets/Models/DAE format/wallWindowSlide.dae"
+dest_files=[ "res://.import/wallWindowSlide.dae-d9e0ed549ff237763aef5b6c585870b1.scn" ]
 
 [params]
 

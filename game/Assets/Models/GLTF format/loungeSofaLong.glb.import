@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/loungeSofaLong.glb-d62d2c8170e3082d592a6d9c9e67f8e8.scn"
+path="res://.import/loungeSofaLong.glb-958cd3c4779421fb06e8ae1172b26a63.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/loungeSofaLong.glb"
-dest_files=[ "res://.import/loungeSofaLong.glb-d62d2c8170e3082d592a6d9c9e67f8e8.scn" ]
+source_file="res://assets/Models/GLTF format/loungeSofaLong.glb"
+dest_files=[ "res://.import/loungeSofaLong.glb-958cd3c4779421fb06e8ae1172b26a63.scn" ]
 
 [params]
 

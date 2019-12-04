@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/loungeDesignSofaCorner.png-39e28e904203605eca66a3f94d32e7d2.stex"
+path="res://.import/loungeDesignSofaCorner.png-a79743b28d6cf26f06f8cf7eb3d0183d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/loungeDesignSofaCorner.png"
-dest_files=[ "res://.import/loungeDesignSofaCorner.png-39e28e904203605eca66a3f94d32e7d2.stex" ]
+source_file="res://assets/Side/loungeDesignSofaCorner.png"
+dest_files=[ "res://.import/loungeDesignSofaCorner.png-a79743b28d6cf26f06f8cf7eb3d0183d.stex" ]
 
 [params]
 

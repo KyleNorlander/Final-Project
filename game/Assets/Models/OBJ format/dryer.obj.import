@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/dryer.obj-a773719d340056262739c16d1db82e00.mesh"
+path="res://.import/dryer.obj-cc470ac78c1833026b8e85ecad6cc2a8.mesh"
 
 [deps]
 
-files=[ "res://.import/dryer.obj-a773719d340056262739c16d1db82e00.mesh" ]
+files=[ "res://.import/dryer.obj-cc470ac78c1833026b8e85ecad6cc2a8.mesh" ]
 
-source_file="res://Assets/Models/OBJ format/dryer.obj"
-dest_files=[ "res://.import/dryer.obj-a773719d340056262739c16d1db82e00.mesh", "res://.import/dryer.obj-a773719d340056262739c16d1db82e00.mesh" ]
+source_file="res://assets/Models/OBJ format/dryer.obj"
+dest_files=[ "res://.import/dryer.obj-cc470ac78c1833026b8e85ecad6cc2a8.mesh", "res://.import/dryer.obj-cc470ac78c1833026b8e85ecad6cc2a8.mesh" ]
 
 [params]
 

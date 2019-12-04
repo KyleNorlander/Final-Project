@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lampSquareTable.glb-cc420f62e67b7c90a0ad486b5b451e28.scn"
+path="res://.import/lampSquareTable.glb-d924ba2815ea3f11d63cd25645692fe9.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/lampSquareTable.glb"
-dest_files=[ "res://.import/lampSquareTable.glb-cc420f62e67b7c90a0ad486b5b451e28.scn" ]
+source_file="res://assets/Models/GLTF format/lampSquareTable.glb"
+dest_files=[ "res://.import/lampSquareTable.glb-d924ba2815ea3f11d63cd25645692fe9.scn" ]
 
 [params]
 

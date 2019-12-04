@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tableRound_SE.png-8cd1857715317af5fcef27b3afe03a6f.stex"
+path="res://.import/tableRound_SE.png-4974c3b9eff457b15bbb2ef1811bcb5b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/tableRound_SE.png"
-dest_files=[ "res://.import/tableRound_SE.png-8cd1857715317af5fcef27b3afe03a6f.stex" ]
+source_file="res://assets/Isometric/tableRound_SE.png"
+dest_files=[ "res://.import/tableRound_SE.png-4974c3b9eff457b15bbb2ef1811bcb5b.stex" ]
 
 [params]
 

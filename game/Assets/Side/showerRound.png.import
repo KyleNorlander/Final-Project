@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/showerRound.png-156c569d3cacf2971722b7591a6370f0.stex"
+path="res://.import/showerRound.png-4e388abf26bd593775701dc831713a83.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/showerRound.png"
-dest_files=[ "res://.import/showerRound.png-156c569d3cacf2971722b7591a6370f0.stex" ]
+source_file="res://assets/Side/showerRound.png"
+dest_files=[ "res://.import/showerRound.png-4e388abf26bd593775701dc831713a83.stex" ]
 
 [params]
 

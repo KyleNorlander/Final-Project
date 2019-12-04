@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/dryer.glb-4977c1e3c9785f3a7d52d70165e943ce.scn"
+path="res://.import/dryer.glb-43dfbfda077fa3100a96f9e95dc7a0e6.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/dryer.glb"
-dest_files=[ "res://.import/dryer.glb-4977c1e3c9785f3a7d52d70165e943ce.scn" ]
+source_file="res://assets/Models/GLTF format/dryer.glb"
+dest_files=[ "res://.import/dryer.glb-43dfbfda077fa3100a96f9e95dc7a0e6.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugSquare.dae-3dcbaaf88e8b8455bbb274d175faec64.scn"
+path="res://.import/rugSquare.dae-f56cd902b6a880c3d8a38db45186f87a.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/rugSquare.dae"
-dest_files=[ "res://.import/rugSquare.dae-3dcbaaf88e8b8455bbb274d175faec64.scn" ]
+source_file="res://assets/Models/DAE format/rugSquare.dae"
+dest_files=[ "res://.import/rugSquare.dae-f56cd902b6a880c3d8a38db45186f87a.scn" ]
 
 [params]
 

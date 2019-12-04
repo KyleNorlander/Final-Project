@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rugRounded.glb-a50b9c4982bf6fb35749cfe9862a6352.scn"
+path="res://.import/rugRounded.glb-db58cd1244c7e454850c74141603b834.scn"
 
 [deps]
 
-source_file="res://Assets/Models/GLTF format/rugRounded.glb"
-dest_files=[ "res://.import/rugRounded.glb-a50b9c4982bf6fb35749cfe9862a6352.scn" ]
+source_file="res://assets/Models/GLTF format/rugRounded.glb"
+dest_files=[ "res://.import/rugRounded.glb-db58cd1244c7e454850c74141603b834.scn" ]
 
 [params]
 

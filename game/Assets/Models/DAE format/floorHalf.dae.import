@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/floorHalf.dae-e5e145007159b15942141e9b9ccc24c0.scn"
+path="res://.import/floorHalf.dae-cfee180a58b174ba7c18894ec7869ae0.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/floorHalf.dae"
-dest_files=[ "res://.import/floorHalf.dae-e5e145007159b15942141e9b9ccc24c0.scn" ]
+source_file="res://assets/Models/DAE format/floorHalf.dae"
+dest_files=[ "res://.import/floorHalf.dae-cfee180a58b174ba7c18894ec7869ae0.scn" ]
 
 [params]
 

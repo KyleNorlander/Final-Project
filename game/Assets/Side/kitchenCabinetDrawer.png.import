@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kitchenCabinetDrawer.png-83281e63ecb9b2257b516e8f1970a4d9.stex"
+path="res://.import/kitchenCabinetDrawer.png-6197d571a28876a56acf87e81df3f559.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Side/kitchenCabinetDrawer.png"
-dest_files=[ "res://.import/kitchenCabinetDrawer.png-83281e63ecb9b2257b516e8f1970a4d9.stex" ]
+source_file="res://assets/Side/kitchenCabinetDrawer.png"
+dest_files=[ "res://.import/kitchenCabinetDrawer.png-6197d571a28876a56acf87e81df3f559.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sideTableDrawers_SW.png-fc047ea5161a0b3a5694ec1eea6f3d35.stex"
+path="res://.import/sideTableDrawers_SW.png-dce359e7a12cdbe13e51c3d1709cfcae.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/sideTableDrawers_SW.png"
-dest_files=[ "res://.import/sideTableDrawers_SW.png-fc047ea5161a0b3a5694ec1eea6f3d35.stex" ]
+source_file="res://assets/Isometric/sideTableDrawers_SW.png"
+dest_files=[ "res://.import/sideTableDrawers_SW.png-dce359e7a12cdbe13e51c3d1709cfcae.stex" ]
 
 [params]
 

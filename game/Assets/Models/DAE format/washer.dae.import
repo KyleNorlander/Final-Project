@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/washer.dae-30d0849a6e2624269d347f2c8be1e926.scn"
+path="res://.import/washer.dae-c2205e3bbe0947afe20522cf84216e3e.scn"
 
 [deps]
 
-source_file="res://Assets/Models/DAE format/washer.dae"
-dest_files=[ "res://.import/washer.dae-30d0849a6e2624269d347f2c8be1e926.scn" ]
+source_file="res://assets/Models/DAE format/washer.dae"
+dest_files=[ "res://.import/washer.dae-c2205e3bbe0947afe20522cf84216e3e.scn" ]
 
 [params]
 

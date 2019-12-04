@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/washer_NE.png-741e5b32c58970c3ad0b37dca4c907a9.stex"
+path="res://.import/washer_NE.png-d2b2b3c0b14b07bd4437fb22dcc317ce.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/washer_NE.png"
-dest_files=[ "res://.import/washer_NE.png-741e5b32c58970c3ad0b37dca4c907a9.stex" ]
+source_file="res://assets/Isometric/washer_NE.png"
+dest_files=[ "res://.import/washer_NE.png-d2b2b3c0b14b07bd4437fb22dcc317ce.stex" ]
 
 [params]
 

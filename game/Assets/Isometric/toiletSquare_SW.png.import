@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/toiletSquare_SW.png-bb729f856367a3cae0e4af0a1de73d87.stex"
+path="res://.import/toiletSquare_SW.png-b0805c448230823c6f2d07d3491b94c7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Isometric/toiletSquare_SW.png"
-dest_files=[ "res://.import/toiletSquare_SW.png-bb729f856367a3cae0e4af0a1de73d87.stex" ]
+source_file="res://assets/Isometric/toiletSquare_SW.png"
+dest_files=[ "res://.import/toiletSquare_SW.png-b0805c448230823c6f2d07d3491b94c7.stex" ]
 
 [params]
 
