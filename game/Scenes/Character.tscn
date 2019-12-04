@@ -25,3 +25,8 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.418949, 0 )
 
 [node name="Camera" type="Camera" parent="Pivot"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.22658, 0 )
+
+[node name="flashlight" type="OmniLight" parent="Pivot"]
+transform = Transform( 1.33333, 0, 0, 0, 1.33333, 0, 0, 0, 1.33333, 0, 1.22377, -0.222255 )
+light_color = Color( 1, 1, 0.831373, 1 )
+light_energy = 2.7

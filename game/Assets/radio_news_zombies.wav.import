@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/radio_news_zombies.wav-ae4231d2fbd580f05735a5b290c16332.sample"
+
+[deps]
+
+source_file="res://Assets/radio_news_zombies.wav"
+dest_files=[ "res://.import/radio_news_zombies.wav-ae4231d2fbd580f05735a5b290c16332.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

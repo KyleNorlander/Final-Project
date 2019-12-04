@@ -8,7 +8,7 @@ func _process(delta):
 	
 	if ms <=0:
 		s = s - 1
-		ms = 60
+		ms = 30
 		
 	
 	if s <= 0:
@@ -21,7 +21,11 @@ func _process(delta):
 	else:
 		set_text(str(m)+':'+str(s))
 	ms = ms - 1
-		
+	if m == 0:
+		if s == 0:
+			if ms == 0:
+				#get_tree().change_scene("res://Scenes/End.tscn")
+				pass # FIX ABOVE CORRECT END SCENE
 		
 	
 func _on_Timer_timeout():

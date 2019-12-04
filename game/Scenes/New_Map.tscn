@@ -5120,7 +5120,7 @@ shape = SubResource( 79 )
 
 [node name="naturePack_160" type="MeshInstance" parent="."]
 editor/display_folded = true
-transform = Transform( -0.812679, 0.0665038, 0.578904, 0.0551778, 0.997785, -0.0371646, -0.580093, 0.00173972, -0.814549, 16.3148, 5.45186, 5.38599 )
+transform = Transform( -0.812679, 0.0665038, 0.578904, 0.0551778, 0.997785, -0.0371646, -0.580093, 0.00173972, -0.814549, 16.3148, 4.85375, 5.38599 )
 mesh = ExtResource( 48 )
 material/0 = null
 
@@ -5131,7 +5131,7 @@ shape = SubResource( 79 )
 
 [node name="naturePack_184" type="MeshInstance" parent="."]
 editor/display_folded = true
-transform = Transform( -0.994395, 0.0515521, -0.0923067, 0.0551778, 0.997785, -0.0371646, 0.0901858, -0.0420495, -0.995037, 18.1486, 5.45186, 6.88917 )
+transform = Transform( -0.994395, 0.0515521, -0.0923067, 0.0551778, 0.997785, -0.0371646, 0.0901858, -0.0420495, -0.995037, 18.1483, 4.94553, 6.88885 )
 mesh = ExtResource( 48 )
 material/0 = null
 

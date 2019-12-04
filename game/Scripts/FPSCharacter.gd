@@ -61,26 +61,28 @@ func _physics_process(delta):
 	# true so you don't slide back down the ramp
 	if jump and is_on_floor():
 		velocity.y = jump_speed
+	item_get()
+	once_bitten()
 		
 		
 func once_bitten():
 	#pseudocode below
 	#
 	#if colliding with enemy:
-	#	speed = speed - (speed/3)
-	pass
+	#	speed = speed - (speed/2)
+	if speed < 0.25:
+	#	get_tree().change_scene("res://Scenes/End.tscn") # Placeholders until game over screen exists
+		pass # delete after
 	
 func item_get():
-	if get_node("Body").get_collider() == get_parent().get_node("Key").get_node("RayCast"):
+	if get_tree().has_group("key"):
+		pass
+	else:
 		keygot = true
-		print("YOU GOT A KEY!")
-	if get_node("Body").get_collider() == get_parent().get_node("Fuse").get_node("RayCast"):
-		fusegot = true
-		print("LET THERE BE LIGHT!")
-		# FUSE FLIPS HERE
-		
-func kill():
-	pass
-	### Eventually this will restart the game when the player dies.
+	if keygot == true:
+		if get_tree().has_group("fuse"):
+			pass
+		else:
+			fusegot = true
 
 

@@ -10,8 +10,9 @@ func _ready():
 
 func _physics_process(delta):
 	if get_node("RayCast").get_collider():
-		print("OK")
+		print("OK YOU GOT A KEY")
 		queue_free()
+		get_parent().get_node("Character").keygot == true
 #	if raycast.is_colliding():
 #		var coll = raycast.get_collider()
 #		if coll.name == "Character":
